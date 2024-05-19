@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Test de la Policía Nacional</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+</head>
+<body>
+    <header>
+        <h1><i class="fas fa-shield-alt"></i> Test de la Policía Nacional</h1>
+        <h6>By Guillermo Benítez Márquez</h6>
+    </header>
+    <main>
+        <div class="options">
+            <select id="questionCount" class="dropdown">
+                <option value="15">15 Preguntas</option>
+                <option value="25">25 Preguntas</option>
+                <option value="50">50 Preguntas</option>
+                <option value="100">100 Preguntas</option>
+            </select>
+            <button id="testButton" class="button"><i class="fas fa-edit"></i> Realizar Test</button>
+            <button id="viewAllButton" class="button"><i class="fas fa-eye"></i> Ver Todas las Preguntas</button>
+        </div>
+        <div id="testSection" class="hidden section"></div>
+        <div id="allQuestionsSection" class="hidden section"></div>
+    </main>
+    <script src="scripts.js"></script>
+</body>
+</html>
