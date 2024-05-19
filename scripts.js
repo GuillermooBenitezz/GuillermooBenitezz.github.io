@@ -133,6 +133,76 @@ const questions = [
         "C. Aculturación."],
         correctAnswer: "A"
     },
+    {
+        question: "¿Quién declara la vacante en el cargo del Defensor del Pueblo por muerte, renuncia o expiración del plazo de mandato?:",
+        options: ["A. El presidente del Congreso de los Diputados.", 
+        "B. Las tres quintas partes de los componentes de cada cámara.", 
+        "C. El presidente del Senado."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El plazo de presentación del recurso de amparo contra los actos de los órganos ejecutivos colegiados de las comunidades autónomas, de sus autoridades, funcionarios o agentes es de:",
+        options: ["A. 20 días siguientes a la notificación de la resolución recaída en el proceso judicial previo.", 
+        "B. 30 días a partir de la notificación de la resolución recaída en el proceso judicial previo.", 
+        "C. 3 meses desde que, con arreglo a las normas internas de las Cámaras o Asambleas, dichos actos sean firmes."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La carencia de la autorización de residencia y trabajo, sin perjuicio de las responsabilidades del empresario a que dé lugar, incluidas las de Seguridad Social:",
+        options: ["A. Invalidará el contrato de trabajo con respecto a los derechos del trabajador extranjero.", 
+        "B. No invalidará el contrato de trabajo con respecto a los derechos del trabajador civil extranjero.", 
+        "C. Será obstáculo para la obtención de las prestaciones derivadas de supuestos contemplados por los convenios internacionales de protección de los trabajadores u otras que pudieran corresponderle, siempre que sean compatibles con su situación."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Las relaciones del Ministerio del Interior con las Delegaciones y Subdelegaciones del Gobierno en cuestiones relacionadas con la protección internacional, corresponde a:",
+        options: ["A. Dirección General de Política Interior.", 
+        "B. Secretaría General Técnica.", 
+        "C. Subsecretario de Interior."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Dentro de una empresa de seguridad, en cuya plantilla están integradas ¿quién realiza las funciones de organización, dirección e inspección del personal y servicios de seguridad privada?:",
+        options: ["A. Directores de seguridad.", 
+        "B. Jefes de seguridad.", 
+        "C. Vigilantes de seguridad."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Según el Real Decreto 67/2010 sobre adaptación de la Prevención de Riesgos Laborales en la Administración general del Estado, el órgano específico de participación y negociación de las organizaciones sindicales en materia de prevención de riesgos laborales será:",
+        options: ["A. El Comité de Seguridad y Salud en el Trabajo.", 
+        "B. La Inspección de Personal de Servicios y Servicios de Seguridad.", 
+        "C. La Comisión Técnica de Prevención de Riesgos Laborales."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La presidencia del Consejo Superior de Tráfico, Seguridad Vial y Movilidad Sostenible corresponde al:",
+        options: ["A. Subsecretario de Estado de Seguridad.", 
+        "B. Subsecretario del Interior.", 
+        "C. Ministerio del Interior."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El Tribunal de Justicia de la Unión Europea está compuesto por:",
+        options: ["A. Un juez por Estado miembro y está asimismo asistido por 27 abogados generales.", 
+        "B. Dos jueces por Estado miembro y están asistidos por 27 abogados generales.", 
+        "C. Un juez por Estado miembro y está asimismo asistido por 11 abogados generales."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Cómo acuña, Daniel Cougeau, el término 'Espacio de vida' relacionado con las migraciones?",
+        options: ["A. Como el conjunto de lugares que frecuenta un individuo, polarizados por el domicilio y el trabajo.", 
+        "B. Como el conjunto de servicios que contrata un individuo, polarizados por el domicilio y el trabajo.", 
+        "C. Ambas son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El proceso que implica un “contacto estrecho de los inmigrantes con la población autóctona cuyo resultado es la adquisición por parte de los primeros de la cultura de la sociedad receptora, eliminando todo vestigio de su cultura de origen”, recibe el nombre de:",
+        options: ["A. Asimilación.", 
+        "B. Integración.", 
+        "C. Segregación."],
+        correctAnswer: "A"
+    },
     // Agrega más preguntas aquí
 ];
 
@@ -219,7 +289,10 @@ function showAllQuestions() {
         questionElement.innerHTML = `
             <p>${q.question}</p>
             <ul>
-                ${q.options.map(option => `<li>${option}</li>`).join("")}
+                ${q.options.map(option => {
+                    const isCorrect = option.startsWith(q.correctAnswer);
+                    return `<li class="${isCorrect ? 'correct' : ''}">${option}</li>`;
+                }).join("")}
             </ul>
         `;
         allQuestionsSection.appendChild(questionElement);
