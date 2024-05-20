@@ -239,38 +239,41 @@ function showTestQuestions() {
         `;
         questionElement.querySelector("ul").addEventListener("click", function(event) {
             if (event.target.tagName === "LI") {
-                const selectedAnswer = event.target.textContent.trim().split(".")[0];
-                if (selectedAnswer === q.correctAnswer) {
+                const selectedOption = event.target.textContent;
+                const correctOption = q.options.find(option => option.startsWith(q.correctAnswer));
+                const isCorrect = selectedOption.startsWith(q.correctAnswer);
+
+                if (isCorrect) {
                     event.target.classList.add("correct");
                     correctAnswers++;
                 } else {
                     event.target.classList.add("incorrect");
                     incorrectAnswers++;
-                    Array.from(questionElement.querySelectorAll("li")).forEach(li => {
-                        if (li.textContent.trim().split(".")[0] === q.correctAnswer) {
-                            li.classList.add("correct");
-                        }
-                    });
                 }
+
+                Array.from(this.children).forEach(li => {
+                    if (li.textContent.startsWith(q.correctAnswer)) {
+                        li.classList.add("correct");
+                    } else {
+                        li.classList.add("incorrect");
+                    }
+                    li.style.pointerEvents = "none";
+                });
+
                 answeredQuestions++;
-                questionElement.querySelector("ul").removeEventListener("click", arguments.callee);
-                if (answeredQuestions === shuffledQuestions.length) {
-                    updateNote();
+                if (answeredQuestions === questionCount) {
+                    const score = ((correctAnswers - (incorrectAnswers / 2)) / questionCount) * 10;
+                    const noteSection = document.createElement("div");
+                    noteSection.innerHTML = `<p>Nota final: <strong>${score.toFixed(2)}</strong></p>`;
+                    noteSection.className = 'note-section';
+                    testSection.appendChild(noteSection);
                 }
             }
         });
         testSection.appendChild(questionElement);
     });
-    testSection.classList.remove("hidden");
 
-    function updateNote() {
-        const totalQuestions = shuffledQuestions.length;
-        const score = ((correctAnswers - (incorrectAnswers / 2)) / totalQuestions) * 10;
-        const noteSection = document.createElement("div");
-        noteSection.innerHTML = `<p>Nota final: <strong>${score.toFixed(2)}</strong></p>`;
-        noteSection.className = 'note-section';
-        testSection.appendChild(noteSection);
-    }
+    testSection.classList.remove("hidden");
 }
 
 function showAllQuestions() {
