@@ -106,13 +106,6 @@ const questions = [
         correctAnswer: "A"
     },
     {
-        question: "Conectan las ruedas de cada eje en un turismo y sirven para controlar la inclinación del coche en las curvas, evitando así una salida no deseada:",
-        options: ["A. Barras de torsión.", 
-        "B. Barras estabilizadoras.", 
-        "C. Resortes."],
-        correctAnswer: "B"
-    },
-    {
         question: "El delito de extorsión es un delito de:",
         options: ["A. Peligro.", 
         "B. Resultado.", 
@@ -203,7 +196,153 @@ const questions = [
         "C. Segregación."],
         correctAnswer: "A"
     },
-    // Agrega más preguntas aquí
+    {
+        question: "Según el RD 1325/2003, de 24 de octubre, por el que se aprueba el reglamento del régimen de protección temporal en caso de afluencia masiva de personas desplazadas,para casos de afluencia de personas de forma espontánea a nuestras fronteras. En este procedimiento, el Ministro del Interior:",
+        options: ["A. Elevará a la Comisión Interministerial de Extranjería una propuesta para acordar el régimen de protección temporal si procede.", 
+        "B. Elevará al Consejo de Ministros la recomendación, en su caso, de solicitar a la Comisión Europea la presentación de una propuesta al Consejo de la Unión Europea para que tome la decisión sobre la existencia de una afluencia masiva de personas desplazadas.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿A qué órgano transmitirá el Tribunal Europeo de Derechos Humanos la sentencia definitiva para que vele por su ejecución?",
+        options: ["A. El Comité de Ministros.", 
+        "B. Al Consejo Económico y Social.", 
+        "C. Al Parlamento Europeo."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señala la respuesta correcta:",
+        options: ["A. El objetivo de la socialización estriba en la conseguir una posición social.", 
+        "B. El objetivo de la socialización estriba en la formación de la personalidad.", 
+        "C. El objetivo de la socialización estriba en la enculturación, la aculturación y la transculturación."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La LSP considera a la conexión a centrales receptoras de alarmas de sistemas de prevención o protección contra Incendios o de alarmas de tipo técnico o asistencial, o de sistemas o servicios de control o mantenimiento una actividad:",
+        options: ["A. De seguridad privada.", 
+        "B. Compatible.", 
+        "C. Incompatible."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Para Milton Rokeach",
+        options: ["A. La figura es el fondo ", 
+        "B. La figura es la forma.", 
+        "C. La figura es el fin."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Cuando una propuesta normativa afecte a la organización administrativa de la Administración General del Estado, a su régimen de personal, procedimientos y a la inspección de los servicios, será necesario:",
+        options: ["A. Recabar la aprobación previa del Ministerio de Política Territorial antes de ser sometidas al órgano competente para promulgarlos.", 
+        "B. Informe previo del Ministerio de Política Territorial.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "A"
+    },  
+    {
+        question: "A los efectos de la LSP, los despachos de detectives se consideran:",
+        options: ["A. Empresa de seguridad privada.", 
+        "B. Prestadores de servicios de seguridad privada.", 
+        "C. Personal acreditado."],
+        correctAnswer: "B"
+    },   
+    {
+        question: "Con respecto a la acción popular en la administración de justicia, la Constitución española establece en su artículo 125:",
+        options: ["A. Que podrá participarse en la administración de justicia por medio de la institución del Jurado.", 
+        "B. La Constitución también contempla la participación en los tribunales consuetudinarios y tradicionales.", 
+        "C. Ambas respuestas son correctas."],
+        correctAnswer: "C"
+    }, 
+    {
+        question: "La verdadera tolerancia:",
+        options: ["A. Discrepa pero respeta.", 
+        "B. Aprueba pero no justifica.", 
+        "C. Justifica pero no aprueba."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Indique cuál de los servicios de vigilancia y protección no pueden prestarse fuera de los edificios, de las instalaciones o propiedades sin necesidad de autorización previa:",
+        options: ["A. La retirada y reposición de fondos en cajeros automáticos, así como la prestación de servicios de vigilancia y protección de los mismos durante las citadas operaciones, o en las de reparación de averías.", 
+        "B. Los desplazamientos al exterior de los inmuebles objeto de protección para la realización de actividades directamente relacionadas con las funciones de vigilancia y seguridad de dichos inmuebles.", 
+        "C. La vigilancia en acontecimientos culturales, deportivos o cualquier otro evento de relevancia social que se desarrolle en vías o espacios públicos o de uso común, en coordinación, en todo caso, con las Fuerzas y Cuerpos de Seguridad."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El desarrollo del conocimiento aprovechando la capacidad del ser humano de adaptarse al medio ambiente, es el fundamento de:",
+        options: ["A. Teoría de la imitación.", 
+        "B. Teoría del conductismo.", 
+        "C. Teoría del desarrollo cognitivo."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿En qué casos le corresponde la competencia sancionadora al Secretario de Estado de Seguridad?",
+        options: ["A. Inducir, promover, favorecer o facilitar con ánimo de lucro, individualmente o formando parte de una organización, la inmigración clandestina de personas en tránsito o con destino al territorio español o su permanencia en el mismo, siempre que el hecho no constituya delito.", 
+        "B. La comisión de una tercera infracción grave siempre que en un plazo de un año anterior hubiera sido sancionado por dos faltas graves de la misma naturaleza.", 
+        "C. En los supuestos de participación en actividades contrarias a la seguridad nacional o que pueden perjudicar las relaciones de España con otros países."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La inclinación del respaldo, manteniendo una posición vertical sin llegar a esta, debe estar en torno a los:",
+        options: ["A. 90º y 100º.", 
+        "B. 100º y 110º.", 
+        "C. 110º y 120º."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La palabra 'Derecho' posee varias acepciones, cuando se refiere al hecho que consiste en dar a cada uno lo suyo, la palabra Derecho aparece como equivalente a:",
+        options: ["A. Orden normativo por el que se rige una sociedad.", 
+        "B. Orden Jurídico o Justicia.", 
+        "C. Conjunto de normas atribuidas a una persona."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La Iglesia es un agente de control social:",
+        options: ["A. Formal.", 
+        "B. Informal.", 
+        "C. Religioso."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Señale la opción incorrecta en relación a las causas de denegación de las solicitudes realizadas en puestos transfronterizos:",
+        options: ["A. Cuando no corresponda a España su examen de conformidad con los convenios internacionales en que sea Parte.", 
+        "B. Que planteen exclusivamente cuestiones que no guarden relación con el examen de los requisitos para el reconocimiento de la condición de refugiado o la concesión de la protección subsidiaria.", 
+        "C. Que la persona solicitante incurra en alguno de los supuestos de exclusión o de denegación."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Cuando Ia devolución no se pudiera ejecutar en el plazo de 72 horas, ¿qué medida se podrá solicitar de la autoridad judicial?",
+        options: ["A. La medida de expulsión.", 
+        "B. La medida de autorización de residencia provisional por circunstancias excepcionales.", 
+        "C. La medida de internamiento prevista para los expedientes de expulsión."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quién relaciona las actitudes con el sistema nervioso?:",
+        options: ["A. Rockeach.", 
+        "B. Newcomb.", 
+        "C. Allport."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Los valores influyen en la toma de decisiones:",
+        options: ["A. No. Lo que influyen son las actitudes.", 
+        "B. Si, aunque son abstractos.", 
+        "C. Sí, porque son concretos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quién asume la responsabilidad de daños o lesiones a terceros causados por un vehículo policial circulando con carácter de urgencia?",
+        options: ["A. El conductor de dicho vehículo.", 
+        "B. La dotación policial de dicho vehículo.", 
+        "C. El cuerpo policial al que pertenezca dicho vehículo."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El periodo de internamiento se mantendrá por el tiempo imprescindible para los fines del expediente y no podrá exceder en ningún caso:",
+        options: ["A. De 90 días.", 
+        "B. De dos meses.", 
+        "C. De sesenta días."],
+        correctAnswer: "C"
+    },
 ];
 
 // Función para mezclar preguntas
@@ -279,15 +418,12 @@ function showTestQuestions() {
 function showAllQuestions() {
     const testSection = document.getElementById("testSection");
     const allQuestionsSection = document.getElementById("allQuestionsSection");
-    const questionCount = parseInt(document.getElementById("questionCount").value);
 
     allQuestionsSection.innerHTML = "";
     testSection.innerHTML = "";
     testSection.classList.add("hidden");
 
-    const shuffledQuestions = shuffle([...questions]).slice(0, questionCount);
-
-    shuffledQuestions.forEach((q, index) => {
+    questions.forEach((q, index) => {
         const questionElement = document.createElement("div");
         questionElement.innerHTML = `
             <p>${q.question}</p>
@@ -302,6 +438,7 @@ function showAllQuestions() {
     });
     allQuestionsSection.classList.remove("hidden");
 }
+
 
 document.getElementById("testButton").addEventListener("click", showTestQuestions);
 document.getElementById("viewAllButton").addEventListener("click", showAllQuestions);
