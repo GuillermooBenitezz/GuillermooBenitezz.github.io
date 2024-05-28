@@ -8,6 +8,13 @@ const questions = [
         correctAnswer: "B"
     },
     {
+        question: "Las faltas de respeto y consideración cuyo destinatario sea un miembro de las FCS en el ejercicio de sus funciones de protección de la seguridad ciudadana tendrán la consideración de falta:",
+        options: ["A. Leve", 
+        "B. Grave", 
+        "C. Muy grave."],
+        correctAnswer: "A"
+    },
+    {
         question: "¿Cuál es el plazo de caducidad del procedimiento sancionador según el artículo 50 de la L.O. 4/2015 Protección a la Seguridad Ciudadana?:",
         options: ["A. 1 año desde su incoación sin que se haya notificado la resolución.", 
         "B. 2 años desde su incoación sin que se haya notificado la resolución.", 
