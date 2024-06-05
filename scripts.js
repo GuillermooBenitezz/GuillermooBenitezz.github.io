@@ -8,13 +8,6 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "¿Cuál es el plazo de caducidad del procedimiento sancionador según el artículo 50 de la L.O. 4/2015 Protección a la Seguridad Ciudadana?:",
-        options: ["A. 1 año desde su incoación sin que se haya notificado la resolución.", 
-        "B. 2 años desde su incoación sin que se haya notificado la resolución.", 
-        "C. 6 meses desde su incoación sin que se haya notificado la resolución."],
-        correctAnswer: "A"
-    },
-    {
         question: "Las actuaciones a seguir en el caso de los vehículos intervenidos deberán ajustarse a lo establecido en la ISES 1/2011, en donde se contemplan, según el destino que proceda dar a los bienes intervenidos:",
         options: ["A. Dos tipos de actuaciones.", 
         "B. Tres tipos de actuaciones.", 
@@ -22,39 +15,11 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "Son competencias de los delegados de prevención:",
-        options: ["A. Acompañar a los técnicos en las evaluaciones preventivas.", 
-        "B. Acompañar a los inspectores de Trabajo y Seguridad Social en sus visitas.", 
-        "C. Controlar el cumplimiento de la normativa."],
-        correctAnswer: "C"
-    },
-    {
         question: "El Comité de Seguridad y Salud se reúne trimestralmente, con lo que las empresas que cuenten con varios centros de trabajo dotados de Comité podrán acordar con su trabajadores, la creación de:",
         options: ["A. Un Comité de Centros.", 
         "B. Un Comité Intercentros.", 
         "C. Un Comité Interdisciplinar para Centros de Trabajo."],
         correctAnswer: "B"
-    },
-    {
-        question: "El Subcomité para la Prevención contra la Tortura y otros tratos o penas crueles, inhumanos o degradantes, es un órgano de carácter:",
-        options: ["A. Nacional.", 
-        "B. Internacional.", 
-        "C. Nacional independiente."],
-        correctAnswer: "B"
-    },
-    {
-        question: "Jose Antonio se introduce en el supermercado de El Corte Ingles, guardándose entre sus ropas un paquete de jamón serrano Joselito valorado en 27,99 euros. Instantes después y dentro aún del establecimiento es interceptado por un Vigilante de Seguridad que le pide que le acompañe, momento en el que Jose Antonio empuja fuertemente al Vigilante, cayendo este al suelo y saliendo Jose Antonio por la línea de caja, una vez en la calle es interceptado por el indicativo Z-22. El vigilante como consecuencia de la caída ha sufrido una fractura de muñeca, que ha precisado una intervención quirúrgica y 34 sesiones de fisioterapia para su curación, sin secuelas tras esta. José Antonio responderá de:",
-        options: ["A. Un delito leve de hurto, al ser el precio inferior a 400 euros.", 
-        "B. Un delito de robo violento agravado por las lesiones causadas.", 
-        "C. Un delito de robo violento agravado más un delito de lesiones."],
-        correctAnswer: "C"
-    },
-    {
-        question: "Según el artículo 16 de la Ley Orgánica 3/2018 de Protección de Datos, con respecto de los datos que se vean afectados por una reclamación del derecho a la limitación de tratamiento:",
-        options: ["A. Estos datos no podrán ser objeto de tratamiento, debiendo procederse inmediatamente con la supresión de los mismos del sistema de información.", 
-        "B. Estos datos no podrán ser objeto de tratamiento, con la excepción de su cesión al afectado que solicitó la limitación de su uso.", 
-        "C. Estos datos no podrán ser objeto de tratamiento, con la excepción de su conservación."],
-        correctAnswer: "C"
     },
     {
         question: "Señale la proposición que considere correcta en relación al libro-registro de identificados de la Ley de Seguridad Ciudadana",
@@ -71,13 +36,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "La característica de la “enculturación” es:",
-        options: ["A. La fuerte carga afectiva.", 
-        "B. La aplicación de técnicas pedagógicas.", 
-        "C. La división social del trabajo."],
-        correctAnswer: "A"
-    },
-    {
         question: "Los anteproyectos de ley habrán de ser informados por:",
         options: ["A. La Secretaría General Técnica.", 
         "B. El Ministro correspondiente.", 
@@ -85,45 +43,10 @@ const questions = [
         correctAnswer: "A"
     },
     {
-        question: "¿En qué caso puede suplirse la autorización administrativa que deben obtener las empresas de seguridad privada para la prestación de servicios de seguridad privada, por una declaración responsable?",
-        options: ["A. Cuando pretendan dedicarse exclusivamente al transporte y distribución de monedas y billetes, títulos-valores, joyas, metales preciosos, antigüedades, obras de arte u otros objetos que, por su valor económico, histórico o cultural, y expectativas que generen, puedan requerir vigilancia y protección especial.", 
-        "B. Cuando pretendan dedicarse exclusivamente al depósito, custodia, recuento y clasificación de monedas y billetes, títulos-valores, joyas, metales preciosos, antigüedades, obras de arte u otros objetos que, por su valor económico, histórico o cultural, y expectativas que generen, puedan requerir vigilancia y protección especial.", 
-        "C. Cuando pretendan dedicarse exclusivamente a la actividad de instalación y mantenimiento de aparatos, equipos, dispositivos y sistemas de seguridad conectados a centrales receptoras de alarmas o a centros de control o de videovigilancia."],
-        correctAnswer: "C"
-    },
-    {
-        question: "¿Qué función desempeñan las actitudes en la personalidad de un individuo?",
-        options: ["A. Una función expresiva.", 
-        "B. Una función mecánica.", 
-        "C. Una función adaptativa."],
-        correctAnswer: "A"
-    },
-    {
-        question: "El delito de extorsión es un delito de:",
-        options: ["A. Peligro.", 
-        "B. Resultado.", 
-        "C. Resultado cortado."],
-        correctAnswer: "C"
-    },
-    {
         question: "¿Qué tipo  de escala de actitudes se caracteriza porque en ella tan solo hay dos respuestas posibles a las distintas preguntas: “de acuerdo” o “desacuerdo”?",
         options: ["A. Método de las actitudes summativas de Likert.", 
         "B. Método de las actitudes acumulativas de Guttman.", 
         "C. Método de las actitudes diferenciales de Thurstone."],
-        correctAnswer: "A"
-    },
-    {
-        question: "La asunción de otra cultura por desencanto de la propia, es un fenómeno llamado:",
-        options: ["A. Resocialización.", 
-        "B. Desocialización.", 
-        "C. Aculturación."],
-        correctAnswer: "A"
-    },
-    {
-        question: "¿Quién declara la vacante en el cargo del Defensor del Pueblo por muerte, renuncia o expiración del plazo de mandato?:",
-        options: ["A. El presidente del Congreso de los Diputados.", 
-        "B. Las tres quintas partes de los componentes de cada cámara.", 
-        "C. El presidente del Senado."],
         correctAnswer: "A"
     },
     {
@@ -169,20 +92,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "El Tribunal de Justicia de la Unión Europea está compuesto por:",
-        options: ["A. Un juez por Estado miembro y está asimismo asistido por 27 abogados generales.", 
-        "B. Dos jueces por Estado miembro y están asistidos por 27 abogados generales.", 
-        "C. Un juez por Estado miembro y está asimismo asistido por 11 abogados generales."],
-        correctAnswer: "C"
-    },
-    {
-        question: "¿Cómo acuña, Daniel Cougeau, el término 'Espacio de vida' relacionado con las migraciones?",
-        options: ["A. Como el conjunto de lugares que frecuenta un individuo, polarizados por el domicilio y el trabajo.", 
-        "B. Como el conjunto de servicios que contrata un individuo, polarizados por el domicilio y el trabajo.", 
-        "C. Ambas son correctas."],
-        correctAnswer: "A"
-    },
-    {
         question: "El proceso que implica un “contacto estrecho de los inmigrantes con la población autóctona cuyo resultado es la adquisición por parte de los primeros de la cultura de la sociedad receptora, eliminando todo vestigio de su cultura de origen”, recibe el nombre de:",
         options: ["A. Asimilación.", 
         "B. Integración.", 
@@ -218,13 +127,6 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "Para Milton Rokeach",
-        options: ["A. La figura es el fondo ", 
-        "B. La figura es la forma.", 
-        "C. La figura es el fin."],
-        correctAnswer: "B"
-    },
-    {
         question: "Cuando una propuesta normativa afecte a la organización administrativa de la Administración General del Estado, a su régimen de personal, procedimientos y a la inspección de los servicios, será necesario:",
         options: ["A. Recabar la aprobación previa del Ministerio de Política Territorial antes de ser sometidas al órgano competente para promulgarlos.", 
         "B. Informe previo del Ministerio de Política Territorial.", 
@@ -238,13 +140,6 @@ const questions = [
         "C. Personal acreditado."],
         correctAnswer: "B"
     },   
-    {
-        question: "Con respecto a la acción popular en la administración de justicia, la Constitución española establece en su artículo 125:",
-        options: ["A. Que podrá participarse en la administración de justicia por medio de la institución del Jurado.", 
-        "B. La Constitución también contempla la participación en los tribunales consuetudinarios y tradicionales.", 
-        "C. Ambas respuestas son correctas."],
-        correctAnswer: "C"
-    }, 
     {
         question: "La verdadera tolerancia:",
         options: ["A. Discrepa pero respeta.", 
@@ -288,25 +183,11 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "La Iglesia es un agente de control social:",
-        options: ["A. Formal.", 
-        "B. Informal.", 
-        "C. Religioso."],
-        correctAnswer: "B"
-    },
-    {
         question: "Señale la opción incorrecta en relación a las causas de denegación de las solicitudes realizadas en puestos transfronterizos:",
         options: ["A. Cuando no corresponda a España su examen de conformidad con los convenios internacionales en que sea Parte.", 
         "B. Que planteen exclusivamente cuestiones que no guarden relación con el examen de los requisitos para el reconocimiento de la condición de refugiado o la concesión de la protección subsidiaria.", 
         "C. Que la persona solicitante incurra en alguno de los supuestos de exclusión o de denegación."],
         correctAnswer: "A"
-    },
-    {
-        question: "Cuando Ia devolución no se pudiera ejecutar en el plazo de 72 horas, ¿qué medida se podrá solicitar de la autoridad judicial?",
-        options: ["A. La medida de expulsión.", 
-        "B. La medida de autorización de residencia provisional por circunstancias excepcionales.", 
-        "C. La medida de internamiento prevista para los expedientes de expulsión."],
-        correctAnswer: "C"
     },
     {
         question: "¿Quién relaciona las actitudes con el sistema nervioso?:",
@@ -323,18 +204,193 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "¿Quién asume la responsabilidad de daños o lesiones a terceros causados por un vehículo policial circulando con carácter de urgencia?",
-        options: ["A. El conductor de dicho vehículo.", 
-        "B. La dotación policial de dicho vehículo.", 
-        "C. El cuerpo policial al que pertenezca dicho vehículo."],
-        correctAnswer: "A"
-    },
-    {
         question: "El periodo de internamiento se mantendrá por el tiempo imprescindible para los fines del expediente y no podrá exceder en ningún caso:",
         options: ["A. De 90 días.", 
         "B. De dos meses.", 
         "C. De sesenta días."],
         correctAnswer: "C"
+    },
+    {
+        question: "Representan al reino de España en un órgano de una organización internacional, en una conferencia de estados convocada por una organicé internacional o bajo sus auspicios, o en un acto concreto organizado por un tercer estado para el que se requiera conformar una delegación con carta oficial.",
+        options: ["A. Delegaciones.", 
+        "B. Oficinas consulares.", 
+        "C. Misiones Diplomaticas Especiales."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cada cuanto se reúne las representaciones permanentes en el COREPER?",
+        options: ["A. Semanalmente.", 
+        "B. Mensualmene.", 
+        "C. Trimestralmente."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿En qué año pasó el Consejo Europeo a ser una de las 7 instituciones de la UE?",
+        options: ["A. 2003.", 
+        "B. 1999.", 
+        "C. 2009."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Cuando el volumen de las consultas lo exija, ¿A propuesta de quién se puede ampliar el número de secciones del Consejo de Estado?",
+        options: ["A. El Pleno del Consejo de Estado.", 
+        "B. La Comision Permanente del Consejo de Estado.", 
+        "C. Las Comisiones de Estudio del Consejo de Estado."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Que son los oficiales de enlace?",
+        options: ["A. Los encargados de comunicarse y cooperar directamente con los oficiales de enlaces de otros Estados miembros.", 
+        "B. Los encargados de representar los intereses de los Estados miembros en la Unidad Central de La Haya.", 
+        "C. Unidad de representación por cada Unidad Nacional, en tanto cada estado tiene una unidad nacional formada por al menos 3 oficiales de enlace."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Qué consejos de las 10 formaciones del Consejo de la UE se sustrae el régimen general de presidencia rotatoria?",
+        options: ["A. No existe.", 
+        "B. Consejo de asuntos generales.", 
+        "C. Consejo de asuntos exteriores."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Cuál será la composición de jueces del Tribunal General de la Unión Europea a final del 2019?",
+        options: ["A. 2 jueces por Estado miembro.", 
+        "B. 47 jueces.", 
+        "C. 40 jueces."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién define la socialización como la consecuencia de experiencias de aprendizaje, que tienen lugar como resultado de la integración del individuo en la sociedad?",
+        options: ["A. Kant.", 
+        "B. Freud.", 
+        "C. McDavid."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quién propone el anteproyecto del presupuesto de la Unión Europea?",
+        options: ["A. El Consejo de la UE.", 
+        "B. El Parlamento de la UE.", 
+        "C. La Comision de la UE."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué instituciones de la Unión Europea tiene la consideración de máximo órgano 'ejecutivo', máximo órgano 'decisorio y legislativo' y máximo órgano político?",
+        options: ["A. El Consejo Europeo, el Consejo de la UE y la Comisión, respectivamente", 
+        "B. El Consejo de la UE, el Consejo Europeo y la Comision Europea, respectivamente.", 
+        "C. La Comision Europea, el Consejo de la UE y el Consejo Europeo, respectivamente."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En una cuestión prejudicial presentada ante el tribunal de Justicia de la UE, una vez notificada la misma, los Estados miembros y las instituciones disponen de:",
+        options: ["A. 15 días para presentar al Tribunal de Justicia sus observaciones escritas.", 
+        "B. Un mes para presentar al Tribunal de Justicia sus observaciones escritas.", 
+        "C. Dos meses para presentar el Tribunal de Justicia sus observaciones escritas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Los llamados planes de apoyo operativo deben ser elaborados por:",
+        options: ["A. Siempre por la fuerza y cuerpo segura del Estado.", 
+        "B. En la Comunidad Autónoma con competencias la materia, su cuerpo policial, si lo posee.", 
+        "C. La Secretaría de Estado de seguridad."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿De cuantos miembros está compuesto el Comité Ejecutivo de Interpol?",
+        options: ["A. De un presidente, cuatro vicepresidente y ocho vocales.", 
+        "B. De un presidente, tres vicepresidentes y nueve vocales.", 
+        "C. De un presidente, dos vicepresidentes y cuatro vocales."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Con respecto al altruismo cuál no es una forma estudiada según los sociólogos para que se realice la altruista:",
+        options: ["A. Que el acto sea voluntario.", 
+        "B. Que se favorezca a los ajeno.", 
+        "C. Que el que la realiza pretenda obtener beneficios."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El compromiso estratégico para igualdad entre mujeres y hombre es una activa básica de la UE en concreto:",
+        options: ["A. La Comision Europea.", 
+        "B. El Consejo de la Unión Europea.", 
+        "C. El Consejo Europeo."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los tribunales para acceso a la administración general del Estado cómo funcionar de carrera estarán compuestos por un número de miembros:",
+        options: ["A. Impar no superior a cinco.", 
+        "B. Par no inferior a seis.", 
+        "C. Impar no inferior a cinco."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La autoridad competente que sola o conjuntamente con otras, determine los fines y medios del tratamiento de datos personales; en caso de que los fines y medios del tratamiento estén determinados por el Derecho de la Unión Europea o por la legislación española se denomina:",
+        options: ["A. Encargado del tratamiento.", 
+        "B. Delegado de Protección de datos.", 
+        "C. Responsable del tratamiento."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El uso de EPI es una medida de prevención:",
+        options: ["A. De carácter general.", 
+        "B. De carácter específico.", 
+        "C. De carácter excepcional."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Las autoridades competentes adoptarán las medidas necesarias para la identificación de las víctimas de la trata de personas conforme a lo previsto por:",
+        options: ["A. El Consejo de Europa.", 
+        "B. El Consejo Europeo.", 
+        "C. El Consejo de la UE."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La teoría del riesgo constante fue enunciada por:",
+        options: ["A. Joseph Joubert.", 
+        "B. Barjonet Inrets.", 
+        "C. Erich Fromm."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Para el sociólogo Robert Merton, aquellos que no tienen prejuicios contra las minorías y rehúsan la discriminación aunque pueda ser costosa personalmente, son:",
+        options: ["A. Liberales consecuentes.", 
+        "B. Liberales tímidos.", 
+        "C. Liberales tibios."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Las decisiones del Subcomité para la prevención de la tortura, se tomarán:",
+        options: ["A. Por mayoría absoluta.", 
+        "B. Por mayoría cualificada.", 
+        "C. Por mayoría simple."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Cómo se denomina al espacio rural que rodea a la ciudad, que es ocupado por viviendas?",
+        options: ["A. Las dos respuestas son correctas.", 
+        "B. Franja periurbana.", 
+        "C. Rurbanización."],
+        correctAnswer: "A"
+    },
+    {
+        question: "En la Declaración Universal de los Derechos Humanos, el derecho de asilo se encuadra dentro del grupo de:",
+        options: ["A. Derechos del individuo en sus relaciones con los grupos.", 
+        "B. Derechos y libertades políticas.", 
+        "C. Derechos de orden internacional."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale cuál de los siguientes es un requisito suficiente para que una directiva entre en vigor en el ámbito del derecho de la Unión Europea.",
+        options: ["A. La simple publicación en el  DOUE.", 
+        "B. La simple notificación a sus destinatarios.", 
+        "C. La simple publicación en el Boletín del país al que se dirige."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "A"
     },
 ];
 
