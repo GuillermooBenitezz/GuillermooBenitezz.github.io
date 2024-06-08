@@ -385,12 +385,223 @@ const questions = [
         "C. La simple publicación en el Boletín del país al que se dirige."],
         correctAnswer: "B"
     },
+    // Tema 4
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "¿Qué Tribunal Español será competente para el conocimiento y fallo de los procedimientos que investigue la Fiscalía europea?",
+        options: ["A. Audiencia Nacional.", 
+        "B. Tribunal Supremo.", 
+        "C. Tribunal Superior de Justicia."],
         correctAnswer: "A"
+    },
+    {
+        question: "Frontex está dirigido por un Consejo de Adminisracion, que está compuesto por:",
+        options: ["A. Un represente de cada Estado miembro responsable de las fronteras y un representante de la comisión.", 
+        "B. Un representante de cada Estado miembro responsables de las fronteras y dos representantes de la comisión.", 
+        "C. Un representante de cada Estado miembro responsables de las fronteras."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El procedimiento de votación más común en el Consejo de la Unión Europea es la toma de ediciones por:",
+        options: ["A. Consenso.", 
+        "B. Unaminidad.", 
+        "C. Mayoria cualificada."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El principal órgano legislativo y de toma de decisiones en la Unión Europea es:",
+        options: ["A. El Consejo.", 
+        "B. En Consejo Europeo.", 
+        "C. La Asamblea (El Parlamento Europeo)."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Permite conrolar la legalidad de la inactividad de las instituciones comunitarias:",
+        options: ["A. Recurso por incumplimiento.", 
+        "B. Recurso por omision.", 
+        "C. Recurso por anulacion."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿En qué año se puso marcha el sistema de colaboracion entre tres presidencias consecutivas para hacer frente al corto plazo de sesis meses de la Presidencia en el Consejo de la UE?",
+        options: ["A. 2003.", 
+        "B. 2007.", 
+        "C. 2009."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Señale cual de las siguientes no es una caracteristica de las clausulas pasarela:",
+        options: ["A. Permiten de un procedimiento legislativo especial al procedimienot legislativo ordinario para adoptar un acto en un ámbito determinado.", 
+        "B. Permiten pasar de una votación por mayoría cualificada a una votación por unanimidad para adoptar un acto en un ámbito determinado.", 
+        "C. La activación de una cláusula pasarela siempre depende de una decisión adoptada por unanimidad."],
+        correctAnswer: "B"
+    },
+    {
+        question: "En una cuestion prejudicial ane el Tribunal de Justicia de la UE, una vez notificada a las partes la peticion de la cuestion, estas disponen de _____ para presenar al Tribunal de Justicia sus observaciones escritas",
+        options: ["A. Un mes.", 
+        "B. Dos meses.", 
+        "C. Tres meses."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La armonizacion de los intereses nacionales con el intereses nacionales con el interes comunitario se lleva a cabo por:",
+        options: ["A. La comision.", 
+        "B. El Parlamento.", 
+        "C. El COnsejo de la Union Europea."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quien nombra al director de la oficina de la lucha contra el fraude en materia europea?",
+        options: ["A. El Parlamento, la comision y el Consejo.", 
+        "B. El Parlamento y el Consejo.", 
+        "C. La comision."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Para el noombramiento del Presidente de la Comision Europea: Con base en la propuesta de su Presidente, el Consejo Europeo adopara, por ___ una decision por la que se proponga al Parlamento Europeo un candidato a la presidencia de la Comision.",
+        options: ["A. Mayoria simple.", 
+        "B. Mayoria absoluta.", 
+        "C. Mayoria cualificada."],
+        correctAnswer: "C"
+    },
+    {
+        question: "No es una afirmacion ciera en relacion con la Decision comunitaria:",
+        options: ["A. Que, si fija desinatarios, precise su notificacion a los ineresados para su entrada en vigor como obligatoria.", 
+        "B. Que sea obligatoria respecto a los fines, pudiendo elegir los Estados los actos necesarios para su cumplimiento.", 
+        "C. Que en general se dirija a destinatarios individualizados, ya sean Estados o personas fisicas o juridicas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿En que fecha se inegro España de pleno derecho en la Union Europea?",
+        options: ["A. 1 de enero 1986.", 
+        "B. 1 de enero 1991.", 
+        "C. 1 de enero de 1992."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los fiscales Europeos tienen un mandato de:",
+        options: ["A. 7 años no renovables.", 
+        "B. 6 años no renovables.", 
+        "C. 5 años no renovables."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Propone legislacion al Parlamento y al Consejo de la Union Europea, ejerciendo con exclusividad la iniciativa normativa.",
+        options: ["A. Consejo Europeo.", 
+        "B. Consejo de Ministros.", 
+        "C. Comision."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quien establecio los Criterios de Copenhague en 1993?",
+        options: ["A. Consejo Europeo.", 
+        "B. Parlamento.", 
+        "C. Comision."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuantas lenguas oficiales tiene la UE?",
+        options: ["A. 22.", 
+        "B. 23.", 
+        "C. 24."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Fue el tratado por el que se creo una unica Comision y un unico Consejo:",
+        options: ["A. Tratado de Bruselas.", 
+        "B. Acta Unica Europea.", 
+        "C. Tratado de Amsterdam."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Organo consultivo de la Union Europea que representa a las organizaciones de los trabajadores y empresarios.",
+        options: ["A. Comite de las Regiones.", 
+        "B. Comite Economico y Regional.", 
+        "C. Ninguna respuesta es correcta."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quien propone el anteproyecto del Presupuesto de la Union Europea?",
+        options: ["A. El Consejo de la UE.", 
+        "B. El Parlamento de la UE.", 
+        "C. La Comision de la UE."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Las Salas permanentes de la Fiscalia europea estaran conformadas por:",
+        options: ["A. Tres miembros.", 
+        "B. Cuatro miembros.", 
+        "C. Cinco miembros."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La oficina para la lucha contra el Fraude de la UE protege los intereses financieros de la Unikn Europea y es:",
+        options: ["A. Autonoma en lo que respecta a sus funciones de investigacion, presupuestarias y administrativas, aunque forma parte de la Comision.", 
+        "B. Autonoma en lo que respecta a sus funciones de investigacion y de administracion, aunque forma parte de Europol.", 
+        "C. Autonoma en lo que respecta a sus funciones de investigacion, aunque forma parte del Tribunal de Cuentas de la UE."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Son reglamentos adoptados por el Consejo, y tienen un caracter plenamente legislativo:",
+        options: ["A. Reglamentos legislativos.", 
+        "B. Reglamentos ejecutivos.", 
+        "C. Reglamentos de base."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El interventor financiero de Europol sera nombrado por unanimidad por:",
+        options: ["A. El Consejo.", 
+        "B. El Parlamento y el Consejo.", 
+        "C. El Consejo de Adminisracion de Europol."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En 1993, a razi de las solicitudes de adhesion a la Union Europea de los antiguos paises comunistas, el Consejo Europeo estableción tres criterios que debian cumplir para convertirse en Estados miembros. Entre ellos no se encuentra:",
+        options: ["A. Capacidad de hacer frente a la presion competitiva y las fuerzas de mercado.", 
+        "B. Respeto y proteccion de las minorias.", 
+        "C. Sistema de cooperacion intergubernamental entre los Estados miembros en materia de politica exterior y seguridad comun."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La comision se designara tras las elecciones al Parlamento Europeo en un plazo de:",
+        options: ["A. Tres meses.", 
+        "B. Seis meses.", 
+        "C. Nueves meses."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Eurojust está formado por un colegio de:",
+        options: ["A. 28 representantes.", 
+        "B. 29 representantes.", 
+        "C. 30 representantes."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Antecedente inmediato de la OCDE, establecido en Paris en 1948 por la Convencion de Cooperacion Economica para colaborar en la distribucion de los creditos del Plan Marshall.",
+        options: ["A. OECE.", 
+        "B. CECA.", 
+        "C. CEE."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cual es el segundo pilar de la Union Europea?",
+        options: ["A. JAI.", 
+        "B. PESC.", 
+        "C. UEM."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Se puede asimilar a las leyes y reglamentos del derecho interno:",
+        options: ["A. Los actos unilaterales del derecho derivado.", 
+        "B. Los Acuerdos convencionales del derecho derivado.", 
+        "C. Los tratados modificativos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cual de las siguientes no es una funcion del Alto REpresentante de la Union para Asuntos Exteriores?",
+        options: ["A. Preside el Consejo de Asuntos Exteriores.", 
+        "B. Es miemrbo de la Comision.", 
+        "C. Forma parte del Consejo Europeo."],
+        correctAnswer: "C"
     },
 ];
 
