@@ -391,6 +391,7 @@ const questions = [
         options: ["A. Audiencia Nacional.", 
         "B. Tribunal Supremo.", 
         "C. Tribunal Superior de Justicia."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -398,6 +399,7 @@ const questions = [
         options: ["A. Un represente de cada Estado miembro responsable de las fronteras y un representante de la comisión.", 
         "B. Un representante de cada Estado miembro responsables de las fronteras y dos representantes de la comisión.", 
         "C. Un representante de cada Estado miembro responsables de las fronteras."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
@@ -405,6 +407,7 @@ const questions = [
         options: ["A. Consenso.", 
         "B. Unaminidad.", 
         "C. Mayoria cualificada."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -412,6 +415,7 @@ const questions = [
         options: ["A. El Consejo.", 
         "B. En Consejo Europeo.", 
         "C. La Asamblea (El Parlamento Europeo)."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -419,6 +423,7 @@ const questions = [
         options: ["A. Recurso por incumplimiento.", 
         "B. Recurso por omision.", 
         "C. Recurso por anulacion."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
@@ -426,6 +431,7 @@ const questions = [
         options: ["A. 2003.", 
         "B. 2007.", 
         "C. 2009."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
@@ -433,6 +439,7 @@ const questions = [
         options: ["A. Permiten de un procedimiento legislativo especial al procedimienot legislativo ordinario para adoptar un acto en un ámbito determinado.", 
         "B. Permiten pasar de una votación por mayoría cualificada a una votación por unanimidad para adoptar un acto en un ámbito determinado.", 
         "C. La activación de una cláusula pasarela siempre depende de una decisión adoptada por unanimidad."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
@@ -440,13 +447,15 @@ const questions = [
         options: ["A. Un mes.", 
         "B. Dos meses.", 
         "C. Tres meses."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
         question: "La armonizacion de los intereses nacionales con el intereses nacionales con el interes comunitario se lleva a cabo por:",
         options: ["A. La comision.", 
         "B. El Parlamento.", 
-        "C. El COnsejo de la Union Europea."],
+        "C. El Consejo de la Union Europea."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -454,6 +463,7 @@ const questions = [
         options: ["A. El Parlamento, la comision y el Consejo.", 
         "B. El Parlamento y el Consejo.", 
         "C. La comision."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -461,6 +471,7 @@ const questions = [
         options: ["A. Mayoria simple.", 
         "B. Mayoria absoluta.", 
         "C. Mayoria cualificada."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -468,6 +479,7 @@ const questions = [
         options: ["A. Que, si fija desinatarios, precise su notificacion a los ineresados para su entrada en vigor como obligatoria.", 
         "B. Que sea obligatoria respecto a los fines, pudiendo elegir los Estados los actos necesarios para su cumplimiento.", 
         "C. Que en general se dirija a destinatarios individualizados, ya sean Estados o personas fisicas o juridicas."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
@@ -475,6 +487,7 @@ const questions = [
         options: ["A. 1 de enero 1986.", 
         "B. 1 de enero 1991.", 
         "C. 1 de enero de 1992."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -482,6 +495,7 @@ const questions = [
         options: ["A. 7 años no renovables.", 
         "B. 6 años no renovables.", 
         "C. 5 años no renovables."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
@@ -489,6 +503,7 @@ const questions = [
         options: ["A. Consejo Europeo.", 
         "B. Consejo de Ministros.", 
         "C. Comision."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -496,6 +511,7 @@ const questions = [
         options: ["A. Consejo Europeo.", 
         "B. Parlamento.", 
         "C. Comision."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -503,6 +519,7 @@ const questions = [
         options: ["A. 22.", 
         "B. 23.", 
         "C. 24."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -510,6 +527,7 @@ const questions = [
         options: ["A. Tratado de Bruselas.", 
         "B. Acta Unica Europea.", 
         "C. Tratado de Amsterdam."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -517,6 +535,7 @@ const questions = [
         options: ["A. Comite de las Regiones.", 
         "B. Comite Economico y Regional.", 
         "C. Ninguna respuesta es correcta."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -524,6 +543,7 @@ const questions = [
         options: ["A. El Consejo de la UE.", 
         "B. El Parlamento de la UE.", 
         "C. La Comision de la UE."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -531,6 +551,7 @@ const questions = [
         options: ["A. Tres miembros.", 
         "B. Cuatro miembros.", 
         "C. Cinco miembros."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -538,6 +559,7 @@ const questions = [
         options: ["A. Autonoma en lo que respecta a sus funciones de investigacion, presupuestarias y administrativas, aunque forma parte de la Comision.", 
         "B. Autonoma en lo que respecta a sus funciones de investigacion y de administracion, aunque forma parte de Europol.", 
         "C. Autonoma en lo que respecta a sus funciones de investigacion, aunque forma parte del Tribunal de Cuentas de la UE."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -545,6 +567,7 @@ const questions = [
         options: ["A. Reglamentos legislativos.", 
         "B. Reglamentos ejecutivos.", 
         "C. Reglamentos de base."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -552,6 +575,7 @@ const questions = [
         options: ["A. El Consejo.", 
         "B. El Parlamento y el Consejo.", 
         "C. El Consejo de Adminisracion de Europol."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -559,6 +583,7 @@ const questions = [
         options: ["A. Capacidad de hacer frente a la presion competitiva y las fuerzas de mercado.", 
         "B. Respeto y proteccion de las minorias.", 
         "C. Sistema de cooperacion intergubernamental entre los Estados miembros en materia de politica exterior y seguridad comun."],
+        topic: 4,
         correctAnswer: "C"
     },
     {
@@ -566,6 +591,7 @@ const questions = [
         options: ["A. Tres meses.", 
         "B. Seis meses.", 
         "C. Nueves meses."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
@@ -573,6 +599,7 @@ const questions = [
         options: ["A. 28 representantes.", 
         "B. 29 representantes.", 
         "C. 30 representantes."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -580,6 +607,7 @@ const questions = [
         options: ["A. OECE.", 
         "B. CECA.", 
         "C. CEE."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
@@ -587,6 +615,7 @@ const questions = [
         options: ["A. JAI.", 
         "B. PESC.", 
         "C. UEM."],
+        topic: 4,
         correctAnswer: "B"
     },
     {
@@ -594,13 +623,15 @@ const questions = [
         options: ["A. Los actos unilaterales del derecho derivado.", 
         "B. Los Acuerdos convencionales del derecho derivado.", 
         "C. Los tratados modificativos."],
+        topic: 4,
         correctAnswer: "A"
     },
     {
-        question: "¿Cual de las siguientes no es una funcion del Alto REpresentante de la Union para Asuntos Exteriores?",
+        question: "¿Cual de las siguientes no es una funcion del Alto Representante de la Union para Asuntos Exteriores?",
         options: ["A. Preside el Consejo de Asuntos Exteriores.", 
         "B. Es miemrbo de la Comision.", 
         "C. Forma parte del Consejo Europeo."],
+        topic: 4,
         correctAnswer: "C"
     },
 ];
@@ -614,16 +645,26 @@ function shuffle(array) {
     return array;
 }
 
+function filterQuestionsByTopic(topic) {
+    if (topic === "all") {
+        return questions;
+    }
+    return questions.filter(q => q.topic === parseInt(topic));
+}
+
 function showTestQuestions() {
     const testSection = document.getElementById("testSection");
     const allQuestionsSection = document.getElementById("allQuestionsSection");
     const questionCount = parseInt(document.getElementById("questionCount").value);
+    const selectedTopic = document.getElementById("topicSelect").value;
 
-    testSection.innerHTML = "";
     allQuestionsSection.innerHTML = "";
+    testSection.innerHTML = "";
     allQuestionsSection.classList.add("hidden");
 
-    const shuffledQuestions = shuffle([...questions]).slice(0, questionCount);
+    const filteredQuestions = filterQuestionsByTopic(selectedTopic);
+    const shuffledQuestions = shuffle(filteredQuestions).slice(0, questionCount);
+
     let correctAnswers = 0;
     let incorrectAnswers = 0;
     let answeredQuestions = 0;
@@ -647,14 +688,12 @@ function showTestQuestions() {
                     correctAnswers++;
                 } else {
                     event.target.classList.add("incorrect");
-                    incorrectAnswers++;
+                    correctAnswers++;
                 }
 
                 Array.from(this.children).forEach(li => {
                     if (li.textContent.startsWith(q.correctAnswer)) {
                         li.classList.add("correct");
-                    } else {
-                        li.classList.add("incorrect");
                     }
                     li.style.pointerEvents = "none";
                 });
@@ -678,12 +717,15 @@ function showTestQuestions() {
 function showAllQuestions() {
     const testSection = document.getElementById("testSection");
     const allQuestionsSection = document.getElementById("allQuestionsSection");
+    const selectedTopic = document.getElementById("topicSelect").value;
 
     allQuestionsSection.innerHTML = "";
     testSection.innerHTML = "";
     testSection.classList.add("hidden");
 
-    questions.forEach((q, index) => {
+    const filteredQuestions = filterQuestionsByTopic(selectedTopic);
+
+    filteredQuestions.forEach((q, index) => {
         const questionElement = document.createElement("div");
         questionElement.innerHTML = `
             <p>${q.question}</p>
@@ -698,7 +740,6 @@ function showAllQuestions() {
     });
     allQuestionsSection.classList.remove("hidden");
 }
-
 
 document.getElementById("testButton").addEventListener("click", showTestQuestions);
 document.getElementById("viewAllButton").addEventListener("click", showAllQuestions);
