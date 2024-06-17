@@ -57,13 +57,6 @@ const questions = [
         correctAnswer: "A"
     },
     {
-        question: "La carencia de la autorización de residencia y trabajo, sin perjuicio de las responsabilidades del empresario a que dé lugar, incluidas las de Seguridad Social:",
-        options: ["A. Invalidará el contrato de trabajo con respecto a los derechos del trabajador extranjero.", 
-        "B. No invalidará el contrato de trabajo con respecto a los derechos del trabajador civil extranjero.", 
-        "C. Será obstáculo para la obtención de las prestaciones derivadas de supuestos contemplados por los convenios internacionales de protección de los trabajadores u otras que pudieran corresponderle, siempre que sean compatibles con su situación."],
-        correctAnswer: "B"
-    },
-    {
         question: "Las relaciones del Ministerio del Interior con las Delegaciones y Subdelegaciones del Gobierno en cuestiones relacionadas con la protección internacional, corresponde a:",
         options: ["A. Dirección General de Política Interior.", 
         "B. Secretaría General Técnica.", 
@@ -169,13 +162,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "La inclinación del respaldo, manteniendo una posición vertical sin llegar a esta, debe estar en torno a los:",
-        options: ["A. 90º y 100º.", 
-        "B. 100º y 110º.", 
-        "C. 110º y 120º."],
-        correctAnswer: "B"
-    },
-    {
         question: "La palabra 'Derecho' posee varias acepciones, cuando se refiere al hecho que consiste en dar a cada uno lo suyo, la palabra Derecho aparece como equivalente a:",
         options: ["A. Orden normativo por el que se rige una sociedad.", 
         "B. Orden Jurídico o Justicia.", 
@@ -251,13 +237,6 @@ const questions = [
         "B. Consejo de asuntos generales.", 
         "C. Consejo de asuntos exteriores."],
         correctAnswer: "C"
-    },
-    {
-        question: "¿Cuál será la composición de jueces del Tribunal General de la Unión Europea a final del 2019?",
-        options: ["A. 2 jueces por Estado miembro.", 
-        "B. 47 jueces.", 
-        "C. 40 jueces."],
-        correctAnswer: "A"
     },
     {
         question: "¿Quién define la socialización como la consecuencia de experiencias de aprendizaje, que tienen lugar como resultado de la integración del individuo en la sociedad?",
@@ -363,13 +342,6 @@ const questions = [
         "B. Por mayoría cualificada.", 
         "C. Por mayoría simple."],
         correctAnswer: "C"
-    },
-    {
-        question: "¿Cómo se denomina al espacio rural que rodea a la ciudad, que es ocupado por viviendas?",
-        options: ["A. Las dos respuestas son correctas.", 
-        "B. Franja periurbana.", 
-        "C. Rurbanización."],
-        correctAnswer: "A"
     },
     {
         question: "En la Declaración Universal de los Derechos Humanos, el derecho de asilo se encuadra dentro del grupo de:",
@@ -634,7 +606,273 @@ const questions = [
         topic: 4,
         correctAnswer: "C"
     },
+    {
+        question: "Inicialmente,cuando el orden público o la seguridad interior de un Estado miembro exijan una actuación inmediata, se podrá restablecer el control fronterizo por un periodo de tiempo no superior a :",
+        options: ["A. 10 días.", 
+        "B. 20 días.", 
+        "C. 30 días."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El último objetivo de la Agenda 2030 es:",
+        options: ["A. Promover sociedades pacíficas e inclusivas para el desarrollo sostenible.", 
+        "B. Fortalecer los medios de implementación y revitalizar la Alianza Mundial para el Desarrollo Sostenible.", 
+        "C. Promover el crecimiento económico sostenido, inclusivo y sostenible, el empleo pleno y productivo y el trabajo decente para todos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El procedimiento abreviado en materia de protección de la seguridad ciudadana:",
+        options: ["A. Será de aplicación por la comisión de infracciones leves.", 
+        "B. Será de aplicación por la comisión de infracciones leves y graves, no procediendo en caso de infracciones muy graves.", 
+        "C. Permite satisfacer el pago obligatorio de las sanciones con el efecto de la reducción del importe correspondiente."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El Convenio Aarhus:",
+        options: ["A. Regula el acceso a la información y participación pública.", 
+        "B. Regula el acceso en la toma de decisiones y acceso a la justicia en materia de medio ambiente, así como la normativa comunitaria derivada del mismo.", 
+        "C. Ambas respuestas son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La huella ecológica se mide en :",
+        options: ["A. Hectáreas ambientales.", 
+        "B. Hectáreas biodesarrolladas.", 
+        "C. Hectáreas globales."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Señale la respuesta correcta:",
+        options: ["A. La Comisión Interministerial para el Cambio Climático y la Transición Energética se crea con el fin de lograr el mejor tratamiento de las políticas públicas en esta materia, desde una perspectiva participativa y multidisciplinar.", 
+        "B. Se crea la Comisión Interministerial para el Cambio Climático y la Transición Energética, adscrita al Ministerio para la Transición Ecológica, como órgano colegiado interministerial de los previstos en la Ley 20/2015, de 4 de octubre, de Régimen Jurídico del Sector Público.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "A continuación se indican algunos de los factores relacionados con el tráfico y su influencia en la siniestralidad vial. Señale cuál de ellos es uno de los factores de riesgo que influye en el agravamiento de las lesiones después del accidente:",
+        options: ["A. Presencia de elementos extremadamente rígidos y con aristas pronunciadas en los laterales de las vías sin la adecuada protección.", 
+        "B. Deficiencias en la atención a las víctimas durante el traslado o en los servicios de urgencia.", 
+        "C. Falta de uso de sistemas de retención como los cinturones de seguridad o sillitas infantiles."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿En qué año se negocia el Protocolo de Montreal?",
+        options: ["A. 1987.", 
+        "B. 1988.", 
+        "C. 1989."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Fue la reunión que, en 1984, creó la agenda global para el cambio sostenible, fomentada también por la Asamblea General de las Naciones Unidas:",
+        options: ["A. Primera reunión de la Estrategia Medioambiental para el Cambio.", 
+        "B. Carta Mundial de la ONU para la Naturaleza.", 
+        "C. Reunión de la Comisión Mundial sobre Medio Ambiente y Desarrollo."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿A qué órgano audita principalmente el Tribunal de Cuentas?",
+        options: ["A. Comisión.", 
+        "B. Parlamento.", 
+        "C. Consejo de la UE."],
+        topic: 4,
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué tipo de migración es la de aquellos de se desplazan desde el lugar de residencia al lugar de trabajo, estudio o abastecimiento por periodos diarios, ida y vuelta, favorecidos por el transporte público?",
+        options: ["A. Pendular.", 
+        "B. Estacional.", 
+        "C. Intraurbana."],
+        correctAnswer: "A"
+    },
+    {
+        question: "De las auditorias voluntarias, las empresas podrán someter con carácter voluntario sus sistemas de prevención al control de una auditoria o evaluación externa, para permitir la adopción de decisiones dirigidas a su perfeccionamiento y mejora. ¿Cuándo puede realizarse una auditoria voluntaria?",
+        options: ["A. En casos en que la auditoria externa no sea legalmente exigible.", 
+        "B. Solo en casos de que la auditoria externa sea legalmente exigible.", 
+        "C. Se realicen con una menor frecuencia o un alcance menos amplio de lo establecido."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Funcionario diplomatico que ocupa temporalmente la Jefatura de una Misión Diplomática por hallarse vacante dicho puesto, por ausencia del titular, etc.",
+        options: ["A. Encargado de negocios.", 
+        "B. Jefe de misión.", 
+        "C. Canciller."],
+        topic: 5,
+        correctAnswer: "A"
+    },
+    {
+        question: "Quien sustitue al titular de un Departamento en el despacho de los asuntos ordinarios de su competencia, en caso de ausencia en el extranjero o enfermedad?",
+        options: ["A. El Secretario de Estado.", 
+        "B. El Subsecretario.", 
+        "C. El Ministro que designe el Presidente del Gobierno."],
+        topic: 5,
+        correctAnswer: "C"
+    },
+    {
+        question: "Los Anteproyectos de ley habran de ser informados por:",
+        options: ["A. La Secretaria General.", 
+        "B. El Ministro correspondiente.", 
+        "C. Congreso de los diputados."],
+        topic: 5,
+        correctAnswer: "A"
+    },
+    {
+        question: "La responsabilidad criminal del Presidente y los demas miembros del Gobierno será exigible:",
+        options: ["A. La sala de lo Contencioso - Administrativo del Tribunal Supremo.", 
+        "B. La Sala de lo Penal de la Audiencia Nacional.", 
+        "C. La Sala de lo Penal del Tribunal Supremo."],
+        topic: 5,
+        correctAnswer: "C"
+    },
+    {
+        question: "El Presidente del Gobierno, previa deliberacion del Consejo de Ministros, puede plantear ante el Cngreso de los Diputados la cuestion de confianza sobre su programa o sobre una declaracion de politica general. La confianza se entendera otorgada cuando vote a favor de la misma:",
+        options: ["A. La maoria absoluta de los Diputados.", 
+        "B. La mayoria simple de los Diputados.", 
+        "C. Ninguna de las respuestas es correcta."],
+        topic: 5,
+        correctAnswer: "B"
+    },
+    {
+        question: "La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, sera determinada por:",
+        options: ["A. Real Decreto del Presidente del Gobierno.", 
+        "B. Real Decreto del Consejo en Madrid.", 
+        "C. Ninguna de las respuestas es correcta."],
+        topic: 5,
+        correctAnswer: "A"
+    },
+    {
+        question: "Con caracter general, no son delegables las competencias del Ministro en favor de:",
+        options: ["A. Los Secretarios de Estado.", 
+        "B. Los Delegados del Gobierno en las Comunidades Autonomas.", 
+        "C. Del Vicepresidente."],
+        topic: 5,
+        correctAnswer: "C"
+    },
+    {
+        question: "Los embajadores serán designados y cesados:",
+        options: ["A. Por Real Decreto del Consejo de Ministros, a propuesta del titular del Ministerio o del Presidente del Gobierno.", 
+        "B. Por Real Decreto acordado en Consejo de Ministros a propuesta del Ministro de Asuntos exteriores, UE y Cooperacion.", 
+        "C. Por Real Decreto del Consejo de Ministros, a iniciativos del ministro ha interesado y a propuesta del ministro de Hacienda y Administraciones Públicas."],
+        topic: 5,
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quien puede ordenar operaciones a la Fuerzas Armadas en el exterior que no esten directamente relacionadas con la defensa de España o el interes nacional?",
+        options: ["A. El Gobierno.", 
+        "B. El Presidente del Gobierno.", 
+        "C. Las Cortes Generales."],
+        topic: 5,
+        correctAnswer: "B"
+    },
 ];
+
+
+let currentQuestions = [];
+let correctAnswers = 0;
+let wrongAnswers = 0;
+
+document.getElementById('testButton').addEventListener('click', () => {
+    const questionCount = parseInt(document.getElementById('questionCount').value);
+    const selectedTopic = document.getElementById('topicSelect').value;
+
+    if (selectedTopic === 'all') {
+        currentQuestions = questions.slice(0, questionCount);
+    } else {
+        const filteredQuestions = questions.filter(q => q.topic === parseInt(selectedTopic));
+        currentQuestions = filteredQuestions.slice(0, questionCount);
+    }
+
+    correctAnswers = 0;
+    wrongAnswers = 0;
+    displayTest();
+});
+
+document.getElementById('viewAllButton').addEventListener('click', () => {
+    displayAllQuestions();
+});
+
+function displayTest() {
+    const testSection = document.getElementById('testSection');
+    testSection.innerHTML = '';
+    currentQuestions.forEach((question, index) => {
+        const questionDiv = document.createElement('div');
+        questionDiv.innerHTML = `
+            <p>${index + 1}. ${question.question}</p>
+            <ul>
+                ${question.options.map((option, i) => `<li data-question-index="${index}" data-option-index="${i}">${option}</li>`).join('')}
+            </ul>
+        `;
+        testSection.appendChild(questionDiv);
+    });
+
+    testSection.classList.remove('hidden');
+    document.querySelectorAll('#testSection ul li').forEach(li => {
+        li.addEventListener('click', handleAnswerClick);
+    });
+}
+
+function handleAnswerClick(event) {
+    const questionIndex = event.target.getAttribute('data-question-index');
+    const optionIndex = event.target.getAttribute('data-option-index');
+    const question = currentQuestions[questionIndex];
+    const selectedOption = question.options[optionIndex];
+
+    const listItems = event.target.parentNode.querySelectorAll('li');
+    listItems.forEach(li => li.classList.remove('correct', 'incorrect', 'default'));
+
+    if (selectedOption.startsWith(question.correctAnswer)) {
+        correctAnswers++;
+        event.target.classList.add('correct');
+    } else {
+        wrongAnswers++;
+        event.target.classList.add('incorrect');
+        listItems.forEach(li => {
+            if (li.textContent.startsWith(question.correctAnswer)) {
+                li.classList.add('correct');
+            }
+        });
+    }
+
+    listItems.forEach(li => {
+        if (!li.classList.contains('correct') && !li.classList.contains('incorrect')) {
+            li.classList.add('default');
+        }
+    });
+
+    calculateFinalScore();
+}
+
+function calculateFinalScore() {
+    const totalQuestions = currentQuestions.length;
+    const score = ((correctAnswers - (wrongAnswers / 2)) / totalQuestions) * 10;
+    const scoreSection = document.createElement('div');
+    scoreSection.classList.add('note-section');
+    scoreSection.textContent = `Nota final: ${score.toFixed(2)}`;
+    const existingScoreSection = document.querySelector('.note-section');
+    if (existingScoreSection) {
+        existingScoreSection.remove();
+    }
+    document.querySelector('main').appendChild(scoreSection);
+}
+
+function displayAllQuestions() {
+    const allQuestionsSection = document.getElementById('allQuestionsSection');
+    allQuestionsSection.innerHTML = '';
+    questions.forEach((question, index) => {
+        const questionDiv = document.createElement('div');
+        questionDiv.innerHTML = `
+            <p>${index + 1}. ${question.question}</p>
+            <ul>
+                ${question.options.map(option => {
+                    const optionClass = option.startsWith(question.correctAnswer) ? 'correct' : '';
+                    return `<li class="${optionClass}">${option}</li>`;
+                }).join('')}
+            </ul>
+        `;
+        allQuestionsSection.appendChild(questionDiv);
+    });
+
+    allQuestionsSection.classList.remove('hidden');
+}
 
 // Función para mezclar preguntas
 function shuffle(array) {
@@ -665,53 +903,25 @@ function showTestQuestions() {
     const filteredQuestions = filterQuestionsByTopic(selectedTopic);
     const shuffledQuestions = shuffle(filteredQuestions).slice(0, questionCount);
 
-    let correctAnswers = 0;
-    let incorrectAnswers = 0;
-    let answeredQuestions = 0;
-
+    currentQuestions = shuffledQuestions;
+    correctAnswers = 0;
+    wrongAnswers = 0;
+    
     shuffledQuestions.forEach((q, index) => {
         const questionElement = document.createElement("div");
         questionElement.innerHTML = `
-            <p>${q.question}</p>
+            <p>${index + 1}. ${q.question}</p>
             <ul>
-                ${q.options.map(option => `<li>${option}</li>`).join("")}
+                ${q.options.map((option, i) => `<li data-question-index="${index}" data-option-index="${i}">${option}</li>`).join('')}
             </ul>
         `;
-        questionElement.querySelector("ul").addEventListener("click", function(event) {
-            if (event.target.tagName === "LI") {
-                const selectedOption = event.target.textContent;
-                const correctOption = q.options.find(option => option.startsWith(q.correctAnswer));
-                const isCorrect = selectedOption.startsWith(q.correctAnswer);
-
-                if (isCorrect) {
-                    event.target.classList.add("correct");
-                    correctAnswers++;
-                } else {
-                    event.target.classList.add("incorrect");
-                    correctAnswers++;
-                }
-
-                Array.from(this.children).forEach(li => {
-                    if (li.textContent.startsWith(q.correctAnswer)) {
-                        li.classList.add("correct");
-                    }
-                    li.style.pointerEvents = "none";
-                });
-
-                answeredQuestions++;
-                if (answeredQuestions === questionCount) {
-                    const score = ((correctAnswers - (incorrectAnswers / 2)) / questionCount) * 10;
-                    const noteSection = document.createElement("div");
-                    noteSection.innerHTML = `<p>Nota final: <strong>${score.toFixed(2)}</strong></p>`;
-                    noteSection.className = 'note-section';
-                    testSection.appendChild(noteSection);
-                }
-            }
-        });
         testSection.appendChild(questionElement);
     });
 
     testSection.classList.remove("hidden");
+    document.querySelectorAll('#testSection ul li').forEach(li => {
+        li.addEventListener('click', handleAnswerClick);
+    });
 }
 
 function showAllQuestions() {
@@ -728,7 +938,7 @@ function showAllQuestions() {
     filteredQuestions.forEach((q, index) => {
         const questionElement = document.createElement("div");
         questionElement.innerHTML = `
-            <p>${q.question}</p>
+            <p>${index + 1}. ${q.question}</p>
             <ul>
                 ${q.options.map(option => {
                     const isCorrect = option.startsWith(q.correctAnswer);
