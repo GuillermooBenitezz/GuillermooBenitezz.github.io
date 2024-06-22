@@ -763,6 +763,328 @@ const questions = [
         topic: 5,
         correctAnswer: "B"
     },
+    {
+        question: "Solo uno de los siguientes principios está garantizado constitucionalmente:",
+        options: ["A. La responsabilidad de la Administración Pública.", 
+        "B. La interdicción de la arbitrariedad del poder judicial.", 
+        "C. La responsabilidad e interdicción de la arbitrariedad de los poderes públicos."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En el contexto del PEPIC se insta a los Estados miembros a elaborar un programa nacional de protección, que incluya",
+        options: ["A. La identificación de las interdependencias geográficas.", 
+        "B. La programación de planes de intervención.", 
+        "C. La clasificación de las infraestructuras críticas nacionales en función de su operatividad activa."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿En qué instancia de la personalidad del ser humano, se inscribe la inconsciencia?",
+        options: ["A. En el “yo”.", 
+        "B. En el “ello”.", 
+        "C. En el “superyó”."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Órgano colegiado de apoyo al Consejo de Seguridad Nacional cuya composición reflejará el espectro de los ámbitos de los departamentos, organismos y agencias de las administraciones públicas con competencias en materia de ciberseguridad. Hablamos de:",
+        options: ["A. El Instituto Nacional de Ciberseguridad.", 
+        "B. La Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad.", 
+        "C. El Consejo Nacional de Ciberseguridad."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La Ley de Medidas para la Protección de las Infraestructuras Críticas, respecto al Programa Nacional de Seguridad de la Aviación Civil:",
+        options: ["A. Lo deroga expresamente, puesto que sus previsiones se aplican en lugar de este Programa.", 
+        "B. Lo deroga tácitamente, puesto que sus previsiones se aplican con preferencia a las del programa.", 
+        "C. Se aplica sin perjuicio de lo que el Programa dispone."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Los representantes de Estado en el Consejo de Política de Seguridad serán designados por:",
+        options: ["A. El Gobierno.", 
+        "B. El Ministerio del Interior.", 
+        "C. El Secretario de Estado de Seguridad."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los Delegados del Gobierno:",
+        options: ["A. Ejercen las competencias del Estado bajo la dependencia funcional del Ministerio del Interior a los efectos de proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.", 
+        "B. Dirigen y coordinan la protección civil en todas las provincias.", 
+        "C. Son nombrados por libre designación entre funcionarios de carrera del Estado, de las Comunidades Autónomas o de las Entidades Locales, pertenecientes a Cuerpos o Escalas clasificados como Subgrupo A1."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La conciencia colectiva es propia de las sociedades",
+        options: ["A. Urbanas.", 
+        "B. Rurales.", 
+        "C. Urbanas y rurales."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Indique cuál de los siguientes no requerirá aprobación por el Secretario de Estado de Seguridad:",
+        options: ["A. Plan Nacional de Protección de Infraestructuras Críticas.", 
+        "B. Plan de Seguridad del Operador.", 
+        "C. Plan Estratégico Sectorial"],
+        correctAnswer: "C"
+    },
+    {
+        question: "Para la contratación de servicios de seguridad privada en los sectores estratégicos definidos en la legislación de protección de infraestructuras críticas, las empresas de seguridad privada deberán contar, con carácter previo a su prestación, con:",
+        options: ["A. Una certificación emitida por una entidad de certificación acreditada.", 
+        "B. Una habilitación profesional expedida por el Ministerio del Interior.", 
+        "C. Una autorización emitida por el Ministerio del Interior con los requisitos que reglamentariamente se determinen."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Con carácter general,no son delegables las competencias del Ministro en favor de:",
+        options: ["A. Los Secretarios de Estado.", 
+        "B. Los Delegados del Gobierno en las Comunidades Autónomas.", 
+        "C. Del Vicepresidente."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La protección de Ias infraestructuras críticas requieren de la adopción y aplicación de diversos planes de actuación para hacer frente a eventuales amenazas. ¿Cuál de los siguientes no se corresponde con uno de ellos?",
+        options: ["A. Planes Estratégicos Sectoriales.", 
+        "B. Planes Operativos Específicos.", 
+        "C. Planes de Seguridad del Operador."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Del estudio de las leyes necesarias para regular la convivencia social, se encarga",
+        options: ["A. La Sociología.", 
+        "B. La Estática social.", 
+        "C. La Dinámica social."],
+        correctAnswer: "B"
+    },
+    {
+        question: "En el año 2000 se celebró en la sede de las Naciones Unidas en Nueva York",
+        options: ["A. La “Cumbre del Desarrollo del Milenio”.", 
+        "B. La “Conferencia Mundial del Milenio”.", 
+        "C. Ninguna de las anteriores es correcta."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Señale cuál de los siguientes no forma parte de la composición del Consejo Europeo",
+        options: ["A. Jefe de Estado o de Gobierno de los Estados miembros.", 
+        "B. Míster Pesc.", 
+        "C. Míster Europe."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Cómo se crean los orgaos de examees para la seleccion de funcionarios?",
+        options: ["A. Los tribunales se nombra, salvo excepcion justificada, en la Orden de la convocatoria.", 
+        "B. Las Comisiones Permanenes de Seleccion y los Tribunales se crean a traves de Orden del ministerio de Transformacion Digital y Funcion publica.", 
+        "C. Las Comisiones Permanentes de Seleccion se crean pro Orden del Ministerio al que esten adscritos los Cuerpos objeto de seleccion."],
+        topic: 6,
+        correctAnswer: "A"
+    },
+    {
+        question: "El nombramiento de funcionario de carrera debe publicarse necesariamente:",
+        options: ["A. En el BOE.", 
+        "B. En el Boletin Oficial de la Provincia o Comunidad Autonoma.", 
+        "C. En el Diario Oficial Correspondientet."],
+        topic: 6,
+        correctAnswer: "C"
+    },
+    {
+        question: "Segun el Estatuto Basico del Empleado Publico, ¿a quien corresponde el ejercicio de las funciones que impliquen la participacin directa o indirecta en el ejercicio de las potestades publicas o en la salvaguardia de los inereses generales del Esado y de las Administraciones Publicas?",
+        options: ["A. A los funcionarios publicos, anto de carrera como interinos.", 
+        "B. Exclusivamente a los funcionarios de carrera.", 
+        "C. A los funcionarios publicos  al personal laboral que se encuentre realizando sus funciones al servicio de la Administracion."],
+        topic: 6,
+        correctAnswer: "B"
+    },
+    {
+        question: "No se menciona como fundamento de actuacion en el Estatuto Basico del Empleado Publico",
+        options: ["A. Igualdad de trato entre hombres y mujeres.", 
+        "B. Objetividad, profesionalidad e imparcialidad en el servicio garantizadas con la inamovilidad en la condicion de funcionario de carrera.", 
+        "C. Transparencia en planificacion y la gestion de recursos humanos."],
+        topic: 6,
+        correctAnswer: "C"
+    },
+    {
+        question: "Las pruebas de los procesos selectivos reguladas en el articulo 61 del texto refundido del Estatuto Basico del Empleado Publico, podra completarse con la superacion de cursos, periodos de practicas...al objeto de asegurar:",
+        options: ["A. La igualdad y objetividad de los procedimientos.", 
+        "B. La objetividad y racionalidad de los procesos.", 
+        "C. El merito y capacidad de los aspirantes."],
+        topic: 6,
+        correctAnswer: "B"
+    },
+    {
+        question: "Por acumulacion o exceso de tareas un funcionario interino puede ser nombrado por un plazo maximo de:",
+        options: ["A. Seis meses.", 
+        "B. Un año.", 
+        "C. Nueve meses, dentro de un periodo de dieciocho meses."],
+        topic: 6,
+        correctAnswer: "C"
+    },
+    {
+        question: "¿De cuantos miembros estara compuesto un Tribunal de seleccion?",
+        options: ["A. Inferior a cinco.", 
+        "B. No inferior a cinco.", 
+        "C. Igual a cinco."],
+        topic: 6,
+        correctAnswer: "B"
+    },
+    {
+        question: "Para la activación de los Niveles de Alerta Antiterrorista, la autoridad competente para hacerlo, deberá basarse en informes y otras circunstancias que elaborará:",
+        options: ["A. Los Directores Generales de la Policía y de la Guardia Civil.", 
+        "B. El Gabinete del Ministro del lnterior.", 
+        "C. Un comité de expertos."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En el caso de un MENA, la Oficina de Extranjería en la provincia en la que esté fijado el domicilio del menor iniciará el procedimiento relativo a la autorización de residencia una vez haya quedado acreditada la imposibilidad de repatriación del menor:",
+        options: ["A. De oficio.", 
+        "B. De oficio o por orden superior.", 
+        "C. De oficio, por orden superior o a instancia de parte."],
+        correctAnswer: "C   "
+    },
+    {
+        question: "Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios serán :",
+        options: ["A. Reservadas.", 
+        "B. Secretas.", 
+        "C. Privadas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Instrumentos dirigidos a hacer que las fuerzas del mercado sean las principales propiciadoras del cumplimiento de las metas ambientales de la sociedad:",
+        options: ["A. Instrumentos de información ambiental.", 
+        "B. Instrumentos de mercado.", 
+        "C. Instrumentos administrativos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La identidad supuesta del agente encubierto será otorgada por periodos de:",
+        options: ["A. Seis meses prorrogables por períodos de igual duración.", 
+        "B. Tres meses prorrogables por períodos de igual duración.", 
+        "C. Ninguna de las respuestas es correcta."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El procedimiento y condiciones para la expedición de visados uniformes y de validez territorial limitada se regulan por lo establecido:",
+        options: ["A. En el derecho nacional.", 
+        "B. En el Derecho de la Unión Europea.", 
+        "C. En el Derecho Internacional."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La gestión, custodia y mantenimiento del Catálogo de lnfraestructuras Críticas corresponden a:",
+        options: ["A. Centro Nacional para la Protección de las lnfraestructuras y Ciberseguridad.", 
+        "B. La Comisión Nacional para la Protección de las lnfraestructuras Críticas.", 
+        "C. Ministerio del lniterior a través de la Secretaría de Estado de Seguridad."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El mantenimiento período de los vehículos, basado fundamentalmente en detectar una falla antes de que suceda, para dar tiempo a corregirla sin prejuicios al servicio, es lo que se conoce como:",
+        options: ["A. Mantenimiento correctivo.", 
+        "B. Mantenimiento preventivo.", 
+        "C. Mantenimiento predictivo."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué agente del Sistema para la Protección de las lnfraestructuras Críticas será el encargado de elaborar los Planes Estratégicos Sectoriales?",
+        options: ["A. El Grupo de Trabajo lnterdepartamental.", 
+        "B. La Secretaría de Estado de Seguridad.", 
+        "C. El Centro Nacional para la Protección de las lnfraestructuras y Ciberseguridad."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuál es el número total de líneas de acción que se impulsan en el ámbito de la ciberseguridad?",
+        options: ["A. 9.", 
+        "B. 10.", 
+        "C. 7."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué principio no permite que las ideas y acciones de una persona o grupo cultural esté por encima de otro, favorecienco en todo momento el diálogo y la concertación?:",
+        options: ["A. Pluralismo cultural.", 
+        "B. Adaptación social.", 
+        "C. Interculturalidad."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Cuál es el único instrumento de planificación del sistema que se revisa cada 5 años?",
+        options: ["A. El Plan de Apoyo Operativo.", 
+        "B. El Plan Nacional.", 
+        "C. El Plan de protección específico."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Los salvoconductos de entrada que se expidan en el marco de un procedimiento de evacuación de desplazados:",
+        options: ["A. Se tramitará con carácter preferente.", 
+        "B. Se tramitará con carácter preferente, al igual que los visados.", 
+        "C. Se tramitará con carácter preferente, al igual que los visados y las autorizaciones de entrada que se expidan."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿En qué período de la historia se produjo la conocida como Revolución Agrícola?:",
+        options: ["A. En el Neolítico.", 
+        "B. En el siglo XVIII con la invención del motor en Inglaterra.", 
+        "C. En el Renacimiento."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El actual sistema de niveles de Alerta Antiterrorista data del año:",
+        options: ["A. 2015.", 
+        "B. 2013.", 
+        "C. 2016."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El control del Gobierno se va a llevar a cabo desde tres puntos de vista:",
+        options: ["A. Jurisdiccional, administrativo y constitucional.", 
+        "B. Jurisdiccional, político y constitucional.", 
+        "C. Administrativo, político y constitucional."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Según el art. 8.1 del Estatuto Básico del Empleado Público, quienes desempeñan funciones retribuidas en las Administraciones Públicas, son:",
+        options: ["A. Empleados públicos.", 
+        "B. Funcionarios públicos.", 
+        "C. Los dos anteriores."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué órgano de  Naciones Unidas es el encargado de mejorar la situación de los derechos humanos en todos sus países miembros?:",
+        options: ["A. El Consejo de Derechos Humanos.", 
+        "B. La Comisión de Derechos Humanos.", 
+        "C. El Comité de Derechos Humanos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El Estado Español cuenta desde el año 2013 con un documento donde se recoge las acciones a desarrollar por el Gobierno para proteger Ia libertad y el bienestar de los ciudadanos, garantizar la defensa nacional y sus principios y valores constitucionales denominado:",
+        options: ["A. Estrategia de Seguridad Nacional.", 
+        "B. Ley de Seguridad Nacional.", 
+        "C. Plan Nacional de Protección de las lnfraestructuras Críticas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "En el procedimiento prejudicial de urgencia (PPU) ante el Tribunal de Justicia de la UE , estos asuntos:",
+        options: ["A. Se confían a una sala de tres jueces especialmente designada.", 
+        "B. Se confían a una sala de cinco jueces especialmente designada.", 
+        "C. Se confían a una sala de siete jueces especialmente designada."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quién propone al Parlamento Europeo un candidato para el cargo de presidente de la Comisión Europea?",
+        options: ["A. El Consejo Europeo.", 
+        "B. El consejo de la UE.", 
+        "C. El Parlamento."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Qué organismo desempeña la función de guardián del Tribunal Europeo de Derechos Humanos?",
+        options: ["A. El Comisario del Consejo de Europa.", 
+        "B. La Asamblea Parlamentaria del Consejo de Europa.", 
+        "C. El Comité de Ministros del Consejo de Europa."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El documento sobre Estrategia de Seguridad Nacional vigente en la actualidad en España considera necesario la actuación en varios ámbitos prioritarios, siendo estos un total de:",
+        options: ["A. Cinco.", 
+        "B. Quince.", 
+        "C. Diez."],
+        correctAnswer: "B"
+    },
 ];
 
 
