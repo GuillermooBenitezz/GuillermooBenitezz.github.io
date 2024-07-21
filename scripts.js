@@ -141,24 +141,10 @@ const questions = [
         correctAnswer: "A"
     },
     {
-        question: "Indique cuál de los servicios de vigilancia y protección no pueden prestarse fuera de los edificios, de las instalaciones o propiedades sin necesidad de autorización previa:",
-        options: ["A. La retirada y reposición de fondos en cajeros automáticos, así como la prestación de servicios de vigilancia y protección de los mismos durante las citadas operaciones, o en las de reparación de averías.", 
-        "B. Los desplazamientos al exterior de los inmuebles objeto de protección para la realización de actividades directamente relacionadas con las funciones de vigilancia y seguridad de dichos inmuebles.", 
-        "C. La vigilancia en acontecimientos culturales, deportivos o cualquier otro evento de relevancia social que se desarrolle en vías o espacios públicos o de uso común, en coordinación, en todo caso, con las Fuerzas y Cuerpos de Seguridad."],
-        correctAnswer: "C"
-    },
-    {
         question: "El desarrollo del conocimiento aprovechando la capacidad del ser humano de adaptarse al medio ambiente, es el fundamento de:",
         options: ["A. Teoría de la imitación.", 
         "B. Teoría del conductismo.", 
         "C. Teoría del desarrollo cognitivo."],
-        correctAnswer: "C"
-    },
-    {
-        question: "¿En qué casos le corresponde la competencia sancionadora al Secretario de Estado de Seguridad?",
-        options: ["A. Inducir, promover, favorecer o facilitar con ánimo de lucro, individualmente o formando parte de una organización, la inmigración clandestina de personas en tránsito o con destino al territorio español o su permanencia en el mismo, siempre que el hecho no constituya delito.", 
-        "B. La comisión de una tercera infracción grave siempre que en un plazo de un año anterior hubiera sido sancionado por dos faltas graves de la misma naturaleza.", 
-        "C. En los supuestos de participación en actividades contrarias a la seguridad nacional o que pueden perjudicar las relaciones de España con otros países."],
         correctAnswer: "C"
     },
     {
@@ -167,13 +153,6 @@ const questions = [
         "B. Orden Jurídico o Justicia.", 
         "C. Conjunto de normas atribuidas a una persona."],
         correctAnswer: "B"
-    },
-    {
-        question: "Señale la opción incorrecta en relación a las causas de denegación de las solicitudes realizadas en puestos transfronterizos:",
-        options: ["A. Cuando no corresponda a España su examen de conformidad con los convenios internacionales en que sea Parte.", 
-        "B. Que planteen exclusivamente cuestiones que no guarden relación con el examen de los requisitos para el reconocimiento de la condición de refugiado o la concesión de la protección subsidiaria.", 
-        "C. Que la persona solicitante incurra en alguno de los supuestos de exclusión o de denegación."],
-        correctAnswer: "A"
     },
     {
         question: "¿Quién relaciona las actitudes con el sistema nervioso?:",
@@ -188,34 +167,6 @@ const questions = [
         "B. Si, aunque son abstractos.", 
         "C. Sí, porque son concretos."],
         correctAnswer: "B"
-    },
-    {
-        question: "El periodo de internamiento se mantendrá por el tiempo imprescindible para los fines del expediente y no podrá exceder en ningún caso:",
-        options: ["A. De 90 días.", 
-        "B. De dos meses.", 
-        "C. De sesenta días."],
-        correctAnswer: "C"
-    },
-    {
-        question: "Representan al reino de España en un órgano de una organización internacional, en una conferencia de estados convocada por una organicé internacional o bajo sus auspicios, o en un acto concreto organizado por un tercer estado para el que se requiera conformar una delegación con carta oficial.",
-        options: ["A. Delegaciones.", 
-        "B. Oficinas consulares.", 
-        "C. Misiones Diplomaticas Especiales."],
-        correctAnswer: "A"
-    },
-    {
-        question: "¿Cada cuanto se reúne las representaciones permanentes en el COREPER?",
-        options: ["A. Semanalmente.", 
-        "B. Mensualmene.", 
-        "C. Trimestralmente."],
-        correctAnswer: "A"
-    },
-    {
-        question: "¿En qué año pasó el Consejo Europeo a ser una de las 7 instituciones de la UE?",
-        options: ["A. 2003.", 
-        "B. 1999.", 
-        "C. 2009."],
-        correctAnswer: "C"
     },
     {
         question: "Cuando el volumen de las consultas lo exija, ¿A propuesta de quién se puede ampliar el número de secciones del Consejo de Estado?",
@@ -253,13 +204,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "¿Qué instituciones de la Unión Europea tiene la consideración de máximo órgano 'ejecutivo', máximo órgano 'decisorio y legislativo' y máximo órgano político?",
-        options: ["A. El Consejo Europeo, el Consejo de la UE y la Comisión, respectivamente", 
-        "B. El Consejo de la UE, el Consejo Europeo y la Comision Europea, respectivamente.", 
-        "C. La Comision Europea, el Consejo de la UE y el Consejo Europeo, respectivamente."],
-        correctAnswer: "C"
-    },
-    {
         question: "En una cuestión prejudicial presentada ante el tribunal de Justicia de la UE, una vez notificada la misma, los Estados miembros y las instituciones disponen de:",
         options: ["A. 15 días para presentar al Tribunal de Justicia sus observaciones escritas.", 
         "B. Un mes para presentar al Tribunal de Justicia sus observaciones escritas.", 
@@ -271,13 +215,6 @@ const questions = [
         options: ["A. Siempre por la fuerza y cuerpo segura del Estado.", 
         "B. En la Comunidad Autónoma con competencias la materia, su cuerpo policial, si lo posee.", 
         "C. La Secretaría de Estado de seguridad."],
-        correctAnswer: "B"
-    },
-    {
-        question: "¿De cuantos miembros está compuesto el Comité Ejecutivo de Interpol?",
-        options: ["A. De un presidente, cuatro vicepresidente y ocho vocales.", 
-        "B. De un presidente, tres vicepresidentes y nueve vocales.", 
-        "C. De un presidente, dos vicepresidentes y cuatro vocales."],
         correctAnswer: "B"
     },
     {
@@ -299,20 +236,6 @@ const questions = [
         options: ["A. Impar no superior a cinco.", 
         "B. Par no inferior a seis.", 
         "C. Impar no inferior a cinco."],
-        correctAnswer: "C"
-    },
-    {
-        question: "La autoridad competente que sola o conjuntamente con otras, determine los fines y medios del tratamiento de datos personales; en caso de que los fines y medios del tratamiento estén determinados por el Derecho de la Unión Europea o por la legislación española se denomina:",
-        options: ["A. Encargado del tratamiento.", 
-        "B. Delegado de Protección de datos.", 
-        "C. Responsable del tratamiento."],
-        correctAnswer: "C"
-    },
-    {
-        question: "El uso de EPI es una medida de prevención:",
-        options: ["A. De carácter general.", 
-        "B. De carácter específico.", 
-        "C. De carácter excepcional."],
         correctAnswer: "C"
     },
     {
@@ -407,14 +330,6 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "Señale cual de las siguientes no es una caracteristica de las clausulas pasarela:",
-        options: ["A. Permiten de un procedimiento legislativo especial al procedimienot legislativo ordinario para adoptar un acto en un ámbito determinado.", 
-        "B. Permiten pasar de una votación por mayoría cualificada a una votación por unanimidad para adoptar un acto en un ámbito determinado.", 
-        "C. La activación de una cláusula pasarela siempre depende de una decisión adoptada por unanimidad."],
-        topic: 4,
-        correctAnswer: "B"
-    },
-    {
         question: "En una cuestion prejudicial ane el Tribunal de Justicia de la UE, una vez notificada a las partes la peticion de la cuestion, estas disponen de _____ para presenar al Tribunal de Justicia sus observaciones escritas",
         options: ["A. Un mes.", 
         "B. Dos meses.", 
@@ -483,22 +398,6 @@ const questions = [
         options: ["A. Consejo Europeo.", 
         "B. Parlamento.", 
         "C. Comision."],
-        topic: 4,
-        correctAnswer: "A"
-    },
-    {
-        question: "¿Cuantas lenguas oficiales tiene la UE?",
-        options: ["A. 22.", 
-        "B. 23.", 
-        "C. 24."],
-        topic: 4,
-        correctAnswer: "C"
-    },
-    {
-        question: "Fue el tratado por el que se creo una unica Comision y un unico Consejo:",
-        options: ["A. Tratado de Bruselas.", 
-        "B. Acta Unica Europea.", 
-        "C. Tratado de Amsterdam."],
         topic: 4,
         correctAnswer: "A"
     },
@@ -649,13 +548,6 @@ const questions = [
         correctAnswer: "A"
     },
     {
-        question: "A continuación se indican algunos de los factores relacionados con el tráfico y su influencia en la siniestralidad vial. Señale cuál de ellos es uno de los factores de riesgo que influye en el agravamiento de las lesiones después del accidente:",
-        options: ["A. Presencia de elementos extremadamente rígidos y con aristas pronunciadas en los laterales de las vías sin la adecuada protección.", 
-        "B. Deficiencias en la atención a las víctimas durante el traslado o en los servicios de urgencia.", 
-        "C. Falta de uso de sistemas de retención como los cinturones de seguridad o sillitas infantiles."],
-        correctAnswer: "B"
-    },
-    {
         question: "¿En qué año se negocia el Protocolo de Montreal?",
         options: ["A. 1987.", 
         "B. 1988.", 
@@ -708,28 +600,12 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "Los Anteproyectos de ley habran de ser informados por:",
-        options: ["A. La Secretaria General.", 
-        "B. El Ministro correspondiente.", 
-        "C. Congreso de los diputados."],
-        topic: 5,
-        correctAnswer: "A"
-    },
-    {
         question: "La responsabilidad criminal del Presidente y los demas miembros del Gobierno será exigible:",
         options: ["A. La sala de lo Contencioso - Administrativo del Tribunal Supremo.", 
         "B. La Sala de lo Penal de la Audiencia Nacional.", 
         "C. La Sala de lo Penal del Tribunal Supremo."],
         topic: 5,
         correctAnswer: "C"
-    },
-    {
-        question: "El Presidente del Gobierno, previa deliberacion del Consejo de Ministros, puede plantear ante el Cngreso de los Diputados la cuestion de confianza sobre su programa o sobre una declaracion de politica general. La confianza se entendera otorgada cuando vote a favor de la misma:",
-        options: ["A. La maoria absoluta de los Diputados.", 
-        "B. La mayoria simple de los Diputados.", 
-        "C. Ninguna de las respuestas es correcta."],
-        topic: 5,
-        correctAnswer: "B"
     },
     {
         question: "La suplencia de los Ministros, para el despacho ordinario de los asuntos de su competencia, sera determinada por:",
@@ -820,13 +696,6 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "Indique cuál de los siguientes no requerirá aprobación por el Secretario de Estado de Seguridad:",
-        options: ["A. Plan Nacional de Protección de Infraestructuras Críticas.", 
-        "B. Plan de Seguridad del Operador.", 
-        "C. Plan Estratégico Sectorial"],
-        correctAnswer: "C"
-    },
-    {
         question: "Para la contratación de servicios de seguridad privada en los sectores estratégicos definidos en la legislación de protección de infraestructuras críticas, las empresas de seguridad privada deberán contar, con carácter previo a su prestación, con:",
         options: ["A. Una certificación emitida por una entidad de certificación acreditada.", 
         "B. Una habilitación profesional expedida por el Ministerio del Interior.", 
@@ -841,25 +710,11 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "La protección de Ias infraestructuras críticas requieren de la adopción y aplicación de diversos planes de actuación para hacer frente a eventuales amenazas. ¿Cuál de los siguientes no se corresponde con uno de ellos?",
-        options: ["A. Planes Estratégicos Sectoriales.", 
-        "B. Planes Operativos Específicos.", 
-        "C. Planes de Seguridad del Operador."],
-        correctAnswer: "B"
-    },
-    {
         question: "Del estudio de las leyes necesarias para regular la convivencia social, se encarga",
         options: ["A. La Sociología.", 
         "B. La Estática social.", 
         "C. La Dinámica social."],
         correctAnswer: "B"
-    },
-    {
-        question: "En el año 2000 se celebró en la sede de las Naciones Unidas en Nueva York",
-        options: ["A. La “Cumbre del Desarrollo del Milenio”.", 
-        "B. La “Conferencia Mundial del Milenio”.", 
-        "C. Ninguna de las anteriores es correcta."],
-        correctAnswer: "C"
     },
     {
         question: "Señale cuál de los siguientes no forma parte de la composición del Consejo Europeo",
@@ -932,13 +787,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "En el caso de un MENA, la Oficina de Extranjería en la provincia en la que esté fijado el domicilio del menor iniciará el procedimiento relativo a la autorización de residencia una vez haya quedado acreditada la imposibilidad de repatriación del menor:",
-        options: ["A. De oficio.", 
-        "B. De oficio o por orden superior.", 
-        "C. De oficio, por orden superior o a instancia de parte."],
-        correctAnswer: "C   "
-    },
-    {
         question: "Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios serán :",
         options: ["A. Reservadas.", 
         "B. Secretas.", 
@@ -988,13 +836,6 @@ const questions = [
         correctAnswer: "A"
     },
     {
-        question: "¿Cuál es el número total de líneas de acción que se impulsan en el ámbito de la ciberseguridad?",
-        options: ["A. 9.", 
-        "B. 10.", 
-        "C. 7."],
-        correctAnswer: "C"
-    },
-    {
         question: "¿Qué principio no permite que las ideas y acciones de una persona o grupo cultural esté por encima de otro, favorecienco en todo momento el diálogo y la concertación?:",
         options: ["A. Pluralismo cultural.", 
         "B. Adaptación social.", 
@@ -1007,13 +848,6 @@ const questions = [
         "B. El Plan Nacional.", 
         "C. El Plan de protección específico."],
         correctAnswer: "B"
-    },
-    {
-        question: "Los salvoconductos de entrada que se expidan en el marco de un procedimiento de evacuación de desplazados:",
-        options: ["A. Se tramitará con carácter preferente.", 
-        "B. Se tramitará con carácter preferente, al igual que los visados.", 
-        "C. Se tramitará con carácter preferente, al igual que los visados y las autorizaciones de entrada que se expidan."],
-        correctAnswer: "C"
     },
     {
         question: "¿En qué período de la historia se produjo la conocida como Revolución Agrícola?:",
@@ -1085,6 +919,343 @@ const questions = [
         "C. Diez."],
         correctAnswer: "B"
     },
+    {
+        question: "¿Que medida establecida en la Ley de Enjuiciamiento Criminal tiene la duracion maxima de un mes, prorrogable por iguales periodos hasta un maximo de tres meses?",
+        options: ["A. Registro de almacenamientos masivos de informacion.", 
+        "B. Registros remotos sobre equipos informaticos.", 
+        "C. Utilizacion de dispositivos tecnicos de captacion de la imagen, de seguimiento y de localizacion."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿De quien depende la OLAF u Oficina Europea de la Lucha contra el Fraude?",
+        options: ["A. Del Consejo Europeo.", 
+        "B. De la Comision Europea.", 
+        "C. Del COnsejo de la UE."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La UE le otroga la competencia para la defensa y la proeccion del 'principio de subsidiariedad'",
+        options: ["A. Comite de las Regiones.", 
+        "B. Comite Economico y Social.", 
+        "C. Parlamento."],
+        correctAnswer: "A"
+    },
+    {
+        question: "No se inscribiran en el Registro Nacional de Seguridad Privada:",
+        options: ["A. Sanciones impuesas a empresas de seguridad privada por infracciones en el ambito de la Seguridad Social.", 
+        "B. Modificaciones de conratos en el ambito de seguridad privada.", 
+        "C. Centros de formacion de seguridad privada."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Aparte de la Agenda 21, en el seno de la UNCED o Cumbre de la Tierra se adopta­ron otras dos resoluciones de enorme interés:",
+        options: ["A. La Declaración de Río sobre Desarrollo y Medioambiente y la Resolución The future we want.", 
+        "B. La Declaración de Río sobre Desarrollo y Medioambiente y la Declaración de Principios para la Gestión Sostenible de bosques.", 
+        "C. Ninguna de las anteriores es cierta, y además el enunciado no es correcto: la Agenda 21 no se adoptó en el seno de la UNCED."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Señala la respuesta correcta:",
+        options: ["A. La aculturación es un proceso que dura toda la vida.", 
+        "B. La enculturación es un proceso que dura toda la vida.", 
+        "C. La transculturación es un proceso que dura toda la vida."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El director del gabinete de un Secretario de Esado sera nombrado por:",
+        options: ["A. ORden Ministerial", 
+        "B. Real Decreto Presidente del Gobierno", 
+        "C. Real Decreto Consejo de Ministros"],
+        correctAnswer: "A"
+    },
+    {
+        question: "Es correcto afirmar, en cuanto a lo que establece la Constitucion sobre el Tribunal Constitucional:",
+        options: ["A. Que su funcionamiento, el estatuto de sus miembros y el procedimiento ante este Tribunal se desarrolla posteriormente en una ley ordinaria.", 
+        "B. Las sentencias del Tribunal Constitucional se plucaran en el BOE, teniendo estas el valor de cosa juzgada, sin que procesa el recurso contra dichas sentencias", 
+        "C. Que los mimebros del Tribunal Constitucional estaran nombrados para un mandato de 5 años, renovados por terceras partes cada tres"],
+        correctAnswer: "B"
+    },
+    {
+        question: "El Pacto Internacional de Derechos Sociales, Economicos y Culturales de la ONU, equivale a :",
+        options: ["A. Carta de Turin", 
+        "B. Convenio de Roma", 
+        "C. Ninguna de las respuestas anteriores es correcta"],
+        correctAnswer: "A"
+    },
+    {
+        question: "En el cumplimiento de sus funciones el Consejo Nacional de Ciberseguridad sera apoyado por:",
+        options: ["A. Las Fuerzas y Cuerps de Seguridad del Estado", 
+        "B. Un comite de expertos de las Administraciones Publicas", 
+        "C. Departamento de Seguridad Nacional"],
+        correctAnswer: "C"
+    },
+    {
+        question: "El uso del agua de la huella hidrica se mide:",
+        options: ["A. En volumen de agua contaminada por unidad de tiempo", 
+        "B. En volumen de agua consumida o evaporada y/o contaminada pr unidad de tiempo.", 
+        "C. Ninguna de las anteriores es correcta."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Cuando la gravedad urgencia de los hechos lo aconsejen, el Defensor del Pueblo pos presentar un informe extraordinario ¿A quien lo dirigira?",
+        options: ["A. Al Presidente del Gobierno, si las Camaras no estuvieran reunidas.", 
+        "B. A las Diputaciones Permanente de las Camaras, si estas no se encontraran reunidas.", 
+        "C. Al presidente del Congreso, si las camaras no estuvieran reunidas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Durante cuanto tiempo puede estar ejerciendo el Presidente del tribunal Europeo de los DDHH?",
+        options: ["A. 6 años reelegibles.", 
+        "B. 3 años reelegibles.", 
+        "C. 9 años no reelegibles."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La COP es la Conferencia de las Partes, ¿a qué partes hace referencia esta denominación?",
+        options: ["A. A las partes de la CMNUC.", 
+        "B. A las Partes de la Convención Marco de las Naciones Unidas sobre el Cambio Climático.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Tal como establece el artículo 18 del Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo, las resoluciones de expulsión establecerán un plazo para abandonar el territorio español. Excepto en casos urgentes, debidamente justificados, dicho plazo no podrá ser inferior a :",
+        options: ["A. 15 días.", 
+        "B. Un mes.", 
+        "C. Tres meses."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Entre las teorías más conocidas realizadas sobre las actitudes de la persona autoritaria figura la de:",
+        options: ["A. Adorno.", 
+        "B. Cooley.", 
+        "C. Merton."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los actos y disposiciones dictados por la Presidencia de la Agencia Española de Protección de Datos son recurribles, directamente ante:",
+        options: ["A. El Tribunal Superior de Justicia.", 
+        "B. La Audiencia Nacional.", 
+        "C. El Tribunal Supremo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La derogación de alguno de los derechos establecidos en el Convenio de Roma en caso de estado de urgencia por parte de una nación:",
+        options: ["A. Le obliga a comunicarlo al Secretario General de Naciones Unidas.", 
+        "B. Le obliga a comunicarlo al Secretario General del Consejo de Europa.", 
+        "C. Le obliga a comunicarlo al Presidente del Tribunal de Justicia Europeo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Qué recurso cabe contra la denegación de entrada en territorio español?",
+        options: ["A. Recurso de alzada.", 
+        "B. Recurso potestativo de reposición.", 
+        "C. Recurso contencioso - administrativo."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿De los modelos de convivencia existentes, cual representa realmente una socialización terciaria?",
+        options: ["A. Asimilación.", 
+        "B. Melting pot.", 
+        "C. Integración."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Los sentimientos y las emociones, de qué componente de las actitudes forman parte?",
+        options: ["A. Evaluativo.", 
+        "B. Cognitivo.", 
+        "C. Conductual."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿De cuánto tiempo dispone la autoridad laboral para notificar una resolución de revocación de la autorización a una entidad acreditada?",
+        options: ["A. Seis meses desde la fecha del acuerdo de iniciación del expediente de revocación.", 
+        "B. Cinco meses desde la fecha del acuerdo de iniciación del expediente de revocación.", 
+        "C. Tres meses desde la fecha del acuerdo de iniciación del expediente de revocación."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La ley de Seguridad Privada establece el marco para la más eficiente coordinación de los servicios de seguridad privada con los de las Fuerzas y Cuerpos de Seguridad, de los que son complementarios:",
+        options: ["A. En beneficio de la seguridad privada.", 
+        "B. En beneficio de la seguridad pública.", 
+        "C. Las dos son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Los Ministros son órganos:",
+        options: ["A. Políticos y de gestión.", 
+        "B. Políticos y administrativos.", 
+        "C. Ejecutivos y políticos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Por qué principio se rigen las relaciones entre las normas de carácter estatal y las de los órganos de las CCAA.",
+        options: ["A. Principio de legalidad.", 
+        "B. Principio de competencia.", 
+        "C. Jerarquía normativa."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La capacidad de obrar tiene 3 manifestaciones:",
+        options: ["A. Negocial, procesal y penal.", 
+        "B. Jurídica, natural y personal.", 
+        "C. Negocial, penal y obligatoria."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué es necesario para que prospere una moción de censura?: ",
+        options: ["A. Aprobación por la décima parte de los Diputados.", 
+        "B. Aprobación por mayoría simple del Congreso.", 
+        "C. Aprobación por mayoría absoluta del Congreso."],
+        correctAnswer: "C"
+    },
+    {
+        question: "De acuerdo con el artículo 314 del Tratado de Funcionamiento de la Unión Europea, el presupuesto anual de la Unión:",
+        options: ["A. Es aprobado por el Parlamento Europeo a propuesta del Consejo.", 
+        "B. Es aprobado por la Comisión.", 
+        "C. Es aprobado por el Parlamento Europeo y el Consejo, a propuesta de la Comisión."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quién ejerce las competencias correspondientes a los servicios comunes del Departamento?:",
+        options: ["A. Los Subsecretarios.", 
+        "B. Los Secretarios de Estado.", 
+        "C. Los Directores generales."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale la respuesta correcta:",
+        options: ["A. El visado se solicitará y expedirá en las Misiones Diplomáticas y Oficinas Consulares de España, salvo en los supuestos excepcionales que se contemplen reglamentariamente o en los supuestos en los que el Estado español, de acuerdo con la normativa internacional sobre la materia, haya acordado su representación con otro Estado en materia de visados de tránsito o estancia..", 
+        "B. El visado se solicitará y expedirá en las Misiones Diplomáticas y Oficinas Consulares de España, salvo en los supuestos excepcionales que se contemplen reglamentariamente o en los supuestos en los que el Estado español, de acuerdo con la normativa comunitaria sobre la materia, haya  acordado su representación con otro Estado miembro de la Unión Europea en materia de visados de tránsito o estancia..", 
+        "C. El visado se solicitará y expedirá en las Misiones Diplomáticas y Oficinas Consulares de España, en todo caso.."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Fue el protocolo que eliminó las limitaciones geográficas y temporales contenidas en la Convención de Ginebra  del año 1951:",
+        options: ["A. Protocolo de Ginebra, de 1968.", 
+        "B. Protocolo de Estocolmo, de 1969.", 
+        "C. Protocolo de Nueva York, de 1967."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La autoridad competente para clasificar una infraestructura como estratégica, así como incluirla en el Catálogo corresponde a:",
+        options: ["A. Secretario de Estado de Seguridad.", 
+        "B. Comisión Nacional para la Protección de las lnfraestructuras Críticas.", 
+        "C. Ministro del lnterior."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Según el Art. 27 del Código Penal son responsables criminalmente de los delitos",
+        options: ["A. Los autores, inductores y cooperadores.", 
+        "B. Los autores, cómplices y encubridores.", 
+        "C. Los autores y cómplices."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quién asegurará la coordinación de las actividades de las Unidades de Igualdad, favoreciendo el desarrollo homogéneo de sus funciones y el intercambio de información y experiencias?",
+        options: ["A. La Comisión laboral de Igualdad entre mujeres y hombres.", 
+        "B. La Secretaría de Estado de Igualdad, a través del Observatorio estatal de violencia sobre la mujer.", 
+        "C. La Dirección General de la Función Pública, a través de la Subdirección General de Relaciones Laborales."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La patogenia de la enfermedad profesional es:",
+        options: ["A. Predecible.", 
+        "B. Brusca.", 
+        "C. Difícil de establecer."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Señala en cuál de las siguientes ideas no se basa la PRL",
+        options: ["A. Un accidente laboral es un suceso inevitable.", 
+        "B. Si la tarea está bien estudiada de antemano, se podrán prever los riesgos que puedan aparecer.", 
+        "C. Un accidente laboral no es algo que ocurra irremediablemente, por casualidad."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La aparición del accidente de trabajo no es:",
+        options: ["A. Brusco.", 
+        "B. Predecible", 
+        "C. Difícil de establecer."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Son funciones de la Inspección de Trabajo y Seguridad Social:",
+        options: ["A. La elaboración de los informes solicitados por los Juzgados de lo Social en las demandas de accidentes de trabajo y enfermedades profesionales.", 
+        "B. El asesoramiento técnico en la elaboración de la normativa legal, tanto a nivel nacional como internacional.", 
+        "C. La colaboración con organismos internacionales y el desarrollo de programas de cooperación internacional."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El término “declaración” implica:",
+        options: ["A. Es un documento de obligatorio cumplimiento.", 
+        "B. Su vulneración no es sancionable por el Derecho Internacional.", 
+        "C. Su violación es sancionable por el Derecho Internacional."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La clasificación de los grupos en endogrupo y exogrupo se debe a:",
+        options: ["A. Emile Durkheim.", 
+        "B. William Summer.", 
+        "C. Robert Merton."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Señala la respuesta correcta:",
+        options: ["A. El “superyo” siempre trata de equilibrar los deseos del “ello” con las reglas del “yó”.", 
+        "B. El “yo” siempre trata de equilibrar los deseos del “ello” con las reglas del “superyó”..", 
+        "C. El “ello” siempre trata de equilibrar los deseos del “yo” con las reglas del “superyó”.."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quién sostuvo que la sociedad varía a través del tiempo?",
+        options: ["A. Emile Durkheim.", 
+        "B. Max Weber.", 
+        "C. Peter Berger."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué tipo de solidaridad existe en una sociedad con poca o ninguna división en el trabajo, en las cuales las funciones suelen ser las mismas para todas la personas?",
+        options: ["A. Solidaridad orgánica.", 
+        "B. Solidaridad mecánica.", 
+        "C. Solidaridad funcional."],
+        correctAnswer: "B"
+    },
+    {
+        question: "En el año 1981, el Consejo de Calidad Medioambiental de los Estados Unidos elaboró un informe que consideraba que la biodiversidad era un factor crítico para el adecuado funcionamiento del planeta. ¿Cómo se llamó tal informe?",
+        options: ["A. Informe sobre Medio Ambiente y Desarrollo.", 
+        "B. Informe Global 2000.", 
+        "C. Informe sobre Medio Humano de las Naciones Unidas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Europa 2020 es la estrategia de crecimiento de la unión Europea para la década.",
+        options: ["A. 2010-2020.", 
+        "B. Ninguna es correcta.", 
+        "C. 2020-2030."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién mantiene operativo y actualizado el Catálogo Nacional de infraestructuras estratégicas, estableciendo los procedimientos de alta, baja y modificación de las infraestructuras, tanto nacionales como europeas?",
+        options: ["A. El Ministerio del interior, a través de la Secretaria de Estado de Seguridad.", 
+        "B. El Centro Nacional de Protección de Infraestructuras y Ciberseguridad.", 
+        "C. La Comisión Nacional para la Protección de las Infraestructuras Críticas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Para que una infraestructura sea calificada como estratégica, y en su caso, como infraestructura critica o Infraestructura critica europea, debe cumplir:",
+        options: ["A. Dos o más de los criterios horizontales de criticidad previstos en la Ley de Medidas para la Protección de las Infraestructuras Criticas..", 
+        "B. Al menos uno de los criterios horizontales de criticidad previstos en la Ley de Medidas para la Protección de las Infraestructuras Criticas..", 
+        "C. Más de tres de los criterios horizontales de criticidad previstos en la Ley de Medidas para la Protección de las Infraestructuras Criticas.."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Respecto a los nacionales de terceros países hallados ilegamente en un Estado Miembro, ¿Cuándo va a proceder la comparación de sus datos con los del Sistema Central del Eurodac?",
+        options: ["A. Cuando El nacional del país tercero o apátrida no solicite la protección internacional, pero solicita que le devuelvan a su país de origen, alegando que estaría en peligro..", 
+        "B. Cuando el nacional del país tercero o apátrida declare que ha presentado una solicitud de protección internacional, pero que no indique el Estado miembro en que lo ha hecho.", 
+        "C. Siempre va a proceder la comparación."],
+        correctAnswer: "B"
+    },
+
 ];
 
 
