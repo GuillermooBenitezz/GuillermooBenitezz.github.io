@@ -843,13 +843,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "¿Cuál es el único instrumento de planificación del sistema que se revisa cada 5 años?",
-        options: ["A. El Plan de Apoyo Operativo.", 
-        "B. El Plan Nacional.", 
-        "C. El Plan de protección específico."],
-        correctAnswer: "B"
-    },
-    {
         question: "¿En qué período de la historia se produjo la conocida como Revolución Agrícola?:",
         options: ["A. En el Neolítico.", 
         "B. En el siglo XVIII con la invención del motor en Inglaterra.", 
@@ -1250,14 +1243,183 @@ const questions = [
     },
     {
         question: "Respecto a los nacionales de terceros países hallados ilegamente en un Estado Miembro, ¿Cuándo va a proceder la comparación de sus datos con los del Sistema Central del Eurodac?",
-        options: ["A. Cuando El nacional del país tercero o apátrida no solicite la protección internacional, pero solicita que le devuelvan a su país de origen, alegando que estaría en peligro..", 
+        options: ["A. Cuando El nacional del país tercero o apátrida no solicite la protección internacional, pero solicita que le devuelvan a su país de origen, alegando que estaría en peligro.", 
         "B. Cuando el nacional del país tercero o apátrida declare que ha presentado una solicitud de protección internacional, pero que no indique el Estado miembro en que lo ha hecho.", 
         "C. Siempre va a proceder la comparación."],
         correctAnswer: "B"
     },
+    {
+        question: "Son competencias de los delegados de prevencion:",
+        options: ["A. Acompañar a los tecnicos en las evaluaciones preventivas.", 
+        "B. Acompañar a los inspectores de Trabajo y Seguridad Social en sus visitas.", 
+        "C. Controlar el cumplimiento de la normativa."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El organo competente para imponer la sancion puede practicar 'actuaciones complementarias', que en tal caso, debe dar traslado de nuevo al interesado para que formule alegaciones, a los que se les concedera un plazo para formular las alegaciones que estimen pertinentes:",
+        options: ["A. De 15 dias.", 
+        "B. De 10 dias.", 
+        "C. De 7 dias."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Despues de la Segundad Guerra Mundial los españoles emigran al continente europeo por:",
+        options: ["A. Motivo laborales.", 
+        "B. Motivos politicos.", 
+        "C. Motivos sociales."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale la respuesta correcta, los analistas de inteligencia:",
+        options: ["A. Seleccionan a sus fuentes y obtienen informacion de las mismas, ya sean fuenten humanas, fuentes abiertas, imagenes, señales, o cualquier otro.", 
+        "B. Contrastan la informacion obtenida y producen inteligencia mediante la aplicacion de tecnicas estructuradas y no estructuradas de inteligencia.", 
+        "C. Dirigen la Unidad de Inteligencia, gestionan los recursos y planifican/priorizan las actividades en base a la Directiva de Inteligencia."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La reforma de la Constitucion española operada el 27 de agosto de 992, ha sido realizada para facilitar a los extranjeros comunitarios el acceso:",
+        options: ["A. Al regimen legal de extranjeria y al asilo politico, en su caso.", 
+        "B. A participar en las elecciones para sufragio activo.", 
+        "C. A participar en las elecciones municipales para sufragio pasivo."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La obtencion de informacion en el ambito de OSINT de cuantos tipos puede ser:",
+        options: ["A. Tres.", 
+        "B. Cuatro.", 
+        "C. Cinco."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El Comite de seguridad y salud se reune trimestralmente, con lo que las empresas que cuenten con varios centros de trabajo dotados de Comite podran acordar con su trabajadores, la creacion de:",
+        options: ["A. Un Comite de Centros.", 
+        "B. Un Comite Intercentros.", 
+        "C. Un Comite Interdisciplinar para Centros de trabajo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quien ejerce la representacion global del Consejo como institucion comunitaria?",
+        options: ["A. ministro-presidente del Consejo de Asuntos de Exterior.", 
+        "B. ministro-presidente del Consejo de Asuntos Generales.", 
+        "C. ministro-presidente del Consejo de Asuntos de la Presidencia."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Su fuerza vinculante arranca desde la publicación en DOUE y no precisa de ningún acto de incorporación en el derecho interno de los estados miembros, dirigiéndose directamente al Estado o ciudadano, quien puede invocarlo ante los tribunales nacionales como fuente directa de derechos y obligaciones",
+        options: ["A. Decisión.", 
+        "B. Directiva.", 
+        "C. Reglamento."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Cuando una propuesta normativa afecte a la organización administrativa de la Administración General del Estado, a su régimen de personal, procedimientos y a la inspección de los servicios, será necesario:",
+        options: ["A. Recabar la aprobación previa del Ministerio de Política Territorial antes de ser sometidas al órgano competente para promulgarlos..", 
+        "B. Informe previo del Ministerio de Política Territorial.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los órganos competentes podrán eximir de la implantación de medidas de seguridad obligatorias cuando las circunstancias que concurran en el caso concreto las hicieren Innecesarias o Improcedentes. ¿Es ésta  una norma extraída de la Ley de Seguridad Privada?",
+        options: ["A. No, es contraria a las disposiciones de esta ley..", 
+        "B. No, si bien se contempla en su Reglamento de desarrollo.", 
+        "C. Si, la Ley así lo permite."],
+        correctAnswer: "C"
+    },
+    {
+        question: "A las empresas que se dediquen a las actividades de seguridad informática, entendida como el conjunto de medidas encaminadas a proteger los sistemas de información a fin de garantizar la confidencialidad, disponibilidad e integridad de la misma se les podrán imponer reglamentariamente requisitos específicos para garantizar la calidad de los servicios que presten:",
+        options: ["A. Siempre que sean de seguridad privada.", 
+        "B. Siempre que no sean de seguridad privada.", 
+        "C. Sean o no de seguridad privada."],
+        correctAnswer: "C"
+    },
+    {
+        question: "A las reuniones de las Comisiones de Garantías de Videovigilancia podrán asistir, como asesores, expertos en materia de seguridad ciudadana, designados por:",
+        options: ["A. El Delegado del Gobierno en la Comunidad Autónoma.", 
+        "B. El Delegado o el Subdelegado de Gobierno.", 
+        "C. El Fiscal Jefe del Tribunal Superior de Justicia en la Comunidad Autónoma correspondiente."],
+        correctAnswer: "B"
+    },
+    {
+        question: "En el caso de los menores, el consentimiento en relación al derecho a la intimidad cuando no pueda darse por ellos mismos, habrá de otorgarse mediante escrito por su representante legal, quien estará obligado a poner en conocimiento previo del Ministerio Fiscal el consentimiento proyectado. Si en el plazo de _______ el Ministerio Fiscal se opusiere, resolverá el juez.",
+        options: ["A. 8 días.", 
+        "B. 10 días", 
+        "C. 15 días."],
+        correctAnswer: "A"
+    },
+    {
+        question: "De los principios rectores de la Ley de Enjuiciaminento Criminal relativos a la a la interceptación de las comunicaciones telefónicas y telemáticas, la captación y grabación de comunicaciones orales... El principio de especialidad:",
+        options: ["A. Exige que una medida esté relacionada con la investigación de un delito concreto. No podrán autorizarse medidas de investigación tecnológica que tengan por objeto prevenir o descubrir delitos o despejar sospechas sin base objetiva..", 
+        "B. Servirá para definir el ámbito objetivo y subjetivo y la duración de las medidas en virtud de su utilidad.", 
+        "C. Establece que solo se aplicarán las medidas cuando no estén a disposición de la investigación otras medidas menos gravosas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La ley de accidentes del trabajo nace como respuesta a:",
+        options: ["A. A la asusencia de cultura preventiva.", 
+        "B. A consecuencia de la aparición de la Medicina del trabajo.", 
+        "C. A las incesantes reivindicaciones ejercidas por los movimientos obreros en esta materia."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El documento base que sirvió para la creación del Pacto Internacional de Derechos Económicos, Sociales y Culturales y el Pacto Internacional de Derechos Civiles y Políticos, fue:",
+        options: ["A. La Carta de Naciones Unidas.", 
+        "B. La Declaración Universal de los DDHH.", 
+        "C. La Declaración de los Derechos del Hombre y del Ciudadano."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Una opinión emitida sin comprobación previa, constituye:",
+        options: ["A. Un juicio de valor.", 
+        "B. Un prejuicio.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Cuando un grupo de personas que descienden de un tronco común, viven juntas y bajo la autoridad del mismo jefe, hablamos de:",
+        options: ["A. Clan.", 
+        "B. Aldea patriarcal.", 
+        "C. Patriarcado."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Para Sigmund Freud, el principio de la razón, se inscribe en:",
+        options: ["A. En la conciencia.", 
+        "B. En la consciencia.", 
+        "C. En la inconsciencia."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Son instrumentos consistentes en el otorgamiento de licencias y permisos que garantizan el disfrute de los recursos naturales previstos:",
+        options: ["A. Instrumentos de mercado.", 
+        "B. Instrumentos de regulación directa.", 
+        "C. Instrumentos administrativos."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Sobre esta parte del neumático se desarrolla el complicado proceso de adherencia:",
+        options: ["A. Banda de rodamiento.", 
+        "B. Carcasa.", 
+        "C. Flanco."],
+        correctAnswer: "B"
+    },
+    /* {
+        question: "",
+        options: ["A. .", 
+        "B. ", 
+        "C. ."],
+        correctAnswer: "B"
+    }, */
 
 ];
 
+
+const lastExamQuestions = [
+    {
+        question: "Se esta configurado para añadir las ultimas preguntas del ultimo examen realizado en clase",
+        options: [""],
+        correctAnswer: "B"
+    },
+];
 
 let currentQuestions = [];
 let correctAnswers = 0;
@@ -1268,19 +1430,29 @@ document.getElementById('testButton').addEventListener('click', () => {
     const selectedTopic = document.getElementById('topicSelect').value;
 
     if (selectedTopic === 'all') {
-        currentQuestions = questions.slice(0, questionCount);
+        currentQuestions = shuffle(questions).slice(0, questionCount);
     } else {
         const filteredQuestions = questions.filter(q => q.topic === parseInt(selectedTopic));
-        currentQuestions = filteredQuestions.slice(0, questionCount);
+        currentQuestions = shuffle(filteredQuestions).slice(0, questionCount);
     }
 
     correctAnswers = 0;
     wrongAnswers = 0;
     displayTest();
+    hideAllSections();
+    document.getElementById('testSection').classList.remove('hidden');
 });
 
 document.getElementById('viewAllButton').addEventListener('click', () => {
+    hideAllSections();
     displayAllQuestions();
+    document.getElementById('allQuestionsSection').classList.remove('hidden');
+});
+
+document.getElementById('lastExamButton').addEventListener('click', () => {
+    hideAllSections();
+    displayLastExam();
+    document.getElementById('lastExamSection').classList.remove('hidden');
 });
 
 function displayTest() {
@@ -1291,7 +1463,7 @@ function displayTest() {
         questionDiv.innerHTML = `
             <p>${index + 1}. ${question.question}</p>
             <ul>
-                ${question.options.map((option, i) => `<li data-question-index="${index}" data-option-index="${i}">${option}</li>`).join('')}
+                ${question.options.map((option, i) => `<li data-question-index="${index}" data-option-index="${i}" class="option">${option}</li>`).join('')}
             </ul>
         `;
         testSection.appendChild(questionDiv);
@@ -1312,26 +1484,30 @@ function handleAnswerClick(event) {
     const listItems = event.target.parentNode.querySelectorAll('li');
     listItems.forEach(li => li.classList.remove('correct', 'incorrect', 'default'));
 
-    if (selectedOption.startsWith(question.correctAnswer)) {
-        correctAnswers++;
-        event.target.classList.add('correct');
-    } else {
-        wrongAnswers++;
-        event.target.classList.add('incorrect');
+    if (!event.target.classList.contains('selected')) {
+        if (selectedOption.startsWith(question.correctAnswer)) {
+            correctAnswers++;
+            event.target.classList.add('correct');
+        } else {
+            wrongAnswers++;
+            event.target.classList.add('incorrect');
+            listItems.forEach(li => {
+                if (li.textContent.startsWith(question.correctAnswer)) {
+                    li.classList.add('correct');
+                }
+            });
+        }
+
         listItems.forEach(li => {
-            if (li.textContent.startsWith(question.correctAnswer)) {
-                li.classList.add('correct');
+            if (!li.classList.contains('correct') && !li.classList.contains('incorrect')) {
+                li.classList.add('default');
             }
         });
+
+        event.target.classList.add('selected'); // Marca la opción seleccionada como 'selected'
+        listItems.forEach(li => li.removeEventListener('click', handleAnswerClick)); // Desactiva el resto de opciones
+        calculateFinalScore();
     }
-
-    listItems.forEach(li => {
-        if (!li.classList.contains('correct') && !li.classList.contains('incorrect')) {
-            li.classList.add('default');
-        }
-    });
-
-    calculateFinalScore();
 }
 
 function calculateFinalScore() {
@@ -1347,6 +1523,23 @@ function calculateFinalScore() {
     document.querySelector('main').appendChild(scoreSection);
 }
 
+function displayLastExam() {
+    const lastExamSection = document.getElementById('lastExamSection');
+    lastExamSection.innerHTML = '';
+    lastExamQuestions.forEach((question, index) => {
+        const questionDiv = document.createElement('div');
+        questionDiv.innerHTML = `
+            <p>${index + 1}. ${question.question}</p>
+            <ul>
+                ${question.options.map((option, i) => `<li>${option}</li>`).join('')}
+            </ul>
+        `;
+        lastExamSection.appendChild(questionDiv);
+    });
+
+    lastExamSection.classList.remove('hidden');
+}
+
 function displayAllQuestions() {
     const allQuestionsSection = document.getElementById('allQuestionsSection');
     allQuestionsSection.innerHTML = '';
@@ -1355,10 +1548,7 @@ function displayAllQuestions() {
         questionDiv.innerHTML = `
             <p>${index + 1}. ${question.question}</p>
             <ul>
-                ${question.options.map(option => {
-                    const optionClass = option.startsWith(question.correctAnswer) ? 'correct' : '';
-                    return `<li class="${optionClass}">${option}</li>`;
-                }).join('')}
+                ${question.options.map(option => `<li>${option}</li>`).join('')}
             </ul>
         `;
         allQuestionsSection.appendChild(questionDiv);
@@ -1367,7 +1557,12 @@ function displayAllQuestions() {
     allQuestionsSection.classList.remove('hidden');
 }
 
-// Función para mezclar preguntas
+function hideAllSections() {
+    document.getElementById('testSection').classList.add('hidden');
+    document.getElementById('allQuestionsSection').classList.add('hidden');
+    document.getElementById('lastExamSection').classList.add('hidden');
+}
+
 function shuffle(array) {
     for (let i = array.length - 1; i > 0; i--) {
         const j = Math.floor(Math.random() * (i + 1));
@@ -1375,74 +1570,3 @@ function shuffle(array) {
     }
     return array;
 }
-
-function filterQuestionsByTopic(topic) {
-    if (topic === "all") {
-        return questions;
-    }
-    return questions.filter(q => q.topic === parseInt(topic));
-}
-
-function showTestQuestions() {
-    const testSection = document.getElementById("testSection");
-    const allQuestionsSection = document.getElementById("allQuestionsSection");
-    const questionCount = parseInt(document.getElementById("questionCount").value);
-    const selectedTopic = document.getElementById("topicSelect").value;
-
-    allQuestionsSection.innerHTML = "";
-    testSection.innerHTML = "";
-    allQuestionsSection.classList.add("hidden");
-
-    const filteredQuestions = filterQuestionsByTopic(selectedTopic);
-    const shuffledQuestions = shuffle(filteredQuestions).slice(0, questionCount);
-
-    currentQuestions = shuffledQuestions;
-    correctAnswers = 0;
-    wrongAnswers = 0;
-    
-    shuffledQuestions.forEach((q, index) => {
-        const questionElement = document.createElement("div");
-        questionElement.innerHTML = `
-            <p>${index + 1}. ${q.question}</p>
-            <ul>
-                ${q.options.map((option, i) => `<li data-question-index="${index}" data-option-index="${i}">${option}</li>`).join('')}
-            </ul>
-        `;
-        testSection.appendChild(questionElement);
-    });
-
-    testSection.classList.remove("hidden");
-    document.querySelectorAll('#testSection ul li').forEach(li => {
-        li.addEventListener('click', handleAnswerClick);
-    });
-}
-
-function showAllQuestions() {
-    const testSection = document.getElementById("testSection");
-    const allQuestionsSection = document.getElementById("allQuestionsSection");
-    const selectedTopic = document.getElementById("topicSelect").value;
-
-    allQuestionsSection.innerHTML = "";
-    testSection.innerHTML = "";
-    testSection.classList.add("hidden");
-
-    const filteredQuestions = filterQuestionsByTopic(selectedTopic);
-
-    filteredQuestions.forEach((q, index) => {
-        const questionElement = document.createElement("div");
-        questionElement.innerHTML = `
-            <p>${index + 1}. ${q.question}</p>
-            <ul>
-                ${q.options.map(option => {
-                    const isCorrect = option.startsWith(q.correctAnswer);
-                    return `<li class="${isCorrect ? 'correct' : ''}">${option}</li>`;
-                }).join("")}
-            </ul>
-        `;
-        allQuestionsSection.appendChild(questionElement);
-    });
-    allQuestionsSection.classList.remove("hidden");
-}
-
-document.getElementById("testButton").addEventListener("click", showTestQuestions);
-document.getElementById("viewAllButton").addEventListener("click", showAllQuestions);
