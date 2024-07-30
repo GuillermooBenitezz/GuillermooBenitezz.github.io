@@ -1531,7 +1531,10 @@ function displayLastExam() {
         questionDiv.innerHTML = `
             <p>${index + 1}. ${question.question}</p>
             <ul>
-                ${question.options.map((option, i) => `<li>${option}</li>`).join('')}
+                ${question.options.map((option, i) => {
+                    const isCorrect = option.startsWith(question.correctAnswer);
+                    return `<li class="${isCorrect ? 'correct' : ''}">${option}</li>`;
+                }).join('')}
             </ul>
         `;
         lastExamSection.appendChild(questionDiv);
@@ -1548,7 +1551,10 @@ function displayAllQuestions() {
         questionDiv.innerHTML = `
             <p>${index + 1}. ${question.question}</p>
             <ul>
-                ${question.options.map(option => `<li>${option}</li>`).join('')}
+                ${question.options.map(option => {
+                    const isCorrect = option.startsWith(question.correctAnswer);
+                    return `<li class="${isCorrect ? 'correct' : ''}">${option}</li>`;
+                }).join('')}
             </ul>
         `;
         allQuestionsSection.appendChild(questionDiv);
