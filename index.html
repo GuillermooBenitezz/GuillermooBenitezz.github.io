@@ -14,9 +14,9 @@
     </header>
     <main>
         <div class="options">
-            <button class="button" id="testButton">Realizar Test</button>
-            <button class="button" id="viewAllButton">Ver Todas las Preguntas</button>
-            <button class="button" id="lastExamButton">Último Examen Realizado</button>
+            <button class="button" id="testButton"><i class="fas fa-pencil-alt"></i> Realizar Test</button>
+            <button class="button" id="viewAllButton"><i class="fas fa-eye"></i> Ver Todas las Preguntas</button>
+            <button class="button" id="lastExamButton"><i class="fas fa-history"></i> Último Examen Realizado</button>
         </div>
         <div class="options">
             <div class="select-wrapper">
@@ -41,7 +41,14 @@
         </div>
         <section id="testSection" class="section hidden"></section>
         <section id="allQuestionsSection" class="section hidden"></section>
-        <section id="lastExamSection" class="section hidden"></section> <!-- Agregado para Último Examen Realizado -->
+        <section id="lastExamSection" class="section hidden"></section>
+        <!-- Comentado el modo de selección de corrección manual y automática -->
+        <!--
+        <div id="modeSelection" class="section hidden">
+            <button class="button" id="autoCorrectButton"><i class="fas fa-check-circle"></i> Corrección Automática</button>
+            <button class="button" id="manualCorrectButton"><i class="fas fa-edit"></i> Corrección Manual</button>
+        </div>
+        -->
     </main>
     <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
     <script src="scripts.js"></script>
