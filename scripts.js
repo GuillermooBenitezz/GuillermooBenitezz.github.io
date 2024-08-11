@@ -1402,883 +1402,12 @@ const questions = [
         "C. Flanco."],
         correctAnswer: "B"
     },
-    /* {
-        question: "",
-        options: ["A. .", 
-        "B. ", 
-        "C. ."],
-        correctAnswer: "B"
-    }, */
-
-];
-
-
-const lastExamQuestions = [
     {
-        question: "¿Oué procedimiento regula la legislación española para los casos de llegada de desplazados que se producen en el marco de programas de evacuación humanitarios?",
+        question: "Las migraciones entre zonas de una misma ciudad son:",
         options: [
-            "A. Procedimiento de emergencia.", 
-            "B. procedimiento de readmisión.", 
-            "C. Procedimiento de evacuación."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Los miembros de Subcomité de Prevención Contra la Tortura, deberán:",
-        options: [
-            "A. Ser expertos en materia de Derecho Penal Administración Penitenciaria o Policial.", 
-            "B. Pertenecer a la Admintstracitm de Justicia.", 
-            "C. De gran integridad moral y de reconocida competencia en la Administracion Publica."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "La prórroga de un visado expedido en Esparta se llevará a cabo según lo establecido:",
-        options: [
-            "A. En el Derecho Español.", 
-            "B. En el Derecho de la UE.", 
-            "C. En el Derecho Inernacional."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Los Palacios Reales, ¿se reputan domicilio?",
-        options: [
-            "A. No, son un lugar público.", 
-            "B. Si. cuando estén habitados por el Monarca a tiempo de la entrada.", 
-            "C. Si. estén o no habitados por el Monarca a tiempo de la entrada."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "La vivencia interna e individual del sexo tal y como cada persona la siente y autodefine, pudiendo o no corresponder con el sexo asignado al nacer, es lo que fa Ley 412023. de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI, define como.",
-        options: [
-            "A. Expresión de género.", 
-            "B. Orientadón sexual.", 
-            "C. Identidad sexual."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "En un texto, cuando se quiere eludir una parte de una cita, los puntos suspensivos...",
-        options: [
-            "A. Se encierran entre paréntesis (...).", 
-            "B. Se encierra entre corchetes: [...].", 
-            "C. Se ponen simplemente tres puntos suspensivos."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "La habilitación de los guardas rurales y sus especialidades crrespondera:",
-        options: ["A. A la Consejería competente en materia de Medio Arrbierite de b Cornurtidad Autónoma en la que haya de ejercerse la actividad.", 
-        "B. A la Dirección General de la Guardia Civil", 
-        "C. A la Dirección General de la Policía."],
-        correctAnswer: "B"
-    },
-    {
-        question: "El Subcomité para la Prevención de Tortura, depende:",
-        options: ["A. Del Comité contra la Tortura de la ONU.", 
-        "B. Del Consejo de Europa.", 
-        "C. De Naciones Unidas."],
-        correctAnswer: "C"
-    },
-    {
-        question: "Los Planes de Seguridad Ciudadana, son:",
-        options: ["A. Proactivos.", 
-        "B. Reactivos.", 
-        "C. Globales."],
-        correctAnswer: "C"
-    },
-    {
-        question: "Los extranjeros residentes tienen derecho a los servicios y a las prestaciones sociales, tanto a las generales y básicas como a las específicas, en las mismas condiciones que los españoles y, en cualquier caso:",
-        options: ["A. Los extranjeros con discapacidad.", 
-        "B. Menores de dieciocho años.", 
-        "C. A) y b) son correctas, cuando tengan su domicilio habitual en España."],
-        correctAnswer: "C"
-    },
-    {
-        question: "La jurisprudencia del TJUE pertenece al :",
-        options: ["A. Derecho primario de la UE.", 
-        "B. Derecho secundario de la UE.", 
-        "C. Derecho subsidiario de la UE."],
-        correctAnswer: "C"
-    },
-    {
-        question: "¿A cuál de los siguientes criterios no atenderá el responsable del tratamiento para valorar si limita o suprime los datos de carácter personal obtenidos conforme a los fines de la LO 712021 transcurridos 3 años desde su obtención?",
-        options: ["A. al tiempo transcurrido.", 
-        "B. al carácter de los datos.", 
-        "C. a la conclusión de una investigación o procedimiento penal."],
-        correctAnswer: "A"
-    },
-    {
-        question: "La entrada en territorio español del ciudadano de la Unión Europea se efectuará con:",
-        options: ["A. El pasaporte válido y en vigor.", 
-        "B. Con el documento de identidad válido y en vigor, en el que conste la nacionalidad del titular.", 
-        "C. Ambas respuestas son ciertas."],
-        correctAnswer: "C"
-    },
-    {
-        question: "De qué delito es constitutivo el acceso carnal mediando violencia con una persona de quince años?",
-        options: [
-            "A. De un delito de abuso sexual en todo caso.", 
-            "B. De un delito de agresiones sexuales a menores de dieciséis cualificado.", 
-            "C. De un delito de violación."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Los puntos suspensivos, son: ",
-        options: [
-            "A. Signos simples.", 
-            "B. Signos dobles.", 
-            "C. Signos compuestos."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "El delito es un término eminentemente:",
-        options: [
-            "A. Social.", 
-            "B. Legal.", 
-            "C. Policial."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "¿Quién sufraga los gastos o paga al Subcomité para la Tortura?",
-        options: [
-            "A. ONG.", 
-            "B. Naciones Unidas.", 
-            "C. Los propios Estados."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Los tipos agravados de lesiones lo son por la/s siguiente/s circunstancia/s: ",
-        options: [
-            "A. En función del riesgo producido.", 
-            "B. En función del daño causado.", 
-            "C. Ambas son correctas."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Señale la respuesta incorrecta con respecto a actividades del Centro Nacional de Inteligencia:",
-        options: [
-            "A. Las actividades del Centro Nacional de Inteligencia, así como su organización interna, medios y procedimientos, personal, instalaciones, bases y centros de datos, fuentes de información y las informaciones o datos que puedan conducir al conocimiento de las anteriores materias, constituyen información clasificada. con el grado de secreto.", 
-            "B. Los miembros del Centro Nacional de Inteligencia tendrán la consideración de agentes de la autoridad en todo momento.", 
-            "C. Sus miembros dispondrán de documentación que les acredite, en caso de necesidad, como miembros del Centro."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "¿Cuándo cesa el Gobierno en sus funciones?:",
-        options: [
-            "A. Tras la celebración de elecciones generales.", 
-            "B. En los casos de pérdida de la confianza parlamentaria o en caso de dimisión o fallecimiento del Presidente.", 
-            "C. Todas las respuestas son correctas."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "El 11 de marzo de 2011, se produjo un accidente nuclear en la Central nuclear de Fukushuma. Dada la magnitud del incidente se decretó el estado de emergencia nuclear procediéndose a evacuar a la  población residente en otras zonas del país, dando lugar a una migración masiva. ¿A qué tipo de causa se podría achacar esta migración?",
-        options: [
-            "A. Natural.", 
-            "B. Social.", 
-            "C. Económico."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Cuando un individuo no acepta parte o todos los valores sociales, hablamos de: Seleccione una:",
-        options: [
-            "A. Inadaptado.", 
-            "B. Delincuente.", 
-            "C. Las dos respuestas son correctas."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "¿Cuántos vicepresidentes asisten al Presidente de la Eurocámara?",
-        options: [
-            "A. 5.", 
-            "B. 14.", 
-            "C. 20."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Señale la respuesta correcta",
-        options: [
-            "A. El visado se solicitará y expedirá en las Misiones Diplomáticas y Oficinas Consulares de España, salvo en los supuestos excepcionales que se contemplen reglamentariamente o en los supuestos en los que el Estado español, de acuerdo con la normativa internacional sobre la materia, haya acordado su representación con otro Estado en materia de visados de tránsito o estancia..", 
-            "B. El visado se solicitará y expedirá en las Misiones Diplomáticas y Oficinas Consulares de España, en todo caso.", 
-            "C. El visado se solicitará y expedirá en las Misiones Diplomáticas y Oficinas Consulares de España, salvo en los supuestos excepcionales que se contemplen reglamentariamente o en los supuestos en los que el Estado español, de acuerdo con la normativa comunitaria sobre la materia, haya a cordado su representación con otro Estado miembro de la Unión Europea en materia de visados de tránsito o estancia."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Las deliberaciones de la Comisión General de Secretarios de Estado y Subsecretarios serán:",
-        options: [
-            "A. Reservadas.", 
-            "B. Secretas.", 
-            "C. Privadas."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "La persona que se hubiera beneficiado de subvenciones o ayudas percibidas por su condición de víctima estará obligada a reembolsar las cantidades recibidas en dicho concepto y al abono de los gastos causados a la Administración por sus actuaciones de reconocimiento, información, protección apoyo si fuera condenada por:",
-        options: [
-            "A. Denuncia falsa.", 
-            "B. Simulación de delito.", 
-            "C. Las dos respuestas son correctas."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "El Tratado del Acta Única Europea (AUE), se firmó",
-        options: [
-            "A. El día 17 de Febrero de 1986 en Luxemburgo.", 
-            "B. El 28 del mismo mes en La Haya.", 
-            "C. Ambas son correctas."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "¿A que sistema politico nos referimos cuando hablamos de la concentracion de todos los poderes estatales en manos de un grupo o partido impidiendo la presencia de otros partidos?",
-        options: [
-            "A. Autoritarismo.", 
-            "B. Tirania.", 
-            "C. Totalitarismo."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Es el conocimiento valorado sobre un hecho, situación, actividad o entorno con Incidencia en la seguridad pública:",
-        options: [
-            "A. Noticia.", 
-            "B. Dato.", 
-            "C. información."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Considerar que nuestra cultura es superior a las demás, es:",
-        options: [
-            "A. Grupocentnsmo étnico.", 
-            "B. Etnocentrismo.", 
-            "C. Las dos son correctas."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Indica el número de faltas de ortografía en la frase: 'El huérfano fumaba marihuana delante de los pingüinos'",
-        options: [
-            "A. Dos.", 
-            "B. Una.", 
-            "C. Ninguna."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Señale cuál de los siguientes no es una circunstancia que agrava la pena de los delitos de tenencia ilícita de armas de fuego reglamentadas",
-        options: [
-            "A. Carecen de marcas de fábrica o de número, o los tengan alterados o borrados..", 
-            "B. Han sido introducidas ilegalmente en territorio español.", 
-            "C. Han sido transformadas, aunque no modifiquen sus caracteristicas originales."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "a orden europea de detención y entrega se tramitará y ejecutará con carácter de urgencia. Si la persona reclamada consiente la entrega, la resolución judicial deberá adoptarse en:",
-        options: [
-            "A. los diez días siguientes a la celebración de la audiencia.", 
-            "B. los quince días siguientes a la celebración de la audiencia.", 
-            "C. los sesenta días siguientes a la celebración de la audiencia."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Según el artículo 564 del Código Penal, la tenencia de armas de fuego reglamentadas careciendo de licencias o permisos necesarios, será castigada con la pena de prisión de uno a dos años:",
-        options: [
-            "A. Solo si las armas carecen de marcas de fábrica o de número, o los tengan alterados o borrados..", 
-            "B. Si se trata de armas cortas.", 
-            "C. Si se trata de armas largas o cortas."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Señale cuál de los siguiente no es uno de los ámbitos establecidos para las cláusulas freno: ",
-        options: [
-            "A. las medidas de coordinación de los regimenes de seguridad social de los trabajadores migrantes.", 
-            "B. el establecimiento de normas comunes para determinadas infracciones penales.", 
-            "C. la cooperación policial."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Se impondrá la pena de prisión de uno a seis años y multa de seis a doce meses si el delito de atentado contra la autoridad va dirigido contra determinadas autoridades. Señale cuál NO está incluida en este supuesto:",
-        options: [
-            "A. Miembros de las Corporaciones Locales.", 
-            "B. Miembros del Gobierno.", 
-            "C. Miembros del Tribunal de Cuentas."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "¿Cuál de los siguientes órganos no podrá acudir a las reuniones de la Comisión General de Secretarios de Estado y Subsecretarios?",
-        options: [
-            "A. Secretario General.", 
-            "B. Secretario General Técnico.", 
-            "C. Subsecretario."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Según la Ley 50/1997, de 27 de noviembre, del Gobierno, ¿cuál de las siguientes facultades no podrá ejercer el Presidente del Gobierno en funciones?",
-        options: [
-            "A. Plantear la cuestión de confianza.", 
-            "B. Interponer el recurso de inconstitucionalidad.", 
-            "C. Impartir instrucciones a los demás miembros del Gobierno."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Las enfermedades contraídas como consecuencia del trabajo y que no estén consideradas legalmente como enfermedades profesionales serán consideradas, a efectos legales: ",
-        options: [
-            "A. Accidente de trabajo.", 
-            "B. Enfermedad del trabajo.", 
-            "C. Enfermedad no laboral."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Señala la palabra antónima de 'templanza'",
-        options: [
-            "A. Lujuria.", 
-            "B. Prudencia.", 
-            "C. Sobriedad."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Para Katz, la función instrumental de las actitudes sirve para:",
-        options: [
-            "A. Conocer el mundo donde vivimos.", 
-            "B. Defendemos de frustraciones.", 
-            "C. Satisfacer parte de nuestras necesidades."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "¿Qué clase de valor es el amor?",
-        options: [
-            "A. Material.", 
-            "B. Objetivo.", 
-            "C. Subjetivo."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "¿Qué sociólogo distinguia entre 'endogrupo' y 'exogrupo'?:",
-        options: [
-            "A. Gordon ALLPORT.", 
-            "B. Robert MERTON.", 
-            "C. Wlliam SUMMER."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Seguridad de facto, es:",
-        options: [
-            "A. La segundad objetiva que puede ser medida estadísticamente.", 
-            "B. La segundad subjetiva.", 
-            "C. La percibida por la sociedad."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "En todo caso, los anteproyectos de ley habrán de ser informados por:",
-        options: [
-            "A. La Secretaria General Técnica.", 
-            "B. La Secretaria Ministerial.", 
-            "C. La Secretaría de Estado."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "La responsabilidad sobre la custodia y el traslado de armas de titularidad de la empresa a la que pertenezca, es función del:",
-        options: [
-            "A. Jefe de seguridad.", 
-            "B. Director de seguridad.", 
-            "C. Vigilante de seguridad."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "En el caso de pareja de hecho de un miembro comunitario, se considerará que se trata de una pareja estable aquella que acredite la existencia:",
-        options: [
-            "A. De un vinculo duradero.", 
-            "B. En todo caso. se entenderá la existencia del vinculo si se acredita un tiempo de convivencia marital de, al menos, un año continuado.", 
-            "C. Lo manifestado en las respuestas anteriores es correcto, salvo que tuvieran descendencia en común, en cuyo caso bastará la acreditación de convivencia estable debidamente probada."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Según establece la LOPSC en el caso de que un solo hecho constituya dos o más infracciones, o cuando una de ellas sea medio necesario para cometer la otra, la conducta será sancionada por aquella infracción que aplique una:",
-        options: [
-            "A. mayor graduación.", 
-            "B. mayor sanción.", 
-            "C. No podrá ser sancionada como infracción independiente."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "¿Cuántos vocales componen el pleno del Observatorio Estatal de Violencia sobre la mujer en representación de los agentes sociales, organizaciones y asociaciones cívicas?",
-        options: [
-            "A. Diecisiete.", 
-            "B. Diecinueve.", 
-            "C. Catorce."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "El grupo de personas que comparten comportamientos y creencias diferentes a los de la cultura dominante, constituye:",
-        options: [
-            "A. Una subcultura.", 
-            "B. Una contracultura.", 
-            "C. Una cultura dominante."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "En internet, ¿qué se considera red de superficie?:",
-        options: [
-            "A. Surface Web.", 
-            "B. Deep Web.", 
-            "C. Dark Web."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "La constatación, con posterioridad a la admisión a trámite de la solicitud de protección internacional, de alguna de las circunstancias que hubiesen justificado su no admisión : ",
-        options: [
-            "A. Será causa de denegación de aquella.", 
-            "B. Será objeto de trámite por el procedimiento ordinario.", 
-            "C. Las dos respuestas anteriores son correctas."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "¿Cuál de los siguientes no es un método válido para acreditar las situaciones de violenciareguladas en la Ley 1/2004?",
-        options: [
-            "A. La orden de protección de la víctima.", 
-            "B. Denuncia.", 
-            "C. Sentencia judicial."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Es el órgano ejecutivo del Observatorio Estatal de Violencia sobre la Mujer?",
-        options: [
-            "A. La Comisión Permanente.", 
-            "B. El Pleno.", 
+            "A.Migraciones interurbanas .", 
+            "B. Migraciones intraurbanas.", 
             "C. Ninguna es correcta."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "¿De quién es la competencia de velar por el cumplimiento de la Ley y por la aplicación efectiva del principio de igualdad?",
-        options: [
-            "A. La Comisión Interministerial de Igualdad..", 
-            "B. El Consejo de Participación de la Mujer.", 
-            "C. Las Unidades de Igualdad."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Las Leyes sólo se derogan por:",
-        options: [
-            "A. Depende del caso concreto y de que trate la Ley.", 
-            "B. Otras anteriores.", 
-            "C. Otras posteriores."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "El compromiso estratégico para la igualdad entre mujeres y hombres es una actividad basica de la UE, en concreto de:",
-        options: [
-            "A. La Comision Europea.", 
-            "B. El Consejo de la UE.", 
-            "C. El COnsejo Europeo."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Las formas de pensar, son:",
-        options: [
-            "A. Pautas de comportamiento internas.", 
-            "B. Pautas de comportamiento externas.", 
-            "C. No son pautas de comporamiento."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "La personalidad modal, son:",
-        options: [
-            "A. Tipo de personalidad que se encuentra con mas frecuencia entre la gente de un pais.", 
-            "B. la responsable en gran medida del caracter nacional.", 
-            "C. Las dos son correctas."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Las estadísticas policiales sobre delincuencia, constituyen:",
-        options: [
-            "A. Un dato objetivo.", 
-            "B. Un dato subjetivo porque habria que añadir los delitos que no se denuncian.", 
-            "C. Las dos son correctas."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Una imagen sobre algo que se forma en nuestra mente, constituye:",
-        options: [
-            "A. Una idea.", 
-            "B. Un valor.", 
-            "C. Una actitud."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Según la Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penates, en casos de urgencia o necesidad inaplazable será el responsable operativo de las Fuerzas y Cuerpos de Seguridad competentes el que podrá determinar su uso, siendo comunicada tal actuación al Delegado o Subdelegado del Gobierno o autoridad competente de las comunidades autónomas. con la mayor brevedad posible, y siempre en el plazo de:",
-        options: [
-            "A. 24 horas.", 
-            "B. 48 horas", 
-            "C. 72 horas."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "El Capítulo VI de la Ley 39/1997, de 17 de enero, por el que se aprueba el Reglamento de los Servicios de Prevención, está dedicado a las: Funciones y Niveles de Cualificación. Respecto a las funciones se establecen tres grupos, ¿cuál de las siguientes respuestas se corresponde con las funciones de nivel superior?",
-        options: [
-            "A. Las correspondientes a especialidades y disciplinas preventivas de medicina en el trabajo..", 
-            "B. Además de la a), las de seguridad en el trabajo, higiene industrial, y ergonomia y psicosociología aplicada.", 
-            "C. La respuesta correcta es la a), la b) queda invalidada por el término ergonomía, ya que esta disciplina tecnológica no se encuadra dentro de la prevención de riesgos laborales."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Cuando la víctima de un delito es un juez o un policía, se denomina:",
-        options: [
-            "A. Victimización policial o victimización judicial según el caso.", 
-            "B. Victimización legal.", 
-            "C. Las dos respuestas son falsas."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "'Es correcto afirmar con respecto a lo establecido en la Ley Orgánica 3/1981 del Defensor del Pueblo:",
-        options: [
-            "A. Que la actividad de este cesará en los supuestos en los que se declaren los estados de excepción o sitio.", 
-            "B. Que pueden dirigirse al Defensor del Pueblo personas naturales españolas, que invoquen un interés legitimo..", 
-            "C. Que podrá iniciar o proseguir de oficio o petición de parte, ya que el Defensor del Pueblo actúa con autonomía y según su criterio."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Estudia las condiciones del medio ambiente de trabajo, identificando, evaluando y controlando la contaminación de origen laboral",
-        options: [
-            "A. Medicina del Trabajo.", 
-            "B. Higiene Industrial.", 
-            "C. Seguridad en el Trabajo."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "En caso de muerte de dos o más personas llamadas a sucederse, para determinar quien de ellas ha muerto primero, el Código Civil sienta la presunción de: ",
-        options: [
-            "A. Conmoriencia.", 
-            "B. Premoriencia.", 
-            "C. Las dos respuestas pueden ser correctas."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: " ¿Qué teoría mantiene la tesis de que un Individuo se vuelve delincuente al estar más frecuentemente en relación con modelos criminales que con modelos no criminales?",
-        options: [
-            "A. Teoria del aprendizaje social.", 
-            "B. Teoria de la subcultura desviada.", 
-            "C. Teoría de la estructura social defectuosa."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "El visado de estancia:",
-        options: [
-            "A. Habilita para una estancia ininterrumpida o estancias sucesivas por un periodo o suma de periodos cuya duración total no exceda de seis meses por semestre a partir de la fecha de la primera entrada.", 
-            "B. Habillta para una estancia Ininterrumpida o estancias sucesivas por un periodo o suma de periodos cuya duración total no exceda de tres meses por semestre a partir de la fecha de la primera entrada..", 
-            "C. Habilita e transitar por la zona de tránsito internacional de un aeropuerto español o a atravesar el territorio español."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Con carácter previo al acuerdo de inicio de un procedimiento para determinar la posible existencia de una infracción de protección de datos podrá existir una fase de actuaciones previas de investigación:",
-        options: [
-            "A. En los casos en que se dé por admitida la tramitación de la reclamación de un particular.", 
-            "B. En los supuestos en que la Agencia Española de Protección de Datos actúe por propia iniciativa.", 
-            "C. Las dos respuestas son correctas."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "NO pueden presentar la solicitud de asilo en España:",
-        options: [
-            "A. Los ciudadanos de un Estado de la Unión Europea que se sientan perseguidos en su país por razones ideológicas.", 
-            "B. Los apátridas.", 
-            "C. Los menores de edad."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "El segundo nivel de comunicación en materia de Violencia de Género lo compone:",
-        options: [
-            "A. La sala del 091.", 
-            "B. La Sala de Coordinación Operativa de la Comisaria General.", 
-            "C. El funcionario policial que tiene asignado el caso."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Son fundamentos del Convenio de Estambul:",
-        options: [
-            "A. Destacar la importancia de una actuación coordinada de todos los organismos y servicios oficiales pertinentes.", 
-            "B. Hacer un llamamiento exclusivo a los poderes públicos.", 
-            "C. Prevenir acciones judiciales contra los agresores."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "El deber de sigilo profesional de un delegado de prevención se establece:",
-        options: [
-            "A. Sobre los datos que conozcan en el ejercicio de sus funciones preventivas, organizativas y de protección de sus compañeros.", 
-            "B. Sobre todos los datos que conozca.", 
-            "C. Sobre los datos que conozcan en el ejercicio de sus funciones preventivas."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "¿El derecho a contraer matrimonio y al divorcio, en qué grupo de los derechos de la Declaración Universal lo podemos encontrar?:",
-        options: [
-            "A. Derechos de orden personal.", 
-            "B. Derechos del individuo en sus relaciones con los grupos.", 
-            "C. Libertades políticas."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Segun establece el articulo 34 de la Ley del Estatuto de las Víctimas del Delito:",
-        options: [
-            "A. Los oderes públicos fomentarán campañas de sensibilización social en favor de las víctimas, así como la autorregulación de los medios de comunicación social de titularidad privada.", 
-            "B. Los poderes públicos fomentarán campañas de sensibilización social en favor de las víctimas, así como la autorregulación de los medios de comunicación social de titularidad pública..", 
-            "C. Los poderes públicos fomentarán campañas de sensibilización social en favor de las víctimas, así coma la autorregulación de los medios de comunicación social de titularidad pública y privada."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Señala la respuesta correcta",
-        options: [
-            "A. Las Fuerzas y Cuerpos de Seguridad tienen como misión proteger el libre ejercicio de los derechos y libertades y garantizar la seguridad ciudadana.", 
-            "B. Las Fuerzas y Cuerpos de Seguridad tienen como misión garantizar el libre ejercicio de los derechos y libertades y proteger la seguridad ciudadana.", 
-            "C. Las Fuerzas y Cuerpos de seguridad tiene como mision proteger el libre ejercicio de la seguridad y la libertad y garantizar los derechos."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Es incorrecto afirmar, según lo establecido en el Titulo II de la Constitución española del 1978:",
-        options: [
-            "A. Que el Rey acredita a los embajadores y otros representantes diplomáticos.", 
-            "B. Que de los actos del Rey serán responsables las personas que los refrenden.", 
-            "C. Al Rey corresponde, previa autorización del Congreso de los Diputados, declarar la guerra y hacer la paz."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "El artículo 14 de la Ley de Seguridad Privada establece la especial obligación de colaboración de las empresas de seguridad, los despachos de detectives y el personal de seguridad privada con las Fuerzas y Cuerpos de Seguridad se desarrollará con sujeción al principio de: ",
-        options: [
-            "A. Legalidad.", 
-            "B. Subordinación.", 
-            "C. Coordinación."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "¿Qué debe de ocurrir para que un funcionario de carrera, que ha renunciado a su condición de funcionario, pierda esta?",
-        options: [
-            "A. Con su renuncia basta para perder la condición de funcionario de carrera.", 
-            "B. La pérdida de la condición de funcionario de carrera previa renuncia del interesado, se produce con la aceptación de la renuncia por parte de la Administración, extinguiéndose en ese momento la relación funcionarial.", 
-            "C. Para perder la condición de funcionario de carrera previa renuncia del interesado, se produce con la aceptación de su Jefe inmediato de dicha renuncia, asi como por parte de la Administración, extinguiéndose en ese momento la relación funcionarial."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Señale la respuesta correcta en relación a los Delegados de Prevención:",
-        options: [
-            "A. En las empresas de hasta treinta trabajadores el Delegado de Prevención será el Delegado de Personal.", 
-            "B. En las empresas de hasta 49 trabajadores el Delegado de Prevención será el Delegado de Personal.", 
-            "C. En las empresas de 1 hasta 49 trabajadores habrá un Delegado de Prevención será elegido por y entre los delegados de Personal."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Según la Ley 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, los Tribunales y órganos de selección del personal de la Administración General del Estado responderán al principio o principios de:",
-        options: [
-            "A. Presencia equilibrada de mujeres y hombre.", 
-            "B. Paridad entre hombres y mujeres.", 
-            "C. Las dos respuestas son correctas."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "La movilización de los servicios de policía, asistencia o salvamento por un aviso falso de bomba constituirá:",
-        options: [
-            "A. Un delito de denuncia falsa.", 
-            "B. Una simulación de delito.", 
-            "C. Un delito de perturbación del orden público."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Señale cuál de las siguientes no es una de las dependencias que el artículo 2 del Real Decreto 865/2001, de 20 de julio, por el que se aprueba el Reglamento de reconocimiento del estatuto de apátrida reconoce como habilitada para solicitar el estatuto de apátrida.",
-        options: [
-            "A. Oficina de Asilo y refugio.", 
-            "B. Centro Internamiento Extranjeros.", 
-            "C. Comisarias de Policía."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Señale la respuesta correcta:",
-        options: [
-            "A. EI agente encubierto informático podrá intercambiar o enviar por sí mismo archivos ilícitos por razón de su contenido y analizar los resultados de los algoritmos aplicados para la identificación de dichos archivos ilícitos.", 
-            "B. El agente encubierto informático, con autorización específica para ello, podrá intercambiar o enviar por si mismo archivos ilícitos por razón de su contenido y analizar los resultados de los algoritmos aplicados para la identificación de dichos archivos ilícitos.", 
-            "C. El agente encubierto informático no podrá intercambiar o enviar archivos ilícitos por razón de su contenido y analizar los resultados de los algoritmos aplicados para la identificación de dichos archivos ilícitos."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Las migraciones entre zonas de una misma ciudad, se denominan:",
-        options: [
-            "A. Intraurbanas.", 
-            "B. Interurbanas.", 
-            "C. Extralocales."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Las actividades que constituyen el objeto de una peculiar carrera o profesion se ejercen por funcionarios integrados en:",
-        options: [
-            "A. El Cuerpo Superior de las Administraciones Civiles del Estado.", 
-            "B. Cuerpos Especiales.", 
-            "C. Cuerpos de Gestión."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "En el caso de un procedimiento por falta de atención de una solicitud de ejercicio de los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/1679, este se iniciará por",
-        options: [
-            "A. Acuerdo de admisión a trámite.", 
-            "B. Por iniciativa propia.", 
-            "C. Las dos respuestas son correctas."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "Para la adquisición de la nacionalidad española por opción, carta de naturaleza o necesario: (pregunta examen 2021)",
-        options: [
-            "A. Que el mayor de edad y capaz para prestar una declaración por sí, jure o prometa fidelidad obediencia a la Constitución y a las leyes.", 
-            "B. Que el mayor de catorce años y capaz para prestar una declaración por sí, jureo o prometa fidelidad al rey y obediencia a la Constitución y a las leyes.", 
-            "C. Que el mayor de dieciséis años y capaz para prestar una declaración por si, jure o prometa fidelidad al rey y obediencia a la Constitución y a las leyes.."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Las migraciones, en función de las causas que las producen, pueden clasificaras como:",
-        options: [
-            "A. Internas, voluntarias y forzosas.", 
-            "B. Voluntarias y forzosas.", 
-            "C. Laborales, por estudios o por motivos políticos."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Una de las categorías de empleados público que recoge el Estatuto Básico del Empleado Público es el personal laboral, el cual:",
-        options: [
-            "A. Presta servicios retribuidos por las Administraciones Públicas en virtud de nombramiento legal.", 
-            "B. Su procedimiento de selección es público, rigiéndose en todo caso por los principios de igualdad, mérito e idoneidad.", 
-            "C. En el caso del personal laboral temporal se regirá su selección por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Para proceder por los delitos de descubrimiento y revelación de secretos será siempre necesaria denuncia:",
-        options: [
-            "A. De la persona agraviada o de su representante legal.", 
-            "B. De la persona agraviada.", 
-            "C. Ninguna de las respuestas es correcta."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Las ideas y las creencias son pautas de comportamiento de carácter:",
-        options: [
-            "A. Interno.", 
-            "B. Externo.", 
-            "C. No son pautas de comportamiento."
-        ],
-        correctAnswer: "A"
-    },
-    {
-        question: "¿En qué consiste el conocido como fenómeno Brain-Drain?",
-        options: [
-            "A. la emigración del campo a la ciudad.", 
-            "B. Traslado de mentes privilegiadas de unas naciones a otras.", 
-            "C. Repoblación de un territorio de manera impulsada."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Señala la respuesta correcta:",
-        options: [
-            "A. Los títulos no deben llevar al final coma, punto y coma o dos puntos, pero si punto final.", 
-            "B. Los títulos rió deben llevar al final punto, coma, punto y coma o dos puntos.", 
-            "C. Los títulos deben llevar al final el signo simple o sencillo que requiera la frase."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Se especifican en el artículo 62 de la Constitución española las funciones de la figura del Rey. Entre ellas no figura:",
-        options: [
-            "A. La sanción y promulgación de las leyes.", 
-            "B. El ejercicio del derecho de gracia y la autorización de indultos generales.", 
-            "C. Proponer al candidato a Presidente del Gobierno y en su caso, nombrarlo."
-        ],
-        correctAnswer: "B"
-    },
-    {
-        question: "Según la Declaración Universal de los DDHH, toda persona tiene derecho a:",
-        options: [
-            "A. lgual salario para todos.", 
-            "B. A la protección contra el trabajo.", 
-            "C. Al descanso."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Aquella persona que tiene un vínculo nacional con un Estado, pero no es tratado como un habitante ni Puede disfrutar de los derechos fundamentales en el país es:",
-        options: [
-            "A. Apátrida de derecho.", 
-            "B. Apátrida de hecho.", 
-            "C. Apátrida de justicia."
         ],
         correctAnswer: "B"
     },
@@ -2292,13 +1421,1072 @@ const lastExamQuestions = [
         correctAnswer: "A"
     },
     {
-        question: "Las migraciones entre zonas de una misma ciudad son:",
+        question: "Para proceder por los delitos de descubrimiento y revelación de secretos será siempre necesaria denuncia:",
         options: [
-            "A.Migraciones interurbanas .", 
-            "B. Migraciones intraurbanas.", 
-            "C. Ninguna es correcta."
+            "A. De la persona agraviada o de su representante legal.", 
+            "B. De la persona agraviada.", 
+            "C. Ninguna de las respuestas es correcta."
+        ],
+        correctAnswer: "C"
+    },
+    {
+        question: "Una de las categorías de empleados público que recoge el Estatuto Básico del Empleado Público es el personal laboral, el cual:",
+        options: [
+            "A. Presta servicios retribuidos por las Administraciones Públicas en virtud de nombramiento legal.", 
+            "B. Su procedimiento de selección es público, rigiéndose en todo caso por los principios de igualdad, mérito e idoneidad.", 
+            "C. En el caso del personal laboral temporal se regirá su selección por el principio de celeridad, teniendo por finalidad atender razones expresamente justificadas de necesidad y urgencia."
+        ],
+        correctAnswer: "C"
+    },
+    {
+        question: "En el caso de un procedimiento por falta de atención de una solicitud de ejercicio de los derechos establecidos en los artículos 15 a 22 del Reglamento (UE) 2016/1679, este se iniciará por",
+        options: [
+            "A. Acuerdo de admisión a trámite.", 
+            "B. Por iniciativa propia.", 
+            "C. Las dos respuestas son correctas."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale la respuesta correcta:",
+        options: [
+            "A. EI agente encubierto informático podrá intercambiar o enviar por sí mismo archivos ilícitos por razón de su contenido y analizar los resultados de los algoritmos aplicados para la identificación de dichos archivos ilícitos.", 
+            "B. El agente encubierto informático, con autorización específica para ello, podrá intercambiar o enviar por si mismo archivos ilícitos por razón de su contenido y analizar los resultados de los algoritmos aplicados para la identificación de dichos archivos ilícitos.", 
+            "C. El agente encubierto informático no podrá intercambiar o enviar archivos ilícitos por razón de su contenido y analizar los resultados de los algoritmos aplicados para la identificación de dichos archivos ilícitos."
         ],
         correctAnswer: "B"
+    },
+    {
+        question: "Señale cuál de las siguientes no es una de las dependencias que el artículo 2 del Real Decreto 865/2001, de 20 de julio, por el que se aprueba el Reglamento de reconocimiento del estatuto de apátrida reconoce como habilitada para solicitar el estatuto de apátrida.",
+        options: [
+            "A. Oficina de Asilo y refugio.", 
+            "B. Centro Internamiento Extranjeros.", 
+            "C. Comisarias de Policía."
+        ],
+        correctAnswer: "B"
+    },
+    {
+        question: "Según la Ley 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, los Tribunales y órganos de selección del personal de la Administración General del Estado responderán al principio o principios de:",
+        options: [
+            "A. Presencia equilibrada de mujeres y hombre.", 
+            "B. Paridad entre hombres y mujeres.", 
+            "C. Las dos respuestas son correctas."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "El artículo 14 de la Ley de Seguridad Privada establece la especial obligación de colaboración de las empresas de seguridad, los despachos de detectives y el personal de seguridad privada con las Fuerzas y Cuerpos de Seguridad se desarrollará con sujeción al principio de: ",
+        options: [
+            "A. Legalidad.", 
+            "B. Subordinación.", 
+            "C. Coordinación."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: " ¿Qué teoría mantiene la tesis de que un Individuo se vuelve delincuente al estar más frecuentemente en relación con modelos criminales que con modelos no criminales?",
+        options: [
+            "A. Teoria del aprendizaje social.", 
+            "B. Teoria de la subcultura desviada.", 
+            "C. Teoría de la estructura social defectuosa."
+        ],
+        correctAnswer: "B"
+    },
+    {
+        question: "'Es correcto afirmar con respecto a lo establecido en la Ley Orgánica 3/1981 del Defensor del Pueblo:",
+        options: [
+            "A. Que la actividad de este cesará en los supuestos en los que se declaren los estados de excepción o sitio.", 
+            "B. Que pueden dirigirse al Defensor del Pueblo personas naturales españolas, que invoquen un interés legitimo..", 
+            "C. Que podrá iniciar o proseguir de oficio o petición de parte, ya que el Defensor del Pueblo actúa con autonomía y según su criterio."
+        ],
+        correctAnswer: "C"
+    },
+    {
+        question: "Según la Ley Orgánica 7/2021, de 26 de mayo, de protección de datos personales tratados para fines de prevención, detección, investigación y enjuiciamiento de infracciones penates, en casos de urgencia o necesidad inaplazable será el responsable operativo de las Fuerzas y Cuerpos de Seguridad competentes el que podrá determinar su uso, siendo comunicada tal actuación al Delegado o Subdelegado del Gobierno o autoridad competente de las comunidades autónomas. con la mayor brevedad posible, y siempre en el plazo de:",
+        options: [
+            "A. 24 horas.", 
+            "B. 48 horas", 
+            "C. 72 horas."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "Las estadísticas policiales sobre delincuencia, constituyen:",
+        options: [
+            "A. Un dato objetivo.", 
+            "B. Un dato subjetivo porque habria que añadir los delitos que no se denuncian.", 
+            "C. Las dos son correctas."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "La personalidad modal, son:",
+        options: [
+            "A. Tipo de personalidad que se encuentra con mas frecuencia entre la gente de un pais.", 
+            "B. la responsable en gran medida del caracter nacional.", 
+            "C. Las dos son correctas."
+        ],
+        correctAnswer: "C"
+    },
+    {
+        question: "Es el órgano ejecutivo del Observatorio Estatal de Violencia sobre la Mujer?",
+        options: [
+            "A. La Comisión Permanente.", 
+            "B. El Pleno.", 
+            "C. Ninguna es correcta."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "El grupo de personas que comparten comportamientos y creencias diferentes a los de la cultura dominante, constituye:",
+        options: [
+            "A. Una subcultura.", 
+            "B. Una contracultura.", 
+            "C. Una cultura dominante."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "La responsabilidad sobre la custodia y el traslado de armas de titularidad de la empresa a la que pertenezca, es función del:",
+        options: [
+            "A. Jefe de seguridad.", 
+            "B. Director de seguridad.", 
+            "C. Vigilante de seguridad."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "Seguridad de facto, es:",
+        options: [
+            "A. La segundad objetiva que puede ser medida estadísticamente.", 
+            "B. La segundad subjetiva.", 
+            "C. La percibida por la sociedad."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué sociólogo distinguia entre 'endogrupo' y 'exogrupo'?:",
+        options: [
+            "A. Gordon ALLPORT.", 
+            "B. Robert MERTON.", 
+            "C. Wlliam SUMMER."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué clase de valor es el amor?",
+        options: [
+            "A. Material.", 
+            "B. Objetivo.", 
+            "C. Subjetivo."
+        ],
+        correctAnswer: "C"
+    },
+    {
+        question: "Para Katz, la función instrumental de las actitudes sirve para:",
+        options: [
+            "A. Conocer el mundo donde vivimos.", 
+            "B. Defendemos de frustraciones.", 
+            "C. Satisfacer parte de nuestras necesidades."
+        ],
+        correctAnswer: "C"
+    },
+    {
+        question: "Señale cuál de los siguiente no es uno de los ámbitos establecidos para las cláusulas freno: ",
+        options: [
+            "A. las medidas de coordinación de los regimenes de seguridad social de los trabajadores migrantes.", 
+            "B. el establecimiento de normas comunes para determinadas infracciones penales.", 
+            "C. la cooperación policial."
+        ],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿A que sistema politico nos referimos cuando hablamos de la concentracion de todos los poderes estatales en manos de un grupo o partido impidiendo la presencia de otros partidos?",
+        options: [
+            "A. Autoritarismo.", 
+            "B. Tirania.", 
+            "C. Totalitarismo."
+        ],
+        correctAnswer: "C"
+    },
+    {
+        question: "Cuando un individuo no acepta parte o todos los valores sociales, hablamos de: Seleccione una:",
+        options: [
+            "A. Inadaptado.", 
+            "B. Delincuente.", 
+            "C. Las dos respuestas son correctas."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los Planes de Seguridad Ciudadana, son:",
+        options: ["A. Proactivos.", 
+        "B. Reactivos.", 
+        "C. Globales."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El Subcomité para la Prevención de Tortura, depende:",
+        options: ["A. Del Comité contra la Tortura de la ONU.", 
+        "B. Del Consejo de Europa.", 
+        "C. De Naciones Unidas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La prórroga de un visado expedido en Esparta se llevará a cabo según lo establecido:",
+        options: [
+            "A. En el Derecho Español.", 
+            "B. En el Derecho de la UE.", 
+            "C. En el Derecho Inernacional."
+        ],
+        correctAnswer: "B"
+    },
+    {
+        question: "Los miembros de Subcomité de Prevención Contra la Tortura, deberán:",
+        options: [
+            "A. Ser expertos en materia de Derecho Penal Administración Penitenciaria o Policial.", 
+            "B. Pertenecer a la Admintstracitm de Justicia.", 
+            "C. De gran integridad moral y de reconocida competencia en la Administracion Publica."
+        ],
+        correctAnswer: "A"
+    },
+    {
+        question: "En el control jurisdiccional de los actos del Gobierno, si la acusación fuera por traición , solo podrá ser planteada por iniciativa de :",
+        options: ["A. Una cuarta parte del Congreso.", 
+        "B. Dos tercios del Congreso.", 
+        "C. La mayoría absoluta del Congreso de los Diputados."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién facilita a cada embajador, una vez que ha sido nombrado, la carta de instrucciones?",
+        options: ["A. El Presidente del Gobierno.", 
+        "B. El Secretario de Estado.", 
+        "C. El Ministro de Asuntos Exteriores."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Dentro de la Administración Central del Estado, el nombramiento del personal eventual corresponde a:",
+        options: ["A. Los Ministros y Secretarios de Estado.", 
+        "B. Los Subsecretarios como jefes de personal.", 
+        "C. A los tres en determinados casos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Si como consecuencia de la instrucción del procedimiento resultase modificada la determinación inicial de los hechos, de su posible calificación, de las sanciones imponibles o de las responsabilidades susceptibles de sanción, se notificará todo ello al expedientado en:",
+        options: ["A. La resolución del procedimiento.", 
+        "B. La propuesta de resolución.", 
+        "C. Ninguna es correcta."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La habilitación del personal de seguridad privada corresponderá al:",
+        options: ["A. Ministerio del lnterior u órgano autonómico correspondiente.", 
+        "B. Ministerio de lnterior.", 
+        "C. Si van a desempeñar únicamente funciones en una comunidad autónoma con competencias en seguridad privada, corresponderá al órgano autonómico."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Las Comisiones de Seguridad Privada de colaboración entre las administraciones públicas y los representantes del sector de seguridad privada deberán celebrar al menos.",
+        options: ["A. Una reunión al año.", 
+        "B. Una reunión cada semestre.", 
+        "C. Una reunión cada trimestre."],
+        correctAnswer: "A"
+    },
+    {
+        question: "En relación con el Consejo de Seguridad Nacional, marque la respuesta correcta.",
+        options: ["A. Es un órgano directivo adscrito a la Presidencia del Gobierno de España.", 
+        "B. Está constituido por el Ministerio del lnterior y por el de Defensa.", 
+        "C. Entre sus funciones figura la de aprobar informes anuales de seguridad."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué cargo de los enumerados a continuación le corresponden al Director del Centro Nacional para la Protección de las Infraestructuras Críticas?",
+        options: ["A. Las dos anteriores son ciertas.", 
+        "B. Ejerce de Secretario en la Comisión Nacional para la Protección de las Infraestructuras Críticas.", 
+        "C. Preside el Grupo de Trabajo lnterdepartamental parta la Protección de las Infraestructuras Críticas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Órgano colegiado de apoyo al Consejo de Seguridad Nacional cuya composición reflejará el espectro de los ámbitos de los departamentos, organismos y agencias de las administraciones públicas con competencias en materia de ciberseguridad. Hablamos de:",
+        options: ["A. El Consejo Nacional de Ciberseguridad.", 
+        "B. El Instituto Nacional de Ciberseguridad.", 
+        "C. La Subdirección General de Sistemas de Información y Comunicaciones para la Seguridad."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los delitos leves se sancionan:",
+        options: ["A. Cuando sean consumadas y las intentadas contra las personas y el patrimonio.", 
+        "B. Cuando sean consumados o haya tentativa de delito.", 
+        "C. Cuando sean consumadas solamente."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Rubén, que está desde hace años en una lista de espera para recibir un riñón, decide aceptar la propuesta de adquirir uno a cambio de un precio en una clínica legal, practicándose el trasplante. Su conducta:",
+        options: ["A. Es impune, puesto que prima el interés principal del estado de necesidad en el que se encuentra.", 
+        "B. Es castigada con la misma pena que al que ha hecho el ofrecimiento y efectuado el trasplante, pudiendo rebajarse en grado.", 
+        "C. Se castiga como un delito leve."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El ensañamiento en el asesinato puede cometerse mediante:",
+        options: ["A. Dolo directo.", 
+        "B. Dolo directo o dolo eventual.", 
+        "C. Dolo directo, eventual o imprudente."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién tendrá a cargo la custodia sobre las grabaciones que se obtengan mediant la instalación de videocámaras fijas y móviles?",
+        options: ["A. Los órganos facultados para formular las solicitudes de instalaciones fijas de o móviles.", 
+        "B. Los órganos facultados para aprobar las solicitudes de instalaciones fijas de o móviles.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale la opción correcta:",
+        options: ["A. El sobreseimiento libre conlleva el archivo definitivo de las actuaciones.", 
+        "B. El sobreseimiento libre conlleva el archivo temporal de las actuaciones.", 
+        "C. El sobreseimiento provisional conlleva el archivo definiWvo de las actuaciones."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El deber del juzgador de realizar cuantas diligencias sean necesarias para conocer la verdad material o histórica, obedece al principio de:",
+        options: ["A. Inmutabilidad.", 
+        "B. Oficialidad.", 
+        "C. Verdad material."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Toman sus decisiones por mayoría de votos de los miembros presentes…:",
+        options: ["A. El Subcomité para la Prevención de la Tortura.", 
+        "B. El Comité de Ministros del Consejo de Europa.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El espacio abierto de encuentro para reflexionar sobre el mundo opuesto al dominio del capital, empeñados en construir una sociedad diferente, es:",
+        options: ["A. El FMI.", 
+        "B. El FSM.", 
+        "C. El FEM (WEF)."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La Comisión Interministerial para el Cambio Climático y la Transición Energética estará integrada por Vocales. ¿Qué rango mínimo han de tener?",
+        options: ["A. Director General.", 
+        "B. No se requiere un rango mínimo.", 
+        "C. Subdirector General."],
+        correctAnswer: "A"
+    },
+    /* {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    }, */
+
+];
+
+
+const lastExamQuestions = [
+    {
+        question: "Es un tipo de fraude contra empresas que realizan transferencias electrónicas de dinero. donde el ciberdelincuente suplanta a uno de los proveedores e intercepta los correos de facturación que envía,  Cambiando la cuenta del banco donde realizar los pagos, de manera que se haga una transferencia a una  cuenta controlada por ellos, este tipo de fraude es conocido como:",
+        options: ["A. Business E-mail Cornpromise (BEC).", 
+        "B. Ransomware.", 
+        "C. Skimming."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Dentro de los EPI, ¿en qué categoría encontramos los equipos destinados a proteger contra riesgos mínimos ?",
+        options: ["A. Categoria I.", 
+        "B. Categoria II.", 
+        "C. Categoria III."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los delincuentes profesionales, en general, son:",
+        options: ["A. Delincuentes asociales.", 
+        "B. Delicuentes habituales.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Teoria que considera las migraciones como unidireccionales y que se basa en una pareja de factores, usada por los investigadores como un instrumento conceptual que permite identificar una serie de causas y efectos de unas migraciones particulares que tienen su origen en el destierro y en el lugar de acogida marcadas por la necesidad de integracion.",
+        options: ["A. Teoria del Push and Pull.", 
+        "B. Teoria de la dependencia.", 
+        "C. Teoria de la causacion acumulativa."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La inseguridad y la discriminación, ¿qué causas de la inmigración son?:",
+        options: ["A. Económicas.", 
+        "B. Sociales.", 
+        "C. Politicas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Cuál de los siguientes delitos no necesita de un sujeto activo colectivo?",
+        options: ["A. Ocupación de locales.", 
+        "B. Desórdenes públicos.", 
+        "C. Perturbación del orden."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En cuanto a los representantes legales de las empresas de seguridad privada, señale la incorrecta",
+        options: ["A. No haber sido sancionados en los dos o cuatro años anteriores por infraccIón grave o muy grave, respectivamente, en materia de seguridad privada.", 
+        "B. No haber sido separados del servicio en las Fuerzas Armadas o en las Fuerzas y Cuerpos de Seguridad, ni haber ejercido funciones de control de las entidades o servicio& de seguridad, vigilancia o investigación privadas, ni de su personal o medios, como miembros de las Fuerzas y Cuerpos de Seguridad, en los dos o cuatro años anteriores.", 
+        "C. No haber sido administrador de hecho o de derecho o apoderado general, en los diez años anteriores, enuna empresa que haya sido declarada en concurso ca    do Como culpable, o condenada mediante sentencia firme por delitos de insolvencia punible, contra la Hacienda Pública. contra la Seguridad Social o contra los  derechos de los trabajadores, por intromisióg lima en el ámbito de protección del derecho al honor, a la  intimidad personal y familiar o a la propia irMgen, Ineración del secreto de las comunicaciones o de otros  derechos fundamentales."],
+        correctAnswer: "B"
+    },
+    {
+        question: "EI maltrato de obra a quien sea o haya sido esposa del agresor:",
+        options: ["A. Constituye un delito de lesiones con me al art 153 CP.", 
+        "B. Constituye un delito de maltrato de obra a al no necesitar asistencia facultativa, tipificado en art 147.3 CP..", 
+        "C. Constituye un delito contra las relaciones familiares."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Prevé la Constitución española de 1978 la posibilidad de suspensión de forma individual de los derechos fundamentales?",
+        options: ["A. No. sólo se pueden suspender de forma colectiva y según se establezca en caso de declaración de estado de alarma, excepcion o sitio.", 
+        "B. No. En la Constitucidn española de 1978, se indica la suspensión de derechos fundamentales de forma individual coportaria una práctica abusiva que produciría responsabilidad penal.", 
+        "C. Si. La suspension se aplica con la debida intervención judicial y con control parlamentario en los casos relacionados con actuación de bandas armadas o elementos terroristas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La coexistencia entre culturas diferentes, con intercambio entre ellas, que supongan un enriquecimiento mutuo, pero sometiéndose a los valores y principios de la sociedad del país que le acoge, ¿a qué modelo de convivencia corresponde?",
+        options: ["A. Modelo francés.", 
+        "B. Modelo español.", 
+        "C. Modelo alemán."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La persona que se hubiera beneficiado de subvenciones o ayudas percibidas por su condición de víctima estará obligada a reembolsar las cantidades recibidas en dicho concepto y al abono de los  gastos causados a la Administración por sus actuaciones de reconocimiento, información, protección y  apoyo si fuera condenada por:",
+        options: ["A. Denuncia falsa.", 
+        "B. Simulación de delito.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En el siglo XIX se produjo en los EEUU, especialmente en California, un movimiento masivo de personas atraídas por el hallazgo de yacimientos de petróleo, fenómeno conocido por la fiebre del oro. ¿De qué tipo son estos movimientos?:",
+        options: ["A. Movimientos rush.", 
+        "B. Movimientos tumultuosos.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Lo importante de esta cumbre es que establece una relación ambivalente entre desarrollo sostenible y los peligros de la agresión continua que estaba sufriendo el medio ambiente por las acciones humanas, indicando la necesidad de poner limites a las emisiones do gases de efecto invernadero.",
+        options: ["A. Primera Cumbre de la tierra.", 
+        "B. Segunda Cumbre de la tierra.", 
+        "C. Tercera Cumbre de la tierra."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Señala la respuesta correcta:",
+        options: ["A. El Derecho pone limites a la libertad de las personas.", 
+        "B. La libertad es un derecho fundamental y el Derecho (la ley) no puede ponerle limites.", 
+        "C. El Derecho no pone límites a la libertad de las personas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Sin perjuicio de la regulación específica, en el ámbito de la Administración General del Estado cada sistema de prevención deberá someterse a un control periódico externo cuya realización corresponderá a:",
+        options: ["A. La Inspección de Trabajo y Seguridad Social.", 
+        "B. La Comisión Nacional de Seguridad y Salud en el Trabajo.", 
+        "C. El Instituto Nacional de Seguridad y Salud en el Trabajo."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Las diligencias de identificación, registro y comprobación practicadas por los agentes de las Fuerzas y Cuerpos de Seguridad con ocasión de actuaciones realizadas:",
+        options: ["A. Estarán sujetas a las mismas formalidades que la detención.", 
+        "B. No estarán sujetas a las mismas formalidades que la detención.", 
+        "C. Ninguna respuesta es correcta."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El derecho de asilo puede se invocado:",
+        options: ["A. Por delitos comunes.", 
+        "B. Por delitos políticos.", 
+        "C. Las dos son verdaderas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El fenómeno del rumor,propicia:",
+        options: ["A. Inseguridad virtual.", 
+        "B. Inseguridad imaginada.", 
+        "C. Las dos son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El beneficio de justicia gratuita para las víctimas de violencia de género se perderá:",
+        options: ["A. Tras la firmeza de la sentencia absolutoria, o del sobreseimiento definitivo o provisional por no resultar acreditados los hechos delictivos.", 
+        "B. Tras la firmeza de la sentencia absolutoria, o del sobreseimiento definitivo por no resultar acreditados los hechos delictivos..", 
+        "C. Tras la firmeza de la sentencia absolutoria."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Son migraciones interurbanas no recurrentes:",
+        options: ["A. Cuando no vuelven a su lugar de origen.", 
+        "B. Cuando vuelven a su lugar de origen.", 
+        "C. Ninguna es correcta."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Procede la declaración de fallecimiento de una persona física:",
+        options: ["A. Transcurridos diez anos desde que se haya producido la declaración de ausencia..", 
+        "B. Pasados cinco años desde las ultimas noticias o, en defecto de estas, desde su desaparición, si al expirar dicho plazo hubiere cumplido el ausente setenta y cinco años..", 
+        "C. En caso de siniestro, cumplidos ocho meses de un riesgo inminente de muerte por causa de violencia contra la vida, en que una persona se hubiese encontrado sin haber tenido."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Cuando la evaluación de los riesgos exija la realización de mediciones, análisis o ensayos y la normativa no indique o concrete los métodos que deben emplearse, o cuando los criterios de  evaluación contemplados en dicha normativa deban ser interpretados o precisados a la luz de otros  criterios de carácter técnico, se podrán utilizar, si existen, los métodos o criterios recogidos en:",
+        options: ["A. Normas UNE.", 
+        "B. Gulas de la Comisión Nacional de Seguridad y Salud.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Se establece en el articulo 122 de la Constitución, que el Consejo General del Poder Judicial:",
+        options: ["A. Es el órgano de gobierno del poder judicial.", 
+        "B. Está presidido por el Fiscal General del Estado.", 
+        "C. Ambas respuestas son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Para la Real Academia de la lengua, emigrar exige:,",
+        options: ["A. Cambio de pais.", 
+        "B. Establecerse en otro país.", 
+        "C. Que el cambio de país sea por motivos económicos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El sinónimo de orden jurídico, del orden establecido por el Derecho, es:",
+        options: ["A. Seguridad colectiva.", 
+        "B. Orden publico.", 
+        "C. Seguridad social."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Cuando un individuo se o opone ex resamente al orden establecido, hablamos de:",
+        options: ["A. Inadaptado.", 
+        "B. Delincuente.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El extranjero que se encuentre internado, ¿a disposición de quién se encontrará en todo momento?",
+        options: ["A. Del transportista que lo hubiera traído a la frontera tanto por vía aérea, marítima o terrestre, el cual estará obligado a hacerse cargo de él inmediatamente.", 
+        "B. De los agentes encargados del control de fronteras.", 
+        "C. De la autoridad judicial que lo autorizó.."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿En qué año se establecieron por el Consejo Europeo los llamados Criterios de Copenhague?",
+        options: ["A. 1989.", 
+        "B. 1993.", 
+        "C. 1997."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quién podrá autorizar la retirada temporal del dispositivo de control?",
+        options: ["A. La autoridad judicial.", 
+        "B. La autoridad policial.", 
+        "C. La autoridad policial y la judicial."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Cuando un vehículo no prioritario tenga que prestar, excepcionalmente, un servicio de carácter urgente, ¿debe respetar las normas de circulación en las intersecciones?",
+        options: ["A. Sí, especialmente en las intersecciones..", 
+        "B. No, ya que está exento de cumplir estas normas en servicio prioritario.", 
+        "C. Solo cuando circule fuera de poblado."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El Convenio Europeo de los DDHH fue firmado por España en el año:",
+        options: ["A. 1980.", 
+        "B. 1979.", 
+        "C. 1977."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Juan es empleado de una empresa de alquiler de vehículos sita en el aeropuerto. Una mañana accedió al interior de un vehículo de alquiler y se apropió de una cartera, propiedad del cliente que acababa de entregar el vehículo, la cual contenía diversa documentación personal, así como 800 euros en efectivo:",
+        options: ["A. Juan puede ser responsable de un delito de apropiación indebida.", 
+        "B. Juan comete un delito de hurto del tipo básico, excediendo la cuantía de lo sustraído, de 400€..", 
+        "C. Juan comete un delito de robo considerándose llave falsa no destinada a ese uso, la que utiliza Juan para acceder al vehículo."],
+        correctAnswer: "A"
+    },
+    {
+        question: "En un delito de tráfico de órganos si el receptor del órgano consintiere la realización del trasplante conociendo su origen ilícito será castigado:",
+        options: ["A. Las mismas penas establecidas para el tipo básico tipificado en el art 156 bis.", 
+        "B. Con las mismas establecidas para el tipo básico tipificado en el art 156 bis. ,que podrán ser rebajadas en uno o dos grados atendiendo a las circunstancias del hecho y del culpable.", 
+        "C. Con la pena inferior en grado con respecto al tipo básico."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El delito es un término eminentemente:",
+        options: ["A. Social.", 
+        "B. Legal.", 
+        "C. Policial."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La seguridad subjetiva depende de:",
+        options: ["A. Los valores del individuo.", 
+        "B. La actitud del individuo.", 
+        "C. La personalidad del individuo."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Un marino que esté en posesión de un documento de identidad de la gente del mar en vigor podrá circular mientras dure la escala del buque por el recinto del puerto o por las localidades próximas, en un radio de:",
+        options: ["A. 15 kilómetros y sin la obligación de presentarse en el puesto fronterizo, siempre que el interesado figure en la lista de tripulantes del buque al que pertenezca.", 
+        "B. 5 kilómetros y sin la obligación de presentarse en el puesto fronterizo, siempre que el interesado figure en la lista de tripulantes del buque al que pertenezca.", 
+        "C. 10 kilómetros y sin la obligación de presentarse en el puesto fronterizo, siempre que el interesado figure en la lista de tripulantes del buque al que pertenezca."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En la Rioja, ¿quien será la autoridad designada para establecer una sanción por infringir una de las infracciones previstas en el régimen sancionador en materia de extranjería comprendida en el título III de la L.0.4/2000?",
+        options: ["A. Al subdelegado del Gobierno, en todo caso.", 
+        "B. Al delegado del Gobierno o por delegación de este, el subdelegado del Gobierno siempre que la comunidad autónoma tenga atribuidas competencias en materia de extranjería.", 
+        "C. Al delegado del Gobierno."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Por qué se caracteriza la primera etapa de la globalización?",
+        options: ["A. El movimiento de capital y mano de obra a través de las fronteras nacionales..", 
+        "B. Está asociada la división del trabajo horizontal.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Con la llegada de inmigrantes:",
+        options: ["A. Aumenta el paro.", 
+        "B. Disminuye el paro.", 
+        "C. Aumentan los salarios."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Para el Consejo de Europa, la principal causa de las migraciones se debe a:",
+        options: ["A. El efecto llamada.", 
+        "B. Las diferencias entre los desarrollos de las economías de los pases.", 
+        "C. Las dos son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Los individuos que tienen influencia en las personas y en el comportamiento social de las mismas a través de los cuales van a desarrollar su actividad social, son:",
+        options: ["A. Agentes socializadores.", 
+        "B. Agentes de control social.", 
+        "C. Agentes institucionales."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Qué nombre recibe el proceso basado en transacciones de bienes y servicios, que permita la expansión de negocios por todo el mundo:",
+        options: ["A. Globalización productiva.", 
+        "B. Globalización comercial.", 
+        "C. Globalización financiera."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La persona titular del cargo de fiscal de Sala Delegada contra la Violencia sobre la Mujer forma parte de la composición de :",
+        options: ["A. De la Delegación de Gobierno para la Violencia de Género.", 
+        "B. Del Observatorio Estatal de Violencia sobre la mujer", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿En qué casos de los siguientes, se deberá motivar la denegación del visado?",
+        options: ["A. En visados de residencia para reagrupación familiar o para el trabajo por, cuenta propia.", 
+        "B. En visados de residencia para reagrupación familiar o para el trabajo por cuenta ajena, así como de estancia o tránsito.", 
+        "C. En visados de residencia para reagrupacion conyugal o para el trabajo por cuenta ajena, así como de estancia o tránsito."],
+        correctAnswer: "B"
+    },
+    {
+        question: "A partir de qué edad es obligatoria la expedición del DNI:",
+        options: ["A. 14 años.", 
+        "B. 16 años.", 
+        "C. 18 años."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Son características del Derecho:",
+        options: ["A. La generalidad y superioridad.", 
+        "B. La obligatoriedad y superioridad.", 
+        "C. La generalidad y obligatoriedad."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿De qué se percataron los países desarrollados en la década de los 70?",
+        options: ["A. De que su prosperidad se basaba en el uso intensivo de recursos naturales ilimitados.", 
+        "B. De que los recursos naturales en que sustentaban su crecimiento no eran inagotables.", 
+        "C. De que el crecimiento económico y medio ambiente no podían ir juntos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Tal como establece el artículo 3.1 del Código Civil:",
+        options: ["A. Las normas se interpretarán según el sentido propio de sus palabras, en relación con el contexto, los antecedentes históricos y legislativos y la realidad social del tiempo en que han de ser aplicadas atendiendo fundamentalmente al espíritu y finalidad de aquellas.", 
+        "B. Procederá la aplicación análoga de las normas cuando estas no contemplen un supuesto específico, pero regulen otro semejante entre los que se aprecie identidad de razón. La analogía permite la aplicación del Derecho a casos no previstos por él, es una laguna del derecho que es cubierta por una ley semejante.", 
+        "C. Las disposiciones del Código Civil, se aplicarán como supletorias en las materias recogidas por otras leyes."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuál de los siguientes órganos del BCE está formado por los miembros que tendrán un mandato de 8 años no renovables?",
+        options: ["A. Comité Ejecutivo.", 
+        "B. Consejo de Gobierno.", 
+        "C. Consejo General."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale cuál de los siguientes servicios no tiene que ser prestado únicamente por empresas de seguridad privada",
+        options: ["A. La vigilancia y protección de bienes, establecimientos, lugares y eventos, tanto públicos como privados, así de las personas que pudieran encontrarse en los mismos.", 
+        "B. El depósito y custodia de explosivos, armas, cartuchería metálica, sustancias, materias, mercancías y cualquiera objetos que por su peligrosidad precisen de vigilancia y protección especial.", 
+        "C. La explotación de centrales para la conexión, recepción, verificación y, en su caso, respuesta y transmisión de las señales de alarma, así como la monitorización de cualesquiera señales de dispositivos auxiliares para la segundad de personas, de bienes muebles o inmuebles o de cumplimiento de medidas impuestas, y la comunicación a las Fuerzas y Cuerpos de Seguridad competentes en estos casos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "A los efectos de la Ley 4/2000, representa discriminación todo acto que:",
+        options: ["A. Directa o indirectamente, conlleve una distinción, exclusión, restricción o preferencia contra un extranjero basada en la raza, el color, la ascendencia o el origen nacional o étnico, las convicciones y prácticas religiosas, y que tenga como fin o efecto destruir o no limitar el reconocimiento o el ejercicio, en condiciones de igualdad, de los derechos humanos y de las libertades fundamentales en el campo político, económico, social o cultural.", 
+        "B. Directamente, conlleve una distinción, exclusión, restricción o preferencia contra un extranjero basada en la raza. el color, la ascendencia o el origen nacional o étnico, las convicciones y prácticas religiosas, y que tenga como fin o efecto destruir o limitar el reconocimiento o el ejercicio, en condiciones de igualdad, de los derechos humanos y de las libertades fundamentales en el campo político, económico, social o cultural..", 
+        "C. Directa o indirectamente, conlleve una distinción, exclusión, restricción o preferencia contra un extranjero basada en la raza, el color, la ascendencia o el origen nacional o étnico, las convicciones y prácticas religiosas. y que tenga como fin o efecto destruir o limitar el reconocimiento o el ejercicio, en condiciones de igualdad, de los derechos humanos y de las libertades fundamentales en el campo político, económico, social o cultural."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué palabra vendría a definirse como sinónima de orden, de paz y de tranquilidad?:",
+        options: ["A. Libertad.", 
+        "B. Seguridad.", 
+        "C. Confianza."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quién nombra al director del OLAF?",
+        options: ["A. El Parlamento.", 
+        "B. El Parlamento y el Consejo.", 
+        "C. El Parlamento, el Consejo y la Comisión."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La Estrategia Española de Desarrollo Sostenible:",
+        options: ["A. Fue renovada en el Consejo de Bruselas en el año 2006 con un principio general y uno adicional.", 
+        "B. Fue renovada en el Consejo de Bruselas en el año 2006 con un principio general y dos adicionales.", 
+        "C. Fue renovada en el Consejo de Bruselas en el año 2006 con un principio general."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Cuál de las siguientes es una característica del estado de excepción enunciada en la Ley Orgánica 4/1981?:",
+        options: ["A. Cuando la autorización del Congreso comprenda la suspensión del artículo veintiuno de la Constitución, la autoridad gubernativa podrá someter a autorización previa o prohibir la celebración de reuniones y manifestaciones.", 
+        "B. Un decreto determinará el ámbito territorial, la duración y os efectos de la declaración, que no podrá exceder de quince días.", 
+        "C. Podrá declararse este estado por paralización de servicios públicos esenciales para la comunidad."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Marta y María, ambas mayores de edad, estaban en trámites de separación y habían quedado en un bar para hablar de temas legales, María aprovechó un descuido de Marta y metió benzodiazepina en la croqueta que esta había pedido. Marta, al llegar a casa empezó a encontrarse mal y se acostó. A la mañana siguiente le habían desaparecido 27.000€ de una cuenta, María realizó la operación desde el móvil de Marta, por eso la necesitaba inconsciente:",
+        options: ["A. Maria podía ser investigada por un delito de asesinato en grado de tentativa.", 
+        "B. María podría ser investigada por un delito de estafa.", 
+        "C. Maria sería responsable de un delito de robo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Se establece en el artículo 123 de la Constitución:",
+        options: ["A. Que el Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial.", 
+        "B. Que el Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Ministerio Fiscal.", 
+        "C. Que el Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Tribunal Constitucional."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El movimiento que rechaza el capitalismo y el modelo neoliberal, es:",
+        options: ["A. El movimiento de resistencia global.", 
+        "B. El movimiento altermundista.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Cuál es un órgano directivo de la Administraciórt General del Estado?",
+        options: ["A. Secretario de Estado.", 
+        "B. Ministro.", 
+        "C. Secretario General Técnico."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El indigente es un tipo de inconformismo llamado:",
+        options: ["A. Innovación.", 
+        "B. Retraimiento.", 
+        "C. Ritualismo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Qué miembro de la ONU proclamó la Declaración Universal de los Derechos Humanos?",
+        options: ["A. La Comisión Europea de Derechos Humanos.", 
+        "B. La Asamblea general de Naciones Unidas.", 
+        "C. El Tribunal Europeo de Derechos Humanos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Qué teoría criminológica se basa en el miedo que provoca en el individuo potencialmente infractor, las consecuencias de la comisión de un acto delictivo?:",
+        options: ["A. Teoría de la tensión o la frustración.", 
+        "B. Teoría Crítica al Sistema Tradicional de Investigación.", 
+        "C. Teoría del arraigo social."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Los Delegados del Gobierno ejercen las funciones propias de los Subdelegados del Gobierno:",
+        options: ["A. En todas las Comunidades Autónomas, pues son los superiores jerárquicos.", 
+        "B. Sólo en las Comunidades Autónomas uniprovinciales.", 
+        "C. En las Comunidades Autónomas pluriprovinciales."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Los oficiales de enlace serán nombrados y cesados por:",
+        options: ["A. El director general de la Policía.", 
+        "B. El Ministro de Interior.", 
+        "C. El Ministro de Asuntos Exteriores."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién podrá acordar, previo informe de las Salas de Gobierno, que, en aquellas circunscripciones donde sea conveniente en función de la carga de trabajo existente, el conocimiento de los asuntos referidos a Violencia de Género, corresponda a uno de los Juzgados de Primera Instancia e Instrucción, o de Instrucción?",
+        options: ["A. El Ministerio Fiscal.", 
+        "B. El Consejo General del Poder Judicial.", 
+        "C. La Fiscalía de los Tribunales Superiores de Justicia y de las Audiencias Provinciales."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La patogenia de la enfermedad profesional es:",
+        options: ["A. Predecible.", 
+        "B. Difícil de establecer.", 
+        "C. Brusca."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Señale cuál de los siguientes es un requisito para a cincesión de residencia por razones de arraigo social:",
+        options: ["A. Permanencia en España durante un periodo mínimo de dos años.", 
+        "B. Presentar un informe de arraigo que acredite su integración social, emitido por la Comunidad Autónoma en cuyo territorio tengan su domicilio habitual.", 
+        "C. Contar con un contrato de trabajo firmado por el trabajador y el empresario en el momento de la solicitud para un periodo que no sea inferior a un año."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Un marginado laboral sería:",
+        options: ["A. Un parado.", 
+        "B. Un jubilado.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El II Plan de Acción de lucha contra los delitos de odio (2022-2024) aprobado por la ISES 5/2022, establece la creación de una Comisión de Seguimiento, ¿con qué periodicidad enviarán la Dirección General de la Policía y la Dirección General de la Guardia Civil un informe con las actuaciones desarrolladas en sus respectivos ámbitos territoriales?:",
+        options: ["A. Anual.", 
+        "B. Semestral.", 
+        "C. Trimestral."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El objeto de conciencia, es un tipo de inconformismo denominado:",
+        options: ["A. Rebelt.", 
+        "B. Ritualismo.", 
+        "C. Retraimiento."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El Indice de Bienestar Económico Sostenible °BES) es un indicador compuesto por alrededor de un veintena de variables de distinta naturaleza, que pretende reflejar los distintos aspectos económicos, sociales y ambientales que son relevantes para el bienestar. Originalmente fue propuesto en 1989 por:",
+        options: ["A. James Tobin.", 
+        "B. Ignacio Ramonet y George Mombiot.", 
+        "C. Herman Daly y John Cobb Jr."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En protección internacional, en el momento de efectuar la solicitud, las persona extranjera será informada, en una lengua que pueda comprender, acerca de:",
+        options: ["A. Que procedimiento que debe seguir.", 
+        "B. De sus obligaciones en materia de plazos.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Los pros esos, actividades operaciones, equipos o productos que en ausencia de medidas preventivas específicas, originen riesgos para la seguridad y salud de los trabajadores que los desarrollan o utilizan, serán considerados como",
+        options: ["A. Peligrosos.", 
+        "B. Potencialmente peligrosos.", 
+        "C. Potencialmente delicados."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El aborto realizado por imprudencia se encuentra tipificado en:",
+        options: ["A. Art 144 CP.", 
+        "B. Art 145 CP.", 
+        "C. Art 146 CP."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Según el artículo 119 del Reglamento General de Circulación, se contemplan como exentos del uso del cinturón.",
+        options: ["A. Los pasajeros que midan menos de 135cm, siempre y cuando vayan en la parte trasera del taxí que circule por vía urbana.", 
+        "B. Los taxistas y distribuidores de mercancías.", 
+        "C. Ambas respuestas son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Los grupos de personas que no constituyen un grupo social, forman:",
+        options: ["A. Una agrupación de masas.", 
+        "B. Un conglomerado.", 
+        "C. Una categoría social."],
+        correctAnswer: "B"
+    },
+    {
+        question: "De las siguientes afirmaciones, señale cual de ellas es INCORRECTA:",
+        options: ["A. Una norma general es siempre supletoria de una especial.", 
+        "B. Una norma especial siempre predomina sobre la general.", 
+        "C. Una norma posterior siempre prevalece sobre otra anterior."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿En qué tipo de emigración podríamos encuadrar la siguiente afirmación? La vendimia en Francia ha llegado a absorber hasta 150.000 trabajadores españoles por un período aproximado de tres meses:",
+        options: ["A. Emigración natural.", 
+        "B. Emigración económica.", 
+        "C. Emigración estacional."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Incorporará el objetivo de la integración entre inmigrantes y sociedad receptora, con carácter transversal a todas las políticas y servicios públicos",
+        options: ["A. El Ministro del Interior.", 
+        "B. El Gobierno.", 
+        "C. Las Administraciones Públicas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Son componentes de la ideología:",
+        options: ["A. Los valores, las actitudes y las creencias.", 
+        "B. Los símbolos, el lenguaje y los valores.", 
+        "C. Las creencias, las normas sociales y los comportamientos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "A qué personas de entre las siguientes les será denegado el derecho de asilo?",
+        options: ["A. A las que constituyan, por razones infundadas, un peligro para la seguridad de España.", 
+        "B. A las personas que, habiendo sido objeto de una condena firme por delito grave constituyan una amenaza.", 
+        "C. A las personas que, habiendo sido objeto de una condena firme por delito leve constituyan una amenaza."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿En qué consiste el efecto desvanecimiento de los prejuicios?",
+        options: ["A. En que los prejuicios casi siempre son equivocados.", 
+        "B. En que tienden a desaparecer con el paso del tiempo.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Dónde puede pedir una orden de protección una mujer víctima de violencia de género?",
+        options: ["A. Ante las asociaciones de ayuda a la mujer.", 
+        "B. Ante el juez,Ministerio Fiscal o dependencias policiales..", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Las Técnicas Reactivas son aquellas que",
+        options: ["A. Aprovechan la experiencia que se obtiene de la investigación de los accidentes ocurridos.", 
+        "B. Identifican el peligro y evalúan el riesgo.", 
+        "C. Se adoptan para evitar futuros accidentes."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La tarjeta acreditativa del reconocimiento de apátrida, que habilitará para residir en España y para:",
+        options: ["A. Realizar actividades por cuenta ajena.", 
+        "B. Realizar actividades por cuenta propia.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El ACNUR tiene su sede en:",
+        options: ["A. Suiza.", 
+        "B. Suecia.", 
+        "C. Nueva York."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué organismo desempeña la función de guardián del Tribunal Europeo de Derechos Humanos?",
+        options: ["A. El Comisario del Consejo de Europa.", 
+        "B. La Asamblea Parlamentaria del Consejo de Europa.", 
+        "C. El Comité de Ministros del Consejo de Europa."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El proceso de armonización de culturas con motivo de la llegada de inmigrantes a un pais, se llama:",
+        options: ["A. Integración.", 
+        "B. Asimilación.", 
+        "C. Pluralismo cultural."],
+        correctAnswer: "A"
+    },
+    {
+        question: "En el tipo de lesiones graves •¿se sanciona la deformidad grave?",
+        options: ["A. En el delito de lesiones, el cp sanciona expresamente, entre otras lesiones, el causar una grave deformidad..", 
+        "B. El Código penal contem'pla, además de la sanción expresa de la deformidad grave, un tipo atenuado si el agresor asume los costes de una cirugía reparadora..", 
+        "C. El CP contempla un tipo agravado si además de la deformidad grave se ocasiona alguna otra lesiónEl CP contempla un tipo agravado si además de la deformidad grave se ocasiona alguna otra lesión."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Cuando la víctima de un delito es un juez o un policía, se denomina:",
+        options: ["A. Victimización policial o victimización judicial.", 
+        "B. Victimización legal.", 
+        "C. Las dos respuestas son falsas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Cuál no es una de las funciones excluidas del ámbito de la ley de seguridad privada, pero compatibles sin perjuicio de la normativa específica aplicable con las empresas y el personal?",
+        options: ["A. El control detránsito en zonas reservadas o de circulación restringida en el interior de instalaciones en cumplimiento de la normativa interna de los mismos..", 
+        "B. Las de comprobación y control del estado y funcionamiento de calderas, bienes e instalaciones en general, en cualquier clase de inmuebles, para garantizar su conservación y funcionamiento..", 
+        "C. La conexión a centrales receptoras de alarmas de sistemas de prevención o protección contra incendios o de alarmas de tipo técnico o asistencial, o de sistemas o servicios de control o mantenimiento."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Responsabilizarse del asesoramiento jurídico al Ministro en el desarrollo de las funciones que a éste le corresponden y, en particular, en el ejercicio de su potestad normativa y en la producción de los actos administrativos de la competencia de aquel, así como a los demás órganos del Ministerio.",
+        options: ["A. Secretarios Generales Técnicos.", 
+        "B. Subsecretarios.", 
+        "C. Gabinetes."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El Plan Estratégico Para la Igualdad Efectiva de Mujeres y Hombres estará vigente hasta el año:",
+        options: ["A. 2024.", 
+        "B. 2025.", 
+        "C. 2026."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Es el que se interpone contra las resoluciones que no gong fin a la vía administrativa y los actos de trámite cualificados:",
+        options: ["A. Recurso de alzada.", 
+        "B. Recurso de potestivo.", 
+        "C. Recurso de revisión."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Según el artículo 19 del Real Decreto 2/2006, de 16 de enero, por el que se establecen normas sobre prevención de riesgos laborales en la actividad de los funcionarios del Cuerpo Nacional de Policía, el servicio de prevención remitirá copia de la memoria anual que elabore a:",
+        options: ["A. La Inspección de Personal y Servicios de Seguridad.", 
+        "B. La Inspección de Trabajo y Seguridad Social.", 
+        "C. La Comisión de seguridad y salud policial."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señala la respuesta correcta:",
+        options: ["A. El control social es un derecho.", 
+        "B. El control social es un deber.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Se podrá llevar a cabo de manera inmediata la expulsión de un extranjero, que es residente, cuando haya sido condenado por una conducta tipificada como delito en el artículo 318 bis del Código Penal, una vez cumplida la pena privativa de libertad impuesta?",
+        options: ["A. No, salvo determinados casos.", 
+        "B. Sí, de manera general.", 
+        "C. En este caso, al no reunir todos los requisitos de expulsión, la misma no podrá efectuarse."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El individuo meticuloso a la hora de planificar sus delitos, obedece al perfil que Kretschmer llama:",
+        options: ["A. Pícnicos.", 
+        "B. Displásicos.", 
+        "C. Leptosomáticos."],
+        correctAnswer: "C"
+    },
+    {
+        question: "C.M. Cooiey afirma que la experiencia que los sujetos adquieren en estos grupos sociales será la base de su propio desarrollo como persona y del propio desarrollo de lagran organización social. ¿A qué grupos se refiere?:",
+        options: ["A. Grupos de referencia.", 
+        "B. Grupos primarios.", 
+        "C. Grupos secundarios"],
+        correctAnswer: "B"
+    },
+    {
+        question: "Señale la correcta:",
+        options: ["A. El FMI fomenta la cooperación monetaria internacional, garantiza la estabilidad financiera y facilita el intercambio internacional.", 
+        "B. El Indice de Desarrollo Humano (IDH) es un indicador del desarrollo humano elaborado por Naciones Unidas. Se basa en un indicador social estadístico compuesto por tres parámetros: vida larga y saludable educación y nivel de vida digno.", 
+        "C. Las dos son correctas."],
+        correctAnswer: "C"
     },
 ];
 
@@ -2441,3 +2629,9 @@ function shuffle(array) {
     }
     return array;
 }
+
+document.addEventListener('DOMContentLoaded', () => {
+    const updateDate = document.getElementById('updateDate');
+    const lastUpdated = '11 de agosto de 2024';  // Cambia esta fecha a la actual
+    updateDate.textContent = lastUpdated;
+});
