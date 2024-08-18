@@ -2158,13 +2158,683 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "Se añadira proximamente el examen de extranjeria",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "La resolución sobre el periodo de restablecimiento y reflexión a una extranjera víctima de trata de seres humanos será notificada a la persona interesada, de manera inmediata y por el medio más rápido:",
+        options: [
+            "A. por la Delegación o Subdelegación del Gobierno",
+            "B. por la autoridad policial que hubiera realizado la propuesta de concesión",
+            "C. Las dos respuestas son correctas"
+        ],
         topic: 101112,
         correctAnswer: "C"
     },
+    {
+        question: "Las resoluciones de expulsión de territorio nacional que se dicten en los procedimientos de tramitación ordinaria contendrán un plazo de cumplimiento voluntario para que el extranjero abandone el territorio nacional. ¿Cuál es la duración del mismo plazo?",
+        options: [
+            "A. Entre quince y treinta días",
+            "B. Entre siete y treinta días",
+            "C. De treinta días en todo caso, no superior a treinta días"
+        ],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Según el artículo 51 de la Ley Orgánica 4/2000, ¿en qué tipo de responsabilidad incurrirán los autores o partícipes de las infracciones tipificadas en esta ley?",
+        options: [
+            "A. Administrativa",
+            "B. Administrativa o civil",
+            "C. Administrativa o penal"
+        ],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "En el procedimiento simplificado, el órgano competente, al dictar el acuerdo de iniciación, lo comunicará al órgano instructor y simultáneamente será notificado a los interesados. En el plazo de __________, a partir de la comunicación y notificación del acuerdo de iniciación, el órgano instructor y los interesados efectuarán, respectivamente, las actuaciones pertinentes, la aportación de cuantas alegaciones, documentos o informaciones estimen convenientes y, en su caso, la proposición y práctica de prueba.",
+        options: [
+            "A. diez días",
+            "B. veinte días",
+            "C. treinta días"
+        ],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "En materia de extranjería, en los supuestos de infracciones que tengan carácter laboral el procedimiento sancionador se iniciará por:",
+        options: [
+            "A. resolución del Delegado o Subdelegado del Gobierno",
+            "B. acta de la Inspección de Trabajo y Seguridad Social",
+            "C. acta de la Autoridad de las CCAA que tenga atribuidas competencias en materia de autorización inicial de trabajo de extranjeros"
+        ],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "La sanción de expulsión no podrá ser impuesta con carácter general a:",
+        options: [
+            "A. John, estadounidense que ha residido legalmente en España en los últimos seis años.",
+            "B. Marie, francesa de origen que ha perdido la nacionalidad española que había adquirido a consecuencia de su matrimonio con un español.",
+            "C. Rodrigo, ciudadano colombiano que percibe una prestación contributiva por desempleo."
+        ],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Desde el momento en que se inicie un procedimiento sancionador en el que pueda proponerse la expulsión, el instructor, a fin de asegurar la resolución final que pudiera recaer, podrá adoptar la detención cautelar:",
+        options: [
+            "A. Por la autoridad gubernativa.",
+            "B. Por sus agentes.",
+            "C. Por la autoridad gubernativa o por sus agentes."
+        ],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "El incumplimiento de las medidas impuestas por razón de seguridad pública, de presentación periódica o de alejamiento de fronteras o núcleos de población concretados singularmente será una infracción:",
+        options: [
+            "A. Leve",
+            "B. Grave",
+            "C. Muy grave"
+        ],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Para la graduación de las sanciones en materia de extranjería, el órgano competente en imponerlas:",
+        options: [
+            "A. se ajustará a criterios de proporcionalidad, valorando el grado de culpabilidad y, en su caso, el daño producido o el riesgo derivado de la infracción y su trascendencia.",
+            "B. tendrá especialmente en cuenta la capacidad económica del infractor.",
+            "C. Las dos respuestas son correctas."
+        ],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Simular la relación laboral con un extranjero, cuando dicha conducta se realice con ánimo de lucro o con el propósito de obtener indebidamente derechos reconocidos en esta Ley, siempre que tales hechos no constituyan delito es una infracción:",
+        options: [
+            "A. Leve",
+            "B. Grave",
+            "C. Muy grave"
+        ],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "En un procedimiento ordinario sancionador de extranjería, transcurrido el plazo sin haberse resuelto el procedimiento y notificado la expresada resolución se producirá la caducidad y se procederá al archivo de las actuaciones a solicitud de cualquier interesado o de oficio por el órgano competente para dictar la resolución salvo:",
+        options: [
+            "A. Que la paralización sea causa imputable a los interesados.",
+            "B. Que se resuelva a favor del extranjero.",
+            "C. Las dos son correctas."
+        ],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Marion, un ciudadano etiope tiene residencia temporal en Grecia pero se ha venido este verano a España trabajar sin autorización de trabajo y residencia. Cuando llevaba un mes en España lo han interceptado en esta situación, en este caso procederá:",
+        options: ["A. Da un advertencia mediante diligencia en el pasaporte de la obligación de dirigirse de inmediato a Grecia.", 
+        "B. Se tramitará el expediente de expulsión a Grecia.", 
+        "C. Se tramitará el expediente de expulsión a Etiopia."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Cuando un extranjero se encuentre procesado o imputado en un procedimiento judicial por delito para el que la ley prevea una pena privativa de libertad inferior a seis años y conste este hecho acreditado en el expediente administrativo de expulsión la autoridad gubernativa someterá al juez que, previa audiencia del Ministerio Fiscal y oído el interesado y las partes personadas, autorice su expulsión en el plazo más breve posible y en todo caso no superior:",
+        options: ["A. Tres días.", 
+        "B. Cinco días.", 
+        "C. Diez días."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "La expulsión llevará consigo la prohibición de entrada en territorio español. La duración de la prohibición se determinará en consideración a las circunstancias que concurran en cada caso y su vigencia no excederá de:",
+        options: ["A. Tres años.", 
+        "B. Cinco años.", 
+        "C. Diez años."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Tanto en los supuestos de prórroga del plazo de cumplimiento voluntario como de aplazamiento o suspensión de la ejecución de la expulsión, que se deben acreditar en un documento notificado al interesado, se tendrá en cuenta la garantía para el extranjero afectado de:",
+        options: ["A. Mantenimiento unidad familiar con los miembros que se hallen en territorio español.", 
+        "B. Prestación atención sanitaria de urgencia y tratamiento básico de enfermedades.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Cuando el Ministerio Fiscal tenga conocimiento de que un extranjero, contra el que se ha dictado una resolución de expulsión es víctima, perjudicado o testigo imprescindible en un procedimiento penal para la práctica de diligencias judiciales, lo pondrá de manifiesto a la _________ competente para que no se realice la ejecución o si se hubiese ejecutado, autorice su regreso a España durante el tiempo necesario para las diligencias.",
+        options: ["A. La autoridad gubernativa.", 
+        "B. El juez competente.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Si los órganos administrativos competentes estiman hay motivos razonables para creer que una persona extranjera irregular ha sido víctima de trata de seres humanos informarán a la persona sobre la posibilidad de acogerse a esta vía y elevarán a la Delegación o Subdelegación del Gobierno de la provincia donde se hubiere realizado la identificación, en el plazo _____ la propuesta sobre la concesión de un periodo de restablecimiento y reflexión.",
+        options: ["A. 24 horas.", 
+        "B. 48 horas.", 
+        "C. 72 horas."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "En todo caso la comisión de una tercera infracción leve constituirá:",
+        options: ["A. Una infracción grave.", 
+        "B. Una infracción muy grave.", 
+        "C. Ninguna es correcta."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quiénes podrán visitar los centros de internamiento?",
+        options: ["A. Las organizaciones constituidas legalmente en España para la defensa de los inmigrantes.", 
+        "B. Los organismos internacionales pertinentes.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Carlos es un ciudadano Venezolano implicado en actividades contrarias al orden público previstas como muy graves en la Ley Orgánica Protección de la Seguridad Ciudadana, en este caso la competencia sancionadora corresponderá a:",
+        options: ["A. Secretario de Estado de Seguridad.", 
+        "B. Delegado o Subdelegado del Gobierno.", 
+        "C. Las dos son correctas."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "La protección concedida con el derecho de asilo y la protección subsidiaria consiste en la no devolución ni expulsión de las personas a quienes se les haya reconocido, así como en la adopción de las medidas contempladas la Ley 12/2009 y:",
+        options: ["A. En las normas que la desarrollen.", 
+        "B. En la normativa de la Unión Europea y en los Convenios internacionales ratificados por España.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Son establecimientos de alojamiento colectivo y estancia provisional, en los que se valoran las necesidades particulares de acogida, se ofrece orientación básica sobre el sistema de acogida, se atienden las necesidades básicas y urgentes de las personas destinatarias.",
+        options: ["A. Centros de Valoración Inicial y Derivación.", 
+        "B. Centros de acogida de Protección Internacional (CAPI).", 
+        "C. Centros de Acogida Inicial, Valoración y Derivación."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Las personas solicitantes de protección internacional cuando su solicitud haya sido inadmitida a trámite en España por haber aceptado otro Estado miembro de la Unión Europea la responsabilidad de examinar su solicitud de asilo, en virtud del reglamento (UE) 604/2013 del Parlamento Europeo y del Consejo, de 26 de junio de 2013, podrán ser destinatarias del sistema de acogida durante un periodo no superior a:",
+        options: ["A. Un mes a partir de la notificación de la inadmisión prorrogable.", 
+        "B. Un mes a partir de la notificación de la inadmisión prorrogable por causas excepcionales.", 
+        "C. Un mes a partir de la notificación de la inadmisión sin posibilidad de prórroga."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Contra la resolución de inadmisión a trámite o de denegación de la solicitud de protección internacional presentada en frontera se podrá presentar una petición de reexamen que suspenderá los efectos de aquella en el plazo de:",
+        options: ["A. 2 días desde su notificación.", 
+        "B. 2 días desde su presentación en el puesto fronterizo.", 
+        "C. 2 días desde su solicitud."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "En el Sistema de acogida de Protección Internacional las personas destinatarias serán derivadas al recurso de alojamiento que se considere más adecuado atendiendo a los criterios siguientes:",
+        options: ["A. La edad, el sexo, la discapacidad y la situación familiar, así como, en la medida de lo posible, otras características asociadas a su posible vulnerabilidad y a las eventuales necesidades específicas de acogida que se detecten y la promoción de una distribución territorial equilibrada.", 
+        "B. El lugar de presentación de su solicitud de protección internacional y el estado de su tramitación.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Los fundados temores de ser perseguido o el riesgo real de sufrir daños graves:",
+        options: ["A. Pueden basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del país de origen.", 
+        "B. No pueden basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del país de origen.", 
+        "C. Deben basarse en acontecimientos sucedidos o actividades en que haya participado la persona solicitante con posterioridad al abandono del país de origen."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "El Comité español de ACNUR lleva trabajando para sensibilizar y captar fondos para los proyectos humanitarios de ACNUR desde:",
+        options: ["A. 1991.", 
+        "B. 1993.", 
+        "C. 1995."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Excepcionalmente, y salvo en los casos en los que concurra fuerza mayor o citación de las autoridades o de los tribunales, la persona que desee abandonar temporalmente la provincia en que se sitúa el recurso de acogida del sistema de Protección Internacional al que fue asignada, podrá solicitar la autorización:",
+        options: ["A. Del órgano administrativo correspondiente de la Secretaría de Estado de Migraciones.", 
+        "B. De la autoridad gubernativa de la provincia donde esté ubicado el centro.", 
+        "C. De la autoridad gubernativa de la provincia en la que se le asignó el recurso de acogida."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Reynen solicita entrar al territorio español y para ello solicita protección internacional en un puesto fronterizo. Una vez allí y tras hacer unas comprobaciones se comprueba que procede de un tercer país seguro. En este caso a Reynen:",
+        options: ["A. Se le inadmite la solicitud.", 
+        "B. Se le denegará la solicitud.", 
+        "C. Se le tramitará por el procedimiento de urgencia."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "La Oficina de Asilo y Refugio iniciará los trámites para revocar la resolución por la que se concede la protección temporal cuando esta se haya obtenido mediante datos, documentos o declaraciones cuya falta de veracidad se ponga de manifiesto por otros a los que se tenga acceso posteriormente y que resulten esenciales y determinantes para la resolución final. En este caso decidirá:",
+        options: ["A. El Consejo de Ministros a propuesta del Ministro del Interior.", 
+        "B. El Ministro del Interior previa propuesta de la Comisión Interministerial de Asilo y Refugio.", 
+        "C. El Ministro del Interior oída la Comisión Interministerial de Extranjería."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Para casos de afluencia de personas de forma espontánea a nuestras fronteras. En este procedimiento, el Ministro del Interior, oída a la Comisión Interministerial de Extranjería:",
+        options: ["A. Elevará al Consejo de Ministros una propuesta para acordar el régimen de protección temporal si procede.", 
+        "B. La recomendación de solicitar al Consejo de la UE la presentación de una propuesta a la Comisión para que tome la decisión sobre la existencia de una afluencia masiva de personas desplazadas.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Se pondrá fin al procedimiento de protección internacional mediante el archivo de la solicitud cuando la persona solicitante la retire o desista de ella. En todo caso, se podrá presumir que dicha retirada o desistimiento se ha producido cuando:",
+        options: ["A. En el plazo de treinta días el solicitante no hubiese respondido a las peticiones de información.", 
+        "B. No compareciera para la renovación de la documentación de la que se le hubiera provisto.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "La persona que desee abandonar temporalmente la provincia en que se sitúa el recurso de acogida al que fue asignada, podrá solicitar la autorización por motivos laborales, razones médicas o situaciones relacionadas con familiares de hasta:",
+        options: ["A. El primer grado.", 
+        "B. El segundo grado.", 
+        "C. El tercer grado."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Con el fin de atender casos de protección internacional que se presenten fuera del territorio nacional, los embajadores de España podrán promover el traslado del o de los solicitantes de asilo a España para hacer posible la presentación de la solicitud conforme al procedimiento previsto en la ley reguladora siempre y cuando:",
+        options: ["A. El solicitante no sea nacional del país en que se encuentre la representación diplomática y corra peligro su integridad física o moral.", 
+        "B. El solicitante sea nacional del país en que se encuentre la representación diplomática y corra peligro su integridad física.", 
+        "C. El solicitante no sea nacional del país en que se encuentre la representación diplomática y corra peligro su integridad física o moral."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale cuál de los siguientes no es una de las formas que pueden revestir los actos de persecución previsto en el artículo 6 de la ley 12/2009 de las condiciones para el reconocimiento del derecho de asilo:",
+        options: ["A. Actos de violencia psíquica.", 
+        "B. Medidas administrativas que no son discriminatorias en sí mismas pero se aplican de manera discriminatoria.", 
+        "C. Procesamientos o penas por la negativa a prestar servicio militar en un conflicto."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Dentro del sistema de acogida de protección internacional se encuentra Giselle, una ciudadana extranjera que tiene cuatro hijos y a la cual han determinado que se encuentra en situación de vulnerabilidad. ¿Cuánto tiempo podrá encontrarse dentro de la fase de acogida?",
+        options: ["A. Seis meses.", 
+        "B. Seis meses pudiendo excepcionalmente dicho plazo ser superior siempre que no exceda de la mitad de los mismos, si las circunstancias lo aconsejan y con ello no se perjudican derechos de tercero.", 
+        "C. Seis meses que podrán extenderse por una duración adicional de un máximo de seis meses más."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Al efecto de valorar si una organización internacional controla un Estado o una parte considerable de su territorio y proporciona la protección descrita en la Ley de Protección Internacional se tendrá en cuenta la orientación que pueda desprenderse de los actos pertinentes:",
+        options: ["A. De las instituciones de la Unión Europea.", 
+        "B. De organizaciones internacionales relevantes.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Señale cuál de los siguientes no es un requisito de exclusión de la protección subsidiaria.",
+        options: ["A. Las personas que estén comprendidas en el ámbito de aplicación de la Convención de Ginebra en lo relativo a la protección o asistencia de un órgano u organismo de las Naciones Unidas distinto del Alto Comisionado de las Naciones Unidas para los Refugiados.", 
+        "B. Han cometido fuera del país de protección antes de ser admitidas como beneficiarias de la protección subsidiaria, es decir, antes de la expedición de la autorización de residencia basada en el reconocimiento de la condición de beneficiario de protección subsidiaria, un delito grave, entendiéndose por tal los que lo sean conforme al Código Penal español.", 
+        "C. Han cometido un delito contra la paz, un delito de guerra o un delito contra la humanidad, de los definidos en los instrumentos internacionales que establecen disposiciones relativas a tales delitos."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién tiene la competencia para declarar cesados los beneficios de la protección temporal por renuncia tácita del beneficiario?",
+        options: ["A. La Comisión Interministerial de Asilo y Refugio.", 
+        "B. Consejo de Ministros.", 
+        "C. Ministro del Interior."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+
+
+
+    {
+        question: "Indique cuál de las siguientes definiciones hace referencia a 'Sistema de acogida de protección internacional':",
+        options: ["A. Conjunto de recursos, actuaciones y servicios que se proporcionan a través del correspondiente itinerario a las personas incluidas en el ámbito subjetivo de aplicación de la protección internacional con la finalidad de asegurar la satisfacción de sus necesidades básicas en condiciones de dignidad.", 
+        "B. Conjunto de recursos y servicios que se proporcionan a través del correspondiente itinerario a las personas incluidas en el ámbito subjetivo de aplicación de la protección internacional con la finalidad de asegurar la satisfacción de sus necesidades básicas en condiciones de dignidad.", 
+        "C. Conjunto de recursos, actuaciones, acciones y servicios que se proporcionan a través del correspondiente itinerario a las personas incluidas en el ámbito subjetivo de aplicación de la protección internacional con la finalidad de asegurar la satisfacción de sus necesidades básicas en condiciones de dignidad."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Dentro del sistema de acogida de Protección Internacional el objetivo de esta fase es apoyar la adquisición de autonomía de las personas beneficiarias de protección internacional o del estatuto de apatridia, así como la consolidación de conocimientos y habilidades que hagan efectiva su plena inclusión en la sociedad:",
+        options: ["A. Fase de autonomía.", 
+        "B. Fase de inclusión.", 
+        "C. Fase de acogida."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale la INCORRECTA. Junto a los derechos reconocidos a los solicitantes de protección internacional las personas destinatarias del sistema de acogida de Protección Internacional tendrán, desde que accedan al sistema de acogida de protección internacional y durante el tiempo en que permanezcan en él, los siguientes derechos:",
+        options: ["A. Recibir una atención integral para la recuperación de la violencia que, en su caso, hubiera sufrido con anterioridad o en el contexto del desplazamiento.", 
+        "B. Dirigirse al Juez responsable del recurso asignado y utilizar las vías establecidas para formular las peticiones y reclamaciones relativas a su tratamiento o al sistema que eventualmente formulen.", 
+        "C. Ser informadas, en un idioma que comprendan, sobre las condiciones del sistema de acogida de protección internacional y del recurso de acogida, de sus derechos y deberes como personas usuarias, así como de las causas para la reducción o retirada de las condiciones de acogida."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "El estatuto personal de todo apátrida se regirá por:",
+        options: ["A. La ley del país de su domicilio.", 
+        "B. La ley del país de su residencia.", 
+        "C. La ley de su país de domicilio o residencia indistintamente."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué procedimiento regula la legislación española para los casos de llegada de desplazados que se producen en el marco de programas de evacuación humanitarios?",
+        options: ["A. Procedimiento de emergencia.", 
+        "B. Procedimiento de evacuación.", 
+        "C. Procedimiento de readmisión."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Señale cuál de las siguientes no es un motivo de cese del estatuto de refugiado:",
+        options: ["A. Se hayan acogido de nuevo, voluntariamente, a la protección del país de su nacionalidad.", 
+        "B. La persona beneficiaria ha tergiversado u omitido hechos, incluido el uso de documentos falsos, que fueron decisivos para la concesión del estatuto de refugiado o de protección subsidiaria.", 
+        "C. Han abandonado el territorio español y fijado su residencia en otro país."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "La Agencia de Asilo de la Unión Europea (AAUE) es una agencia descentralizada de la UE que brinda apoyo operativo y técnico, así como formación, a las autoridades nacionales de los países de la UE. Esta tiene su sede en:",
+        options: ["A. Malta.", 
+        "B. Viena.", 
+        "C. Polonia."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Cuando presente una solicitud de protección Internacional ante las autoridades competentes de un Estado miembro un solicitante que se encuentre en el territorio de otro Estado miembro, la determinación del Estado miembro responsable incumbirá al Estado miembro:",
+        options: ["A. En cuyo territorio haya presentado la solicitud.", 
+        "B. En cuyo territorio se encuentre el solicitante de asilo.", 
+        "C. En cuyo territorio determine el solicitante de asilo."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "En protección internacional toda información relativa al procedimiento, incluido el hecho de la presentación de la solicitud, tendrá carácter:",
+        options: ["A. Confidencial.", 
+        "B. Secreto.", 
+        "C. Reservado."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale cuál de los siguientes no es un lugar establecido para solicitar la iniciación un procedimiento de protección internacional.",
+        options: ["A. Oficina de Asilo y Refugio.", 
+        "B. Oficina consular.", 
+        "C. Comisarías de policía autorizadas."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "La Comisión Interministerial de Asilo y Refugio es un órgano colegiado adscrito al:",
+        options: ["A. Ministerio de Inclusión, Seguridad Social y Migraciones.", 
+        "B. Ministerio de Interior.", 
+        "C. Ministerio de Asuntos Exteriores, UE y cooperación."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Respecto del periodo de restablecimiento y reflexión de las víctimas de Tratas de Seres Humanos, el Delegado o Subdelegado del Gobierno competente resolverá sobre la propuesta de concesión y duración del mismo en el plazo máximo de:",
+        options: ["A. 5 días.", 
+        "B. 3 días.", 
+        "C. 2 días."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Según la LOEX, el órgano de consulta, información y asesoramiento en materia de integración de los inmigrantes es:",
+        options: ["A. Comisión para la Integración de los Inmigrantes.", 
+        "B. El Foro para la Integración Social de los Inmigrantes.", 
+        "C. El Observatorio Español del Racismo y la Xenofobia."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Según el artículo 31 de la Ley Orgánica 4/2000, un extranjero que solicite una autorización de residencia por arraigo:",
+        options: ["A. Necesitará visado si proviene de un país establecido por el Código de Visados de la UE.", 
+        "B. No necesitará visado.", 
+        "C. Necesitará visado si va a estar en territorio español por un plazo superior a tres meses."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "La autorización de residencia para profesionales altamente cualificados titulares de una Tarjeta azul-UE procederá en el supuesto de trabajadores extranjeros que vayan a desempeñar una actividad laboral para la que se requiera contar con una cualificación derivada de una formación de enseñanza superior de duración mínima de tres años y equivalente al menos al:",
+        options: ["A. Nivel 1 del Marco Español de Cualificaciones para la Educación Superior.", 
+        "B. Nivel 2 del Marco Español de Cualificaciones para la Educación Superior.", 
+        "C. Nivel 3 del Marco Español de Cualificaciones para la Educación Superior."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "La Autorización de residencia para profesionales altamente cualificados titulares de una Tarjeta azul-UE tendrá una duración de:",
+        options: ["A. Tres años.",
+        "B. Dos años", 
+        "C. Cinco años.",],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Según el art. 2 de la LO 1/2004 uno de los principios rectores es reforzar hasta la consecución de los mínimos exigidos por los objetivos de la ley los servicios sociales de información, de atención, de emergencia, de apoyo y de recuperación integral, así como establecer un sistema para la más eficaz coordinación de los servicios ya existentes a nivel:",
+        options: ["A. Estatal y autonómico.", 
+        "B. Municipal y autonómico.", 
+        "C. Estatal, municipal y autonómico."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Para la concesión de una Tarjeta azul-UE, será necesario cumplir los siguientes requisitos:",
+        options: ["A. El extranjero deberá acreditar la posesión de la cualificación establecida y, en el caso del ejercicio de profesiones reguladas, acreditar su homologación conforme a la normativa sectorial relativa al ejercicio de profesiones reguladas.", 
+        "B. El solicitante deberá presentar un contrato de trabajo válido o una oferta firme de empleo de alta cualificación para un periodo de al menos un año que garantice al trabajador una actividad continuada durante el periodo de vigencia de la Tarjeta azul-UE.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Se revocará o se denegará la renovación de la Tarjeta azul-UE, tras analizar las circunstancias específicas y de acuerdo con el principio de proporcionalidad, cuando el extranjero ya no esté en posesión de un contrato de trabajo válido para un empleo de alta cualificación, y:",
+        options: ["A. Acumule un periodo de desempleo superior a tres meses habiendo sido titular de la Tarjeta azul-UE durante al menos dos años.", 
+        "B. Acumule un periodo de desempleo superior a tres meses habiendo sido titular de la Tarjeta azul-UE durante menos de dos años.", 
+        "C. Acumule un periodo de desempleo superior a seis meses habiendo sido titular de la Tarjeta azul-UE durante menos de dos años."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+
+
+
+
+
+    {
+        question: "¿Cuál sería el proceso normal para llegar a residir en España de manera permanente de un ciudadano comunitario?",
+        options: ["A. Entrada en territorio español con pasaporte o documento de identidad, solicitud del certificado de registro en una oficina de extranjería o Comisaría, en un plazo de tres meses desde su entrada y la solicitud del certificado de residencia permanente en la oficina de extranjería o Comisaría en un plazo de cinco años.", 
+        "B. Entrada en territorio español con visado o autorización de residencia, solicitud del certificado de registro en una oficina de extranjería o Comisaría, en un plazo de dos meses desde su entrada y la solicitud del certificado de residencia permanente en la oficina de extranjería o Comisaría en un plazo de cinco años.", 
+        "C. Entrada en territorio español con pasaporte o documento de identidad, solicitud del certificado de registro en una oficina de extranjería o Comisaría, en un plazo de dos meses desde su entrada y la solicitud del certificado de residencia permanente en la oficina de extranjería o Comisaría en un plazo de cinco años."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "La supresión de controles en fronteras interiores no significa que la legislación española no les imponga a los extranjeros que las cruzan ningún tipo de obligación; así, los extranjeros deberán realizar la declaración de entrada. ¿Dónde habrá de realizar tal declaración?",
+        options: ["A. En puesto policial existente en la frontera y en caso de que no exista dicho puesto policial en cualquier Comisaría de Policía u Oficina de Extranjeros.", 
+        "B. En puesto policial existente en la frontera o en cualquier Comisaría de Policía u Oficina de Extranjeros.", 
+        "C. En puesto policial existente en la frontera o en una Comisaría de Policía acreditada u Oficina de Extranjeros."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Tal como establece el artículo 18 del Real Decreto 240/2007, de 16 de febrero, sobre entrada, libre circulación y residencia en España de ciudadanos de los Estados miembros de la Unión Europea y de otros Estados parte en el Acuerdo sobre el Espacio Económico Europeo, las resoluciones de expulsión establecerán un plazo para abandonar el territorio español. Excepto en casos urgentes, debidamente justificados, dicho plazo no podrá ser inferior a:",
+        options: ["A. 15 días.", 
+        "B. Un mes.", 
+        "C. Tres meses."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Según el artículo 30 bis de la LO 4/2000, los extranjeros residentes en España podrán encontrarse en:",
+        options: ["A. Residencia temporal o residencia permanente.", 
+        "B. Residencia temporal o residencia de larga duración.", 
+        "C. Las dos son correctas."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Un extranjero solicita un visado para venir al territorio español. En este caso el examen de la solicitud y la decisión al respecto corresponderá al consulado del Estado miembro competente:",
+        options: ["A. En cuyo ámbito territorial se encuentre el solicitante.", 
+        "B. En cuyo ámbito territorial resida legalmente el solicitante.", 
+        "C. En cuyo ámbito territorial lo solicite."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Según establece el art 15 del RD 557/2011, relativo a la denegación de entrada, establece que en estos casos el regreso se ejecutará de forma inmediata y, en todo caso, dentro del plazo de 72 horas desde que se hubiese acordado. Si no pudiera ejecutarse dentro de dicho plazo, ¿quién se dirigirá al juez de instrucción para que determine, en su caso, el lugar donde haya de ser internado el extranjero?",
+        options: ["A. El Instructor del procedimiento sancionador.", 
+        "B. La autoridad gubernativa.", 
+        "C. La autoridad gubernativa o el responsable del puesto fronterizo por delegación de esta."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Si un extranjero expulsado tuviera derecho a la asistencia jurídica gratuita y se encontrase fuera de España:",
+        options: ["A. El derecho se extinguirá al hacer efectiva la expulsión.", 
+        "B. La solicitud de esta asistencia podrá realizarse ante el Ministerio de Asuntos Exteriores, UE y Cooperación.", 
+        "C. La solicitud de esta asistencia podrá realizarse ante la misión diplomática u oficina consular correspondiente."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Los ciudadanos de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo, y los miembros de su familia con independencia de su nacionalidad, tendrán derecho a salir de España para trasladarse a otro Estado miembro, ello con independencia de la presentación del pasaporte o documento de identidad en vigor a los funcionarios del control fronterizo si la salida se efectúa por un puesto habilitado, para su obligada comprobación, y de los supuestos legales de prohibición de salida por:",
+        options: ["A. Razones de seguridad nacional, salud pública y casos previstos en el Código Penal.", 
+        "B. Razones de orden público, salud pública y casos previstos en el Código Penal.", 
+        "C. Razones de seguridad nacional, orden público, salud pública y casos previstos en el Código Penal."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    
+
+
+
+
+
+    {
+        question: "Las Autoridades competentes para tramitar y resolver las solicitudes de certificado de registro o de tarjetas de residencia que se regulan en el presente real decreto podrán:",
+        options: ["A. Excepcionalmente, recabar información sobre posibles antecedentes penales del interesado a las autoridades del Estado de origen o a las de otros Estados.", 
+        "B. En todo caso, recabar información sobre posibles antecedentes penales del interesado a las autoridades del Estado de origen o a las de otros Estados.", 
+        "C. Recabar información sobre posibles antecedentes penales del interesado a las autoridades del Estado de origen o a las de otros Estados."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "El visado válido para el tránsito o la estancia en el territorio de uno o más de los Estados que integran el Espacio Schengen, pero no para todos ellos es el visado:",
+        options: ["A. Uniforme.", 
+        "B. De validez territorial limitada.", 
+        "C. De residencia y trabajo de temporada."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Un Estado Miembro incumple una decisión del Consejo, representando tal circunstancia una amenaza grave para el orden público del espacio sin controles en las fronteras interiores. En este caso se decide restablecer el control fronterizo por un periodo inicial no superior a:",
+        options: ["A. 10 días.", 
+        "B. 30 días.", 
+        "C. 6 meses."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quién será competente para prorrogar los visados de estancia de corta duración expedidos a los titulares de pasaportes diplomáticos, oficiales o de servicio por razones de cortesía?",
+        options: ["A. La Dirección General de Españoles en el Exterior y Asuntos Migratorios y Consulares.", 
+        "B. La Dirección General de Migraciones.", 
+        "C. Dirección General de Política Exterior."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Únicamente podrá adoptarse una decisión de expulsión respecto a ciudadanos de un Estado miembro de la Unión Europea o de otro Estado parte en el Acuerdo sobre el Espacio Económico Europeo, o a miembros de su familia, con independencia de su nacionalidad, que hayan adquirido el derecho de residencia permanente en España, si:",
+        options: ["A. Existan motivos imperiosos de seguridad pública.", 
+        "B. Existan motivos graves de orden público o seguridad pública.", 
+        "C. Existan motivos graves de orden público."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Las fronteras comunes del Espacio Schengen podrán cruzarse en cualquier lugar sin efectuar control alguno de las personas:",
+        options: ["A. Siempre que tengan la nacionalidad de algunos de los países suscritos al Convenio Schengen.", 
+        "B. Siempre que sean nacionales de la Unión Europea.", 
+        "C. Cualquiera que sea su nacionalidad."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "La residencia de arraigo para la formación tendrá una duración de 12 meses pudiendo ser prorrogada una única vez por otro periodo de doce meses si:",
+        options: ["A. La formación tiene una duración superior a doce meses.", 
+        "B. La duración exceda la vigencia de la primera autorización concedida.", 
+        "C. Las dos respuestas son correctas."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "En el caso de que la minoría de edad de un extranjero indocumentado no pueda ser establecida con seguridad, las Fuerzas y Cuerpos de Seguridad del Estado, en cuanto tengan conocimiento de esa circunstancia o localicen al supuesto menor en España, informarán a los servicios autonómicos de protección de menores para que le presten la atención inmediata que precise de acuerdo con lo establecido en la legislación de protección jurídica del menor. Con carácter inmediato, se pondrá el hecho en conocimiento del Ministerio Fiscal, que dispondrá la determinación de su edad:",
+        options: ["A. En el plazo más breve posible.", 
+        "B. En el plazo máximo de 15 días.", 
+        "C. En el plazo máximo de un mes."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "El trabajador extranjero que se desplace a un centro de trabajo en España y dependa, mediante expresa relación laboral, de una empresa establecida en un Estado no perteneciente a la UE ni al Espacio Económico Europeo es:",
+        options: ["A. Un trabajador transnacional.", 
+        "B. Un trabajador transfronterizo.", 
+        "C. Un trabajador laboral."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale cuál de los siguiente no es un supuesto específico de exención de la situación nacional de empleo a la hora de otorgar una residencia de un extranjero en el territorio nacional:",
+        options: ["A. Los extranjeros que hayan renunciado a su autorización de residencia y trabajo en virtud de un programa de retorno voluntario.", 
+        "B. Los trabajadores necesarios para el montaje por renovación de una instalación o equipos productivos.", 
+        "C. Los que hubieran gozado de la condición de refugiados, durante el año siguiente a la cesación de la aplicación de la convención de ginebra de 28 de julio de 1954."],
+        topic: 101112,
+        correctAnswer: "C"
+    },
+    {
+        question: "Señale la INCORRECTA. En caso de solicitud de un visado, la Misión Diplomática tendrá que comprobar:",
+        options: ["A. Tener garantizados los medios económicos necesarios para sufragar los gastos de estancia y regreso a su país, y los de sus familiares.", 
+        "B. No padecer ninguna de las enfermedades que pueden tener repercusiones de salud de conformidad con el Reglamento Sanitario Internacional de 2005.", 
+        "C. Si el extranjero es menor de edad y no viene acompañado de sus padres o tutores, está autorizado por estos para el desplazamiento a España a efectos de realizar la actividad de que se trate, con constancia del centro, organización, entidad y organismo responsable de la actividad y del periodo de estancia previsto."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "La entrada en territorio nacional de los extranjeros a los que no les sea de aplicación el régimen comunitario:",
+        options: ["A. Deberá ser registrada por las autoridades españolas a los efectos de control de su período de permanencia legal en España, de conformidad con la Ley de protección de datos de carácter personal.", 
+        "B. Podrá ser registrada por las autoridades españolas a los efectos de control de su periodo de permanencia legal en España, de conformidad con la Ley de protección de datos de carácter personal.", 
+        "C. No podrá ser registrada por las autoridades españolas a los efectos de control de su periodo de permanencia legal en España, de conformidad con la Ley de protección de datos de carácter personal."],
+        topic: 101112,
+        correctAnswer: "B"
+    },
+    {
+        question: "Señale cuál de los siguientes no es un requisito de un visado expedido en frontera:",
+        options: ["A. El solicitante cumple con los requisitos de entrada establecidos en el Código de Visados.", 
+        "B. Si es de estancia tendrá una duración máxima de 15 días y de una sola entrada y una salida.", 
+        "C. Se ha de considerar garantizado el retorno del solicitante a su país de origen o residencia, o su tránsito por otro país."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    {
+        question: "Las misiones diplomáticas u oficinas consulares españolas, previa autorización expresa del ____________________ podrán expedir documentos de viaje y salvoconductos a extranjeros cuya protección internacional haya sido determinada por España en aplicación de la legislación española sobre protección internacional o para proceder a su evacuación hacia países con los que existan acuerdos de cooperación a tal efecto.",
+        options: ["A. Ministerio de Asuntos Exteriores, UE y Cooperación.", 
+        "B. Ministerio del Interior.", 
+        "C. Ministerio de Inclusión, Seguridad Social y Migraciones."],
+        topic: 101112,
+        correctAnswer: "A"
+    },
+    
+    
 
     /* {
         question: "",
@@ -2262,11 +2932,6 @@ const lastExamQuestions = [
         options: ["A. El chasis.", "B. El cinturón de seguridad.", "C. El ABS."],
         correctAnswer: "B"
     },
-
-
-
-
-
     {
         question: "El tipo básico de las coacciones se regula en el artículo 172.1 CP y se establece de la siguiente manera:",
         options: ["A. 'El que sin estar legítimamente autorizado impidiere a otro hacer lo que la ley no prohíbe o le compeliere a efectuar lo que no quiere, será castigado con la pena de prisión de seis meses a tres años o con multa de doce a veinticuatro meses, según la gravedad de la coacción o de los medios empleados.'", 
@@ -2936,6 +3601,6 @@ function shuffle(array) {
 
 document.addEventListener('DOMContentLoaded', () => {
     const updateDate = document.getElementById('updateDate');
-    const lastUpdated = '17 de agosto de 2024';  // Cambia esta fecha a la actual
+    const lastUpdated = '18 de agosto de 2024';  // Cambia esta fecha a la actual
     updateDate.textContent = lastUpdated;
 });
