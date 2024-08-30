@@ -2445,7 +2445,7 @@ const questions = [
     },
     {
         question: "Con el fin de atender casos de protección internacional que se presenten fuera del territorio nacional, los embajadores de España podrán promover el traslado del o de los solicitantes de asilo a España para hacer posible la presentación de la solicitud conforme al procedimiento previsto en la ley reguladora siempre y cuando:",
-        options: ["A. El solicitante no sea nacional del país en que se encuentre la representación diplomática y corra peligro su integridad física o moral.", 
+        options: ["A. El solicitante no sea nacional del país en que se encuentre la representación diplomática y corra peligro su integridad física.", 
         "B. El solicitante sea nacional del país en que se encuentre la representación diplomática y corra peligro su integridad física.", 
         "C. El solicitante no sea nacional del país en que se encuentre la representación diplomática y corra peligro su integridad física o moral."],
         topic: 101112,
@@ -2681,7 +2681,7 @@ const questions = [
         "B. Residencia temporal o residencia de larga duración.", 
         "C. Las dos son correctas."],
         topic: 101112,
-        correctAnswer: "A"
+        correctAnswer: "B"
     },
     {
         question: "Un extranjero solicita un visado para venir al territorio español. En este caso el examen de la solicitud y la decisión al respecto corresponderá al consulado del Estado miembro competente:",
