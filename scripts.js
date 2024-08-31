@@ -2833,7 +2833,167 @@ const questions = [
         topic: 101112,
         correctAnswer: "A"
     },
-    
+    {
+        question: "El presidente y el vicepresidente de CEPOL serán elegidos por:",
+        options: ["A. Mayoría de dos tercios de los miembros del Consejo de Administración.", 
+        "B. Mayoría simple de los miembros del Consejo de Administración.", 
+        "C. Mayoría de un tercio de los miembros del Consejo de Administración."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El artículo 19 de la LO 4/2000 establece que los hijos reagrupados podrán obtener una autorización de residencia independiente cuando:",
+        options: ["A. Alcancen la mayoría de edad.", 
+        "B. Alcancen la mayoría de edad,dispongan de medios económicos suficientes para cubrir sus propias necesidades y un seguro de salud de enfermedades.", 
+        "C. Alcancen la mayoría de edad y dispongan de medios económicos suficientes para cubrir sus propias necesidades."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué recurso en materia de protección internacional tiene la consideración de especial urgencia contemplada en el artículo 135 de la Ley 29/1998, de 13 de julio?",
+        options: ["A. Recurso contencioso - administrativo.", 
+        "B. Recurso potestativo de reposición.", 
+        "C. Recurso de revisión."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Las empresas de seguridad privada, ¿cada cuanto tiempo deben presentar un informe sobre actividad y cuentas al Ministerio de Interior o en su caso órgano autonómico correspondiente?",
+        options: ["A. Cada año.", 
+        "B. Cada dos años pesca.", 
+        "C. Cada dos o cuatro años."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿A qué llamamos Derecho penal objetivo?:",
+        options: ["A. A la facultad del Estado para establecer las normas penales e imponer penas.", 
+        "B. Al conjunto de normas penales.", 
+        "C. Derecho penal en su conjunto."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Los que cometen un delito utilizando a otro como instrumento se denominan:",
+        options: ["A. Inductores.", 
+        "B. Autores materiales.", 
+        "C. Autores mediatos."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quién es el presidente de las Comisiones de Garantías de Videovigilancia?",
+        options: ["A. El Fiscal Jefe del Tribunal Superior de Justicia en la Comunidad Autónoma correspondiente.", 
+        "B. El Presidente del Tribunal Superior de Justicia en la Comunidad Autónoma correspondiente", 
+        "C. Un Alcalde representante de los municipios encuadrados en el ámbito de la correspondiente Comunidad Autónoma."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Etapa dentro de la evolución histórica en la ley de prevención de riesgos laborales en la que aparece la Higiene y Salud Pública, como especialización dentro de la medicina:",
+        options: ["A. Primera etapa.", 
+        "B. Etapa actual.", 
+        "C. Segunda etapa."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En el caso de tratamiento de datos por obligación legal, interés público o ejercicio de poderes públicos, el tratamiento solo podrá considerarse fundado en el cumplimiento de una obligación legal cuando:",
+        options: ["A. Así lo prevea una norma de Derecho de la Unión Europea.", 
+        "B. Así lo prevea una norma de Derecho de la Unión Europea, una norma con rango de ley o en una norma de Derecho Internacional.", 
+        "C. Así lo prevea una norma de Derecho de la Unión Europea o una norma con rango de ley."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Teoría antropológica de la evolución cultural, que basa la definición de los fenómenos sociales y culturales en la observación a través de métodos objetivos y científicos.",
+        options: ["A. Relativismo cultural.", 
+        "B. Culturismo.", 
+        "C. Materialismo cultural."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Quién es el máximo representante del llamado materialismo cultural?",
+        options: ["A. Marvin Harris.", 
+        "B. Marshall McLuhan.", 
+        "C. John Dewey."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué es el efecto Pigmalión?",
+        options: ["A. Un efecto relacionado con los estereotipos.", 
+        "B. Un aumento de inseguridad debido a un temor difuso.", 
+        "C. Una profecía auto-cumplida que incita a las personas a actuar en formas que hacen que la expectativa se vuelva cierta."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Una importante fuente de prejuicios y estereotipos es el etnocentrismo, que consiste en:",
+        options: ["A. Juzgar y valorar a los agrupamientos de los que no forma parte y a los miembros de los mismos según las normas y valores de los agrupamientos propios.", 
+        "B. Un sometimiento pleno a las normas del grupo dominante, que es ajeno al propio.", 
+        "C. Una carencia de valores propios que lleva a la necesidad de tener que asumir las normas y valores de otros agrupamientos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Las normas auto impuestas, hacen referencia a:",
+        options: ["A. El libre albedrío.", 
+        "B. La moral individual.", 
+        "C. Las normas de obligado cumplimiento."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La teoría sobre el delito en la que se establece una relación de causa-efecto entre el hombre y el entorno espacial que lo rodea, agrupándose los delitos en determinadas zonas de la ciudad, es conocida como:",
+        options: ["A. Ecológica.", 
+        "B. Funcionalista.", 
+        "C. Del etiquetaje."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién nombra al Secretario de la Comisión Interministerial para el cambio climático?",
+        options: ["A. El Director General de la Oficina Española de Cambio Climático.", 
+        "B. El director de la Dirección General de Calidad y Evaluación Ambiental.", 
+        "C. El Director General de la Agencia Estatal de Meteorologia (AEMET)."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale la respuesta correcta en cuanto a tipos de inteligencia según Howard GARDNER:",
+        options: ["A. Inteligencia profesional.", 
+        "B. Inteligencia espacial.", 
+        "C. Inteligencia militar."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿De cuántos años será el mandato del Director del Centro Nacional de Inteligencia?",
+        options: ["A. Cuatro años.", 
+        "B. Cinco años.", 
+        "C. Tres años."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Es una persona fuera de las empresas de consultoría informática de seguridad que es utilizado para hacer una prueba de errores de un sistema antes de su lanzamiento en busca de exploits para que puedan ser cerrados.",
+        options: ["A. Green hat hackers.", 
+        "B. White hat hackers.", 
+        "C. Blue hat hackers."],
+        correctAnswer: "C"
+    },
+    {
+        question: "A diferencia del resto de delitos de ingeniería social, el único que usa un recurso físico como parte de la estafa seria…",
+        options: ["A. Pretexting.", 
+        "B. Baiting.", 
+        "C. Quid Pro Quo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Cuando alguien llama y se presenta falsamente como representante de tu banco y pregunta por los datos de tu cuenta o los datos de su tarjeta de crédito, usted es víctima de ….",
+        options: ["A. Spoofin telefónico.", 
+        "B. Phishing telefónico.", 
+        "C. Skimming telefónico."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Una de sus principales funciones es Impulsar la agenda europea y definir las grandes orientaciones políticas, en cuyo sentido es considerado el motor de la integración europea.",
+        options: ["A. Consejo Europeo.", 
+        "B. Comisión Europea.", 
+        "C. Parlamento Europeo."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Las normas comunitarias que tienen un alcance general, obligatorio en todos sus elementos y directamente aplicables en los territorios de los Estados miembros, reciben el nombre de:",
+        options: ["A. Leyes comunitarias.", 
+        "B. Las dos respuestas pueden ser correctas, según los casos.", 
+        "C. Reglamentos."],
+        correctAnswer: "C"
+    },
     
 
     /* {
@@ -3601,6 +3761,6 @@ function shuffle(array) {
 
 document.addEventListener('DOMContentLoaded', () => {
     const updateDate = document.getElementById('updateDate');
-    const lastUpdated = '18 de agosto de 2024';  // Cambia esta fecha a la actual
+    const lastUpdated = '31 de agosto de 2024';  // Cambia esta fecha a la actual
     updateDate.textContent = lastUpdated;
 });
