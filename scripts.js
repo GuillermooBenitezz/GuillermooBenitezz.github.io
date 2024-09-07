@@ -2994,6 +2994,293 @@ const questions = [
         "C. Reglamentos."],
         correctAnswer: "C"
     },
+    {
+        question: "Los objetivos de EUROPOL se dirigen esencialmente a:",
+        options: ["A. Establecer y desarrollar las instituciones que puedan contribuir a la prevención y a la represión de las infracciones de derecho común.", 
+        "B. La cooperación entre los Estados miembros de la UE con vistas a la prevención y lucha contra el terrorismo, el tráfico ilícito de estupefacientes y otras formas graves de delincuencia internacional.", 
+        "C. La lucha contra las grandes organizaciones criminales."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quién ejercerá la presidencia del Consejo de la Unión Europea en el periodo comprendido entre julio y diciembre del año 2020?",
+        options: ["A. Croacia.", 
+        "B. Eslovenia.", 
+        "C. Alemania."],
+        correctAnswer: "C"
+    },
+    {
+        question: "No es competencia de los Ministros:",
+        options: ["A. Desarrollar la acción de Gobierno.", 
+        "B. Ejercer la jefatura del Departamento.s", 
+        "C. Refrendar, en su caso, los actos del Rey en materia de su competencia."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿A quién le corresponde presidir la Comisión General de Subsecretarios? Seleccione una:",
+        options: ["A. Al Secretario de Estado.", 
+        "B. Al Presidente del Gobierno o, en su defecto, al Ministro de Administraciones Públicas.", 
+        "C. A un Vicepresidente del Gobierno o al Ministro de la Presidencia."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En relación a las empresas dedicadas a la seguridad informática, señale Ia correcta:",
+        options: ["A. Son empresas de seguridad privada en todo caso.", 
+        "B. Deben estar inscritas en el Registro Nacional de Seguridad Privada.", 
+        "C. Es una actividad no contemplada en la Ley 51/2014 de Seguridad Privada."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Quedan fuera del ámbito de aplicación de la ley de seguridad privada, especialmente en lo que se refiere a la homologación de productos, la fabricación, comercialización, venta, entrega, instalación o mantenimiento de elementos o productos de seguridad y de cerrajería de seguridad. Estas actividades podrán desarrollarse por:",
+        options: ["A. Las empresas de seguridad privada..", 
+        "B. Personal de seguridad privada.", 
+        "C. Las dos son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Señale la proposición que considere correcta en relación al libro-registro de identificados de la Ley de Seguridad Ciudadana",
+        options: ["A. Los asientos de los libro-registros se cancelarán a petición del identificado a los 3 años.", 
+        "B. El órgano competente de la Administración remitirá mensualmente al Ministerio Fiscal extracto de las diligencias de identificación con expresión del tiempo utilizado en cada una.", 
+        "C. Las diligencias de identificación practicadas, así como los motivos, circunstancias y duración de las mismas, sólo podrán ser comunicados sus datos a la Autoridad Judicial."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La titularidad y el ejercicio de las competencias atribuidas a los órganos administrativos:",
+        options: ["A. podrán ser desconcentradas en otros jerárquicamente dependientes de aquellos.", 
+        "B. podrán ser desconcentradas en otros jerárquicamente independientes de aquellos.", 
+        "C. podrán ser desconcentradas en otros jerárquicamente dependientes o independientes de aquéllos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "En el año 2015 se aprobó la Ley de Seguridad Nacional. Señale de las siguientes afirmaciones cual es el objetivo que se corresponde con la referida Ley.",
+        options: ["A. Mantener segura todas las infraestructuras con el fin de que se garanticen los servicios a los ciudadanos.", 
+        "B. Establecer las estrategias y las estructuras adecuadas que permitan dirigir y coordinar las actuaciones de los distintos órganos de las administraciones públicas en materia de protección de infraestructuras críticas.", 
+        "C. Mejorar la coordinación de las diferentes administraciones públicas integradas en la Seguridad Nacional."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El Sistema de Protección de lnfraestructuras Críticas se compone de una serie de instituciones, órganos y empresas, procedentes tanto del sector público como del privado, cuyo responsable recae sobre:",
+        options: ["A. El Secretario de Estado de Seguridad.", 
+        "B. En el responsable del Centro Nacional para la Protección de las Infraestructuras Críticas.", 
+        "C. El Ministerio del lnterior."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Alexia recibe una llamada telefónica en la que se le amenaza con causarle la muerte cuando salga de su domicilio. La persona que realiza tal llamada la hace en nombre de una entidad. Nos encontramos aquí ante un caso de:",
+        options: ["A. Amenazas graves puras agravadas porque se ha realizado por teléfono y también en nombre de una entidad.", 
+        "B. Amenazas graves puras agravadas porque se ha realizado por teléfono.", 
+        "C. Amenazas graves puras en su tipo básico."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El delito de coacciones se verá agravado si",
+        options: ["A. Se realice o ejerza con violencia.", 
+        "B. Cuando a lo que se obligue sea injusto.", 
+        "C. Cuando impida el ejercicio de un derecho fundamental."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La distribución o difusión pública, a través de cualquier medio, de mensajes o consignas que inciten a la comisión de alguno de los delitos de alteración del orden público del artículo 557 bis del Código Penal, o que sirvan para reforzar la decisión de llevarlos a cabo, será castigado con una pena de:",
+        options: ["A. Multa.", 
+        "B. Prisión.", 
+        "C. Multa o prisión."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En el caso de los menores, el consentimiento en relación al derecho a la intimidad cuando no pueda darse por ellos mismos, habrá de otorgarse mediante escrito por su representante legal, quien estará obligado a poner en conocimiento previo del Ministerio Fiscal el consentimiento proyectado. Si en el plazo de _______ el Ministerio Fiscal se opusiere, resolverá el juez.",
+        options: ["A. 8 días.", 
+        "B. 10 días.", 
+        "C. 15 días."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Las funcionarias víctimas de violencia de género, para hacer efectivo su protección o su derecho a la asistencia social integral, tendrán derecho a solicitar la situación de excedencia por un plazo determinado con carácter general con reserva del puesto de trabajo durante los 6 primeros meses. Dicho plazo se podrá prorrogar:",
+        options: ["A. Por tres meses cuando las actuaciones judiciales lo hicieran necesario.", 
+        "B. Por tres meses en todo caso, con un máximo de dieciocho meses.", 
+        "C. No está sujeto a prórroga."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La LPRL denomina a cualquier característica que pueda tener una influencia significativa en la generación de riesgos para la seguridad y salud del trabajador, con el concepto de:",
+        options: ["A. Condiciones de trabajo.", 
+        "B. Riesgo laboral.", 
+        "C. Potencial accidente de trabajo."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El servicio de prevención propio habrá de contar, como mínimo :",
+        options: ["A. Con dos técnicos de cada una de las especialidades preventivas.", 
+        "B. Con dos de las especialidades preventivas.", 
+        "C. Con un técnico de cada una de las especialidades preventivas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Dónde habrá de reflejarse el plan de prevención de riesgos laborales?",
+        options: ["A. En un documento reservado a disposición de la autoridad laboral.", 
+        "B. En un documento reservado a disposición de la autoridad.", 
+        "C. En un documento reservado a disposición de la autoridad judicial."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La Ley Orgánica 3/2018 de Protección de Datos, establece en su artículo 10, con respecto del tratamiento de datos de naturaleza penal:",
+        options: ["A. Que solo podrá llevarse a cabo el tratamiento de este tipo de datos, cuando se encuentre amparado por orden ministerial, por lo establecido en la Ley Orgánica de Protección de Datos.", 
+        "B. Que no podrá llevarse a cabo el tratamiento de este tipo de datos, cuando se encuentre amparado por orden ministerial, por lo establecido en la Ley Orgánica de Protección de Datos.", 
+        "C. Que el tratamiento de estos datos, cuando no se encuentre amparado por una norma de Derecho de la UE, la Ley Orgánica de Protección de Datos o otra norma de rango de legal; solo podrá ser llevado a cabo por abogados y procuradores, únicamente en el ejercicio de sus funciones."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El procedimiento orientado a determinar una posible infracción en materia de protección de datos tendrá una duración máxima de:",
+        options: ["A. Tres meses.", 
+        "B. Nueve meses.", 
+        "C. Doce meses."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Señala la respuesta correcta:",
+        options: ["A. Toda persona tiene derecho a un tribunal independiente e imparcial.", 
+        "B. Toda persona tiene derecho a ser oída con justicia por un tribunal independiente e imparcial.", 
+        "C. Las dos respuestas con correctas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Qué autor considera que la globalización actual es un proceso dinámico de creciente libertad e integración mundial de los mercados, bienes, servicios, tecnologías y capitales?",
+        options: ["A. Guillermo de la Dehesa.", 
+        "B. Marshall McLuhan.", 
+        "C. María José Fariñas Dulce."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El proceso histórico de integración mundial en los ámbitos político, económico, social, cultural y tecnológico, que ha convertido al mundo en un lugar cada vez más interconectado, constituye el concepto de:",
+        options: ["A. Mundialización.", 
+        "B. Globalización.", 
+        "C. Las dos respuestas son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Con la globalización:",
+        options: ["A. Aumenta el acceso a la información.", 
+        "B. Las dos son correctas.", 
+        "C. Aumenta el subdesarrollo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Las actitudes…:",
+        options: ["A. Son Innatas.", 
+        "B. Las hay aprendidas e innatas.", 
+        "C. Se aprenden."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Qué significado tiene la expresión “sumisión autoritaria”:",
+        options: ["A. Obediencia ciega al poder.", 
+        "B. Hostilidad hacia los contrarios.", 
+        "C. Las dos son correctas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Cómo consecuencia del fenómeno migratorio, se consigue una mayor estabilidad social…?",
+        options: ["A. En ambos casos.", 
+        "B. En el país de llegada de los inmigrantes.", 
+        "C. En el país de origen de los emigrantes."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Un efecto de las migraciones interiores, es...?",
+        options: ["A. Redistribución de la población.", 
+        "B. Todos son efectos de las migraciones interiores.", 
+        "C. Concentración urbana."],
+        correctAnswer: "B"
+    },
+    {
+        question: "En relación con la ciudad y su desarrollo urbano hay infinidad de autores, así como de teorías, en lo relativo a las orientaciones teóricas en 1923 se consideró a Burguess como el promotor de las áreas concéntricas, a Harris y Ullman como propulsores de la teoría multinuclear, ¿qué teoría desarrollo Hoyt?:",
+        options: ["A. La teoría nuclear.", 
+        "B. La teoría sectorial.", 
+        "C. La teoría radial."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿A quién se debe la idea de que es conveniente que la seguridad total no exista, o lo que es lo mismo, que es necesario que exista un  cierto grado de inseguridad en la sociedad?:",
+        options: ["A. Weber.", 
+        "B. Merton.", 
+        "C. Durkheim."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Qué es más necesario para el ser humano, atendiendo a la jerarquía de necesidades:",
+        options: ["A. La protección.", 
+        "B. El afecto.", 
+        "C. El sexo."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué tipo de pronombres son eso y alguien?",
+        options: ["A. Posesivo y numeral.", 
+        "B. Demostrativo e indefinido.", 
+        "C. Personales."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El verbo PAGAR es un verbo:",
+        options: ["A. Intransitivo.", 
+        "B. Transitivo.", 
+        "C. Copulativo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Cuándo se acentúa la palabra “mi”:",
+        options: ["A. Cuando es posesivo.", 
+        "B. Cuando es pronombre personal.", 
+        "C. Cuando es nota musical."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Señala la respuesta correcta:",
+        options: ["A. El morfema es la raíz de una palabra.", 
+        "B. El lexema es la raíz de una palabra.", 
+        "C. El lexema es la terminación de una palabra."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿En qué fase del ciclo de la inteligencia policial podemos hablar de método inductivo o método deductivo?",
+        options: ["A. Etapa de análisis.", 
+        "B. Etapa de Tratamiento o Procesamiento Automático o no de la información.", 
+        "C. Etapa de evaluación."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Hacker talentoso que actúa ilegalmente, aunque con buenas intenciones:",
+        options: ["A. White hat hacker.", 
+        "B. Hacktivista.", 
+        "C. Grey hat hacker."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Según se establece en el Reglamento de Armas, será causa de anulación y retirada de la guía de pertenencia, debiendo quedar el arma depositada en el Servicio de Intervención de Armas y Explosivos:",
+        options: ["A. No pasar dos revistas si son armas largas y tres si son cortas.", 
+        "B. No pasar dos revistas o tres alternas.", 
+        "C. No pasar dos revistas consecutivas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En qué mes pasarán revista de armas las empresas de seguridad:",
+        options: ["A. Abril.", 
+        "B. Mayo.", 
+        "C. Cuando tengan que renovar las licencias."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Cuándo se recomienda el cambio de un neumático?",
+        options: ["A. Cuando la ranura principal tiene una profundidad de 2 mm.", 
+        "B. Cuando lo indique el fabricante.", 
+        "C. Cuando la ranura principal tiene una profundidad como mínimo de 1,6 mm."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Conforme a la actual estructura de la DGP el control del efectivo mantenimiento de los vehículos es competencia, con carácter específico:",
+        options: ["A. División económica y técnica.", 
+        "B. Jefes de unidad.", 
+        "C. Comisaría local o provincial."],
+        correctAnswer: "B"
+    },
     
 
     /* {
@@ -3759,8 +4046,9 @@ function shuffle(array) {
     return array;
 }
 
+
 document.addEventListener('DOMContentLoaded', () => {
     const updateDate = document.getElementById('updateDate');
-    const lastUpdated = '31 de agosto de 2024';  // Cambia esta fecha a la actual
+    const lastUpdated = '07 de septiembre de 2024';  // Cambia esta fecha a la actual
     updateDate.textContent = lastUpdated;
 });
