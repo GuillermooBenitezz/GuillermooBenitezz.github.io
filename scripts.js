@@ -3281,7 +3281,209 @@ const questions = [
         "C. Comisaría local o provincial."],
         correctAnswer: "B"
     },
-    
+    {
+        question: "¿Quién tiene la última palabra en caso de conflicto a la hora de convalidar un decreto legislativo?",
+        options: ["A. El tribunal constitucional.", 
+        "B. El congreso.", 
+        "C. El gobierno."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Transcurrido el plazo de resolución del recuerdo de reposición sin que recaiga resolución:",
+        options: ["A. Se podrá entender estimado el recurso.", 
+        "B. Se podrá entender desestimado el recurso.", 
+        "C. Habrá que solicitar un recurso de alzada."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El sistema de concurso que consiste únicamente en la valoración de méritos, como sistema selectivo de funcionarios de carrera, podrá aplicarse con carácter excepcional:",
+        options: ["A. Cuando convenga según la Oferta Pública de Empleo.", 
+        "B. Sólo en virtud de ley.", 
+        "C. Cuando se prevea el las bases de la convocatoria correspondiente."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El ejercicio de las facultades de inspección, las medidas provisionales y el régimen sancionador serán aplicables a:",
+        options: ["A. Personal que ejerzan funciones de seguridad y estén habilitados.", 
+        "B. Personal que ejerzan funciones de seguridad sin estar habilitados.", 
+        "C. a) y b) son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué tipo de documento se les deberá de expedir a su salida a las personas que hayan sido desplazadas a dependencias policiales a efectos de identificación?",
+        options: ["A. Volante acreditativo del tiempo de permanencia en ellas, la causa y la identidad de los agentes actuantes.", 
+        "B. Volante acreditativo del tiempo de permanencia en ellas y su causa.", 
+        "C. Volante acreditativo acreditando su causa y la identidad de los agentes."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Dentro de las estructuras orgánicas de la ciberseguridad en España, se encuentran:",
+        options: ["A. Consejo Nacional de Ciberseguridad.", 
+        "B. Comité Nacional de Seguridad.", 
+        "C. Comité de Expertos en Seguridad Nacional."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién preside el Consejo de Seguridad Nacional?",
+        options: ["A. Siempre el Presidente del Gobierno.", 
+        "B. Siempre que el Rey como Jefe del Estado, asista a las reuniones lo presidirá.", 
+        "C. Siempre que asista el Rey, la presidencia será compartida con el Presidente del Gobierno."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿En qué articulo del código penal encontraremos reguladas las agresiones sexuales?",
+        options: ["A. Artículo 178 CP.", 
+        "B. Artículo 179 CP.", 
+        "C. Artículo 180 CP."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Indique cuál de las siguientes definiciones corresponde al delito tipificado en el artículo 557 ter:",
+        options: ["A. Los que, actuando en grupo o individualmente pero amparados en él, invadan u ocupen, contra la voluntad de su titular, el domicilio de una persona jurídica pública o privada, un despacho, oficina, establecimiento o local, aunque se encuentre abierto al público, y causen con ello una perturbación relevante de la paz pública y de su actividad normal.", 
+        "B. Los que, actuando en grupo o individualmente, invadan u ocupen, contra la voluntad de su titular, el domicilio de una persona jurídica pública o privada, un despacho, oficina, establecimiento o local, que no se encuentre abierto al público, y causen con ello una perturbación relevante de la paz pública y de su actividad normal.", 
+        "C. Los que, actuando en grupo o individualmente pero amparados en él, invadan u ocupen, contra la voluntad de su titular, el domicilio de una persona jurídica pública o privada, un despacho, oficina, establecimiento o local, que no se encuentre abierto al público, y causen con ello una perturbación relevante de la paz pública y de su actividad normal."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuál de las siguientes circunstancias no agrava el delito de alteración de orden público?",
+        options: ["A. Cuando se lleven a cabo actos de pillaje.", 
+        "B. Cuando se lleve a cabo con ocultación del rostro.", 
+        "C. Cuando los hechos se lleven a cabo con violencia sobre las personas o las cosas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El deber de confidencialidad es con respecto al deber de secreto profesional:",
+        options: ["A. Complementaria.", 
+        "B. Primordial.", 
+        "C. Excluyente."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Para el desarrollo de la función de evaluación externa y auditoría, el INSST, en el ámbito de la AGE :",
+        options: ["A. Podrá contar con la colaboración de las Inspecciones de Servicios de cada Departamento u Organismo público.", 
+        "B. En las instituciones sanitarias públicas, puede colaborar la Inspección Sanitaria.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El número de países firmantes del texto sobre los DDHH fue de:",
+        options: ["A. 123.", 
+        "B. 75.", 
+        "C. 58."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Para cesar a un juez del Tribunal Europeo de DDHH, se necesita una mayoría:",
+        options: ["A. Absoluta.", 
+        "B. Cualificada.", 
+        "C. Quórum."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Los orígenes de la globalización en España se sitúan:",
+        options: ["A. Las dos son correctas.", 
+        "B. Con la implantación del Plan de Estabilización de 1959.", 
+        "C. Con la vuelta de los primeros turistas europeos tras la Guerra Civil y la Mundial."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién fue la cabeza del Ejército Zapatista de Liberación Nacional?:",
+        options: ["A. Subcomandante Marcos.", 
+        "B. James Tobin.", 
+        "C. José Bové"],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los prejuicios de exogrupo, provocan:",
+        options: ["A. Racismo.", 
+        "B. Etnocentrismo.", 
+        "C. Grupo-centrismo étnico."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los individuos que tienen influencia en las personas y en el comportamiento social de las mismas, a través de los cuales van a desarrollar su actividad social, son:",
+        options: ["A. Agentes socializadores.", 
+        "B. Agentes de control social.", 
+        "C. Agentes institucionales."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La capacidad de la sociedad para regularse asimismo de acuerdo a principios y valores aceptados mayoritariamente, se conoce como:",
+        options: ["A. Control social.", 
+        "B. Normas jurídicas.", 
+        "C. Socialización."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los Objetivos de Desarrollo del Milenio:",
+        options: ["A. Fueron aprobados en Nueva York en el año 2015.", 
+        "B. Fueron aprobados en Río de Janeiro, en el año 2012.", 
+        "C. Fueron aprobados en Nueva York en el año 2000."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En el siglo XVIII se enuncia la famosa teoría malthusiana. Tal teoría supuso la voz de alarma, al afirmar que, de seguir creciendo demográficamente, no tendríamos suficientes recursos que garantizasen el autoabastecimiento. ¿Qué expuso tal teoría exactamente?",
+        options: ["A. Que la población crece a un ritmo de adición, mientras que los alimentos lo hacen aritméticamente.", 
+        "B. Que la población crece aritméticamente, mientras que los alimentos lo hacen exponencialmente.", 
+        "C. Que  la población crece a un ritmo exponencial, mientras que  los alimentos lo hacen a un ritmo aritmético."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Sustantivos totalmente diferentes para el masculino y para el femenino.",
+        options: ["A. Heterónimos.", 
+        "B. Epicenos.", 
+        "C. Homónimos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Para qué sirven los pronombres?",
+        options: ["A. Acompañan a un nombre.", 
+        "B. Sustituyen a un sustantivo.", 
+        "C. Complementan a un sustantivo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La interrogación, es:",
+        options: ["A. Signos simples.", 
+        "B. Signos compuestos.", 
+        "C. Signos dobles."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En una red malla los mensajes se envían:",
+        options: ["A. En forma de árbol.", 
+        "B. En forma de estrella.", 
+        "C. Conectando los nodos por diferentes caminos."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿ Cómo se llama el principal documento de análisis para la UE sobre la criminalidad grave y la actividad de la delincuencia organizada?",
+        options: ["A. EURODOC.", 
+        "B. IOCTA.", 
+        "C. SOCTA."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Se ha realizado por parte del Alcalde de Málaga una resolución para la instalación de una videocámara móvil que le ha resultado denegada, tal como establece la Ley Orgánica 4/1997 del 4 de agosto regula la utilización de videocámaras por las Fuerzas y Cuerpos de Seguridad en lugares públicos, qué recurso cabrá contra dicha resolución?",
+        options: ["A. Recurso de alzada.", 
+        "B. Recurso potestativo de reposición.", 
+        "C. Recurso de revisión."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Respecto a los adjuntos del Defensor del Pueblo, es correcto afirmar:",
+        options: ["A. Que los nombra y separa el mismo Defensor del Pueblo, previa conformidad de las Cámaras.", 
+        "B. Que no disfrutan de las mismas prerrogativas que el Defensor del Pueblo, pero podrán cumplir las funciones de este, en caso de incapacidad.", 
+        "C. Que su mandato tiene una duración de 4 años, al igual que el mandato del Defensor del Pueblo."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuántas Salas tiene el Tribunal Constitucional?:",
+        options: ["A. Dos.", 
+        "B. No tiene.", 
+        "C. Tres."],
+        correctAnswer: "A"
+    }, 
 
     /* {
         question: "",
@@ -4049,6 +4251,6 @@ function shuffle(array) {
 
 document.addEventListener('DOMContentLoaded', () => {
     const updateDate = document.getElementById('updateDate');
-    const lastUpdated = '07 de septiembre de 2024';  // Cambia esta fecha a la actual
+    const lastUpdated = '14 de septiembre de 2024';  // Cambia esta fecha a la actual
     updateDate.textContent = lastUpdated;
 });
