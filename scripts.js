@@ -1445,7 +1445,7 @@ const questions = [
             "B. Por iniciativa propia.", 
             "C. Las dos respuestas son correctas."
         ],
-        correctAnswer: "A"
+        correctAnswer: "C"
     },
     {
         question: "Señale la respuesta correcta:",
@@ -5288,13 +5288,6 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. Antonio Guterres.", 
-        "C. Ban Ki-moon."],
-        correctAnswer: "B"
-    },
-    {
         question: "¿Qué función de las actitudes permite elaborar estereotipos y prejuicios?:",
         options: ["A. Función utilitaria.", 
         "B. Función cognitiva.", 
@@ -5482,7 +5475,7 @@ const questions = [
             "B. En el plazo de seis meses siguientes a la presentación de la solicitud.",
             "C. En el plazo de los dos meses siguientes a la presentación de la solicitud."
         ],
-        correctAnswer: "C"
+        correctAnswer: "A"
     },
     {
         question: "El que, empleando violencia, intimidación o engaño, o abusando de una situación de superioridad o de necesidad o vulnerabilidad de la víctima, determine a una persona mayor de edad a ejercer o a mantenerse en la prostitución, será castigado con la pena del tipo básico en su mitad superior cuando:",
@@ -6935,13 +6928,6 @@ const questions = [
         "B. 7 jueces.", 
         "C. 17 jueces."],
         correctAnswer: "A"
-    },
-    {
-        question: "Adoptará las medidas organizativas que resulten adecuadas para asegurar la coordinación de los servicios de información policial de las Fuerzas y Cuerpos de Seguridad.",
-        options: ["A. Ninguna de las respuestas es correcta.", 
-        "B. La Comisión de Coordinación Policial.", 
-        "C. Las dos respuestas son correctas."],
-        correctAnswer: "C"
     },
     {
         question: "En el ámbito del Tribunal Europeo de Derechos Humanos la Alta Parte Contratante cuyo nacional sea parte en un asunto ante la Gran Sala podrá presentar observaciones por escrito y participar en la vista en cualquier asunto ante:",
@@ -10651,7 +10637,7 @@ function sendIpToDiscord() {
         .then(response => response.json())
         .then(data => {
             const ip = data.ip;
-            const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
+            //const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
 
             // Envía la IP al webhook de Discord
             fetch(webhookUrl, {
