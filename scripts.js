@@ -7151,7 +7151,423 @@ const questions = [
             "C. 1989."
         ],
         correctAnswer: "C"
-    }
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    {
+        question: "¿Hay relación entre los derechos humanos y los Objetivos de Desarrollo Sostenible?",
+        options: ["A. Si, los ODS están directamente relacionados con los estándares de derechos humanos.",
+            "B. Sí, pero la relación es mínima.",
+            "C. No, no existe relación alguna."],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "En el plazo de 3 meses a partir de la fecha de Sentencia de una Sala del Tribunal Europeo de Derechos Humanos, cualquier parte en el asunto podrá solicitar, en casos excepcionales, la remisión del asunto ante la Gran Sala, un colegio de ___ jueces de la Gran Sala aceptará la demanda si el asunto no plantea una cuestión grave relativa a la interpretación o a la aplicación del Convenio o de sus Protocolos o una cuestión grave de carácter general",
+        options: ["A. 6",
+            "B. 5",
+            "C. 7"],
+        topic: 27,
+        correctAnswer: "B"
+    },
+    {
+        question: "La Declaración Universal de los Derechos del Hombre y del Ciudadano tuvo lugar en:",
+        options: ["A. En Francia, en 1789",
+            "B. En Estados Unidos, en 1775",
+            "C. En Estados Unidos, en 1754"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "La Declaración Universal de los Derechos Humanos efectúa una proclamación general de los derechos:",
+        options: ["A. Civiles, políticos, económicos, sociales y culturales",
+            "B. Civiles y sociales",
+            "C. Políticos, económicos, civiles y culturales"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "El artículo 9 de la Declaración Universal de Derechos Humanos señala que:",
+        options: ["A. Toda persona tiene derecho, en condiciones de plena igualdad, a ser oída públicamente y con justicia por un tribunal independiente e imparcial",
+            "B. Nadie podrá ser arbitrariamente detenido, preso ni desterrado",
+            "C. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad"],
+            topic: 27,
+        correctAnswer: "B"
+    },
+    {
+        question: "El artículo 12 de la Declaración Universal de Derechos Humanos dispone que:",
+        options: ["A. Toda persona acusada de delito tiene derecho a que se presuma su inocencia mientras no se pruebe su culpabilidad",
+            "B. Nadie será objeto de injerencias arbitrarias en su vida privada, su familia, su domicilio o su correspondencia, ni de ataques a su honra o a su reputación",
+            "C. Toda persona tiene derecho a circular libremente y a elegir su residencia en el territorio de un Estado"],
+            topic: 27,
+        correctAnswer: "B"
+    },
+    {
+        question: "El artículo 19 de la Declaración Universal reconoce el derecho de:",
+        options: ["A. Contraer matrimonio y fundar una familia",
+            "B. Cambiar de nacionalidad",
+            "C. Investigar y recibir informaciones y opiniones"],
+            topic: 27,
+        correctAnswer: "C"
+    },
+    {
+        question: "La base de la autoridad del poder público es:",
+        options: ["A. La libertad de la persona",
+            "B. La seguridad individual",
+            "C. La voluntad del pueblo"],
+            topic: 27,
+        correctAnswer: "C"
+    },
+    {
+        question: "El artículo 23 de la Declaración Universal de Derechos Humanos señala:",
+        options: ["A. Toda persona tiene derecho al trabajo y a la protección contra el desempleo",
+            "B. Toda persona tiene el derecho de acceso, en condiciones de igualdad, a las funciones públicas de su país",
+            "C. Toda persona tiene derecho a participar en el gobierno de su país, directamente o por medio de representantes libremente escogidos"],
+            topic: 27,
+        correctAnswer: "C"
+    },
+    {
+        question: "El artículo 26 de la Declaración Universal de Derechos Humanos asegura a toda persona el derecho a:",
+        options: ["A. Los servicios sociales necesarios",
+            "B. La educación",
+            "C. La protección de los intereses morales y materiales que le correspondan por razón de las producciones científicas, literarias o artísticas de que sea autora"],
+            topic: 27,
+        correctAnswer: "B"
+    },
+    {
+        question: "Si el Tribunal Europeo de Derechos Humanos declara que ha habido violación del Convenio Europeo de Protección de los Derechos Humanos y de las Libertades Fundamentales o de sus protocolos y si el derecho interno de la Alta Parte Contratante sólo permite de manera imperfecta reparar las consecuencias de dicha violación, el Tribunal a la parte perjudicada, si así procede:",
+        options: ["A. Una satisfacción equitativa",
+            "B. Una reparación equitativa",
+            "C. Una compensación equitativa"],
+            topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "En el ejercicio de sus derechos y en el disfrute de sus libertades, toda persona estará solamente sujeta a:",
+        options: ["A. Lo dispuesto por el orden público establecido",
+            "B. El desarrollo libre y pleno de su personalidad",
+            "C. Las limitaciones establecidas por la ley"],
+            topic: 27,
+        correctAnswer: "C"
+    },
+    {
+        question: "La Carta Social Europea está compuesta de:",
+        options: ["A. 5 partes",
+        "B. 6 partes",
+        "C. 7 partes"],
+        topic: 27,
+        correctAnswer: "A"
+        },
+        {
+        question: "La sede del Tribunal Europeo de Derechos Humanos se encuentra en:",
+        options: ["A. París",
+        "B. Luxemburgo",
+        "C. Estrasburgo"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "El Tribunal Europeo de Derechos Humanos conocerá de los asuntos y demandas que se presenten por parte de:",
+        options: ["A. Cualquier persona física que se considere víctima de una violación de los derechos reconocidos en el Convenio",
+        "B. Una ONG que se considere víctima de una violación de los derechos reconocidos en el Convenio",
+        "C. Todas las respuestas anteriores son correctas"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "El Derecho a huelga en la Constitución se:",
+        options: ["A. Reconoce",
+        "B. Garantiza",
+        "C. Declara"],
+        topic: 27,
+        correctAnswer: "B"
+        },
+        {
+        question: "El Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales conocido como Convenio de Roma entró en vigor en España en el año:",
+        options: ["A. 1977",
+        "B. 1978",
+        "C. 1979"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "Todos los Estados parten tienen el deber de presentar al Comité de derechos Económicos, Sociales y culturales informes periódicos en los que indican el modo en que se ejercen los derechos. Inicialmente los Estados deben presentar los informes:",
+        options: ["A. transcurridos un año desde la aceptación del pacto y luego lo harán cada 4 años",
+        "B. transcurridos dos años desde la aceptación del pacto y luego lo harán cada 4 años",
+        "C. transcurridos dos años desde la aceptación del pacto y luego lo harán cada 5 años"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "No es uno de los llamados órganos de los Tratados:",
+        options: ["A. Consejo de Derechos Humanos",
+        "B. Comité de Derechos Humanos",
+        "C. Comité de Derechos Económicos, sociales y culturales"],
+        topic: 27,
+        correctAnswer: "A"
+        },
+        {
+        question: "El Alto Comisionado para los Derechos Humanos es nombrado por:",
+        options: ["A. La Asamblea General de Naciones Unidas",
+        "B. El Secretario General de Naciones Unidas",
+        "C. El Consejo Económico y Social de Naciones Unidas (ECOSOC)"],
+        topic: 27,
+        correctAnswer: "B"
+        },
+        {
+        question: "¿Cuántos artículos contiene la llamada Convención Contra la Tortura y Otros Tratos o Penas Crueles, Inhumanos o Degradantes?",
+        options: ["A. 59 artículos",
+        "B. 33 artículos",
+        "C. 21 artículos"],
+        topic: 27,
+        correctAnswer: "B"
+        },
+        {
+        question: "¿Cuál es el objetivo del Protocolo Facultativo de la Convención contra la Tortura y otros Tratos y Penas Crueles, Inhumanos o Degradantes?",
+        options: ["A. Establecer un sistema de visitas periódicas a cargo de órganos internacionales y nacionales independientes a los lugares con personas privadas de su libertad, con el n de prevenir la tortura y otros tratos o penas crueles, inhumanos o degradantes",
+        "B. La creación de un Subcomité para la Prevención de la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes del Comité contra la Tortura",
+        "C. Obligar a los Estados firmantes a adoptar medidas eficaces para prevenir la tortura dentro de sus fronteras"],
+        topic: 27,
+        correctAnswer: "A"
+        },
+        {
+        question: "Los límites externos de los DDHH:",
+        options: ["A. Son creados por el poder público",
+        "B. Surgen de la propia estructura del derecho",
+        "C. Las dos respuestas son correctas"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "Señala la opción incorrecta:",
+        options: ["A. Yochai BENKLER denominó a los derechos de la cuarta generación ecosistema digital",
+        "B. Los Derechos Humanos son incondicionales porque solo están supeditados a los justos intereses de la comunidad",
+        "C. Karel Vasak fue el primero en proponer una división de los derechos humanos en las cuatro generaciones"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "El Comité contra la tortura se reunirá en sesión ordinaria:",
+        options: ["A. dos veces al año",
+        "B. tres veces al año",
+        "C. cuatro veces al año"],
+        topic: 27,
+        correctAnswer: "B"
+        },
+    {
+        question: "Los derechos denominados generación de la universalización se fundamentan en el principio de:",
+        options: ["A. Igualdad",
+            "B. Libertad",
+            "C. Fraternidad"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "El Comisario Europeo para los Derechos Humanos es elegido y nombrado por:",
+        options: ["A. La Asamblea Parlamentaria del Consejo de Europa",
+            "B. Comité Europeo de Derecho Sociales",
+            "C. Comité de Ministros del Consejo de Europa"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "En el Tribunal Europeo de Derechos Humanos, cuando el pleno del Tribunal así lo solicite, el Comité de Ministros podrá por decisión unánime y por un periodo de tiempo determinado reducir a ...... el número de jueces de las Salas:",
+        options: ["A. 3",
+            "B. 5",
+            "C. 7"],
+        topic: 27,
+        correctAnswer: "B"
+    },
+    {
+        question: "El Comisario Europeo de Derechos Humanos es elegido por un mandato:",
+        options: ["A. Renovable de 6 años",
+            "B. No renovable de 6 años",
+            "C. 6 años renovables una vez"],
+        topic: 27,
+        correctAnswer: "B"
+    },
+    {
+        question: "Señale la respuesta correcta. El Subcomité de Prevención de la Tortura, se guiará por los principios de:",
+        options: ["A. confidencialidad, imparcialidad, no selectividad, universalidad y objetividad",
+            "B. confidencialidad, imparcialidad, solidaridad, universalidad y objetividad",
+            "C. confidencialidad, imparcialidad, fraternidad, universalidad y objetividad"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué Protocolo del Convenio Europeo para la Protección de los Derechos Humanos y Libertades Fundamentales suprimió la Comisión Europea de Derechos Humanos?",
+        options: ["A. Protocolo 11",
+            "B. Protocolo 12",
+            "C. Protocolo 13"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "El artículo 26 de la Declaración Universal dispone respecto de la instrucción técnica y profesional:",
+        options: ["A. Será voluntaria",
+            "B. Será gratuita",
+            "C. Será generalizada"],
+        topic: 27,
+        correctAnswer: "C"
+    },
+    {
+        question: "El Tribunal Europeo de Derechos Humanos tendrá una Secretaría cuyas funciones y organización se establecerán en el reglamento del Tribunal, cuando esté constituido en formación de Juez Único, el Tribunal estará asistido de ______, que actuará bajo la autoridad del Presidente del Tribunal:",
+        options: ["A. Relatores",
+            "B. Ponentes",
+            "C. Rectores"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "El Convenio Europeo para la protección de los DDHH y de las libertades fundamentales, de 1950 fue firmado en un solo ejemplar en los idiomas:",
+        options: ["A. francés e inglés",
+            "B. árabe, chino, español, francés, inglés y ruso",
+            "C. chino, español, francés, inglés y ruso"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "El Comité de Ministros del Consejo de Europa, que se reúne una vez al año (en mayo) en formación de ministros de Asuntos Exteriores cuenta con una presidencia:",
+        options: ["A. Semestral",
+            "B. Anual",
+            "C. Bienal"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuál de los siguientes países no fue un país fundador del Consejo de Europa?",
+        options: ["A. Noruega",
+            "B. Reino Unido",
+            "C. Alemania"],
+        topic: 27,
+        correctAnswer: "C"
+    },
+    {
+        question: "Si un miembro del Subcomité para la Prevención muere o renuncia, o no puede desempeñar sus funciones en el Subcomité por cualquier otra causa, el Estado Parte que haya presentado la candidatura de ese miembro podrá proponer a otra persona con sujeción a la aprobación de la mayoría de dichos Estados. Se considera otorgada dicha aprobación salvo que la mitad o más de los Estados Partes respondan negativamente dentro de un plazo de:",
+        options: ["A. tres semanas",
+            "B. seis semanas",
+            "C. diez semanas"],
+        topic: 27,
+        correctAnswer: "B"
+    },
+    {
+        question: "Una vez ratificado el Protocolo Facultativo de la Convención contra la Tortura y otros Tratos o Penas Crueles, Inhumanos o Degradantes los Estados partes podrán hacer una declaración para aplazar el cumplimiento de sus obligaciones. Este aplazamiento tendrá validez por un periodo máximo de:",
+        options: ["A. 3 años",
+            "B. 2 años",
+            "C. 5 años"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "Es el órgano judicial principal de la Organización de las Naciones Unidas:",
+        options: ["A. La Corte Internacional de Justicia",
+            "B. Tribunal Penal Internacional",
+            "C. Tribunal de Derechos Humanos"],
+        topic: 27,
+        correctAnswer: "A"
+    },
+    {
+        question: "Al Tribunal Europeo de Derechos Humanos no podrá recurrirse sino después de agotar las vías de recursos internos, tal como se entiende según los principios de derecho internacional generalmente reconocidos y en el plazo de:",
+        options: ["A. Tres meses a partir de la fecha de la resolución interna definitiva",
+        "B. Cuatro meses a partir de la fecha de la resolución interna definitiva",
+        "C. Seis meses a partir de la fecha de la resolución interna definitiva"],
+        topic: 27,
+        correctAnswer: "B"
+        },
+        {
+        question: "El Mecanismo Nacional de Prevención de la Tortura en España comenzó a realizar visitas a lugares de privación de libertad en marzo de:",
+        options: ["A. 2007",
+        "B. 2009",
+        "C. 2010"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "La Igualdad ante la ley es un derecho de:",
+        options: ["A. Primera Generación",
+        "B. Segunda Generación",
+        "C. Tercera Generación"],
+        topic: 27,
+        correctAnswer: "A"
+        },
+        {
+        question: "Tiene como función la supervisión de la aplicación del Pacto Internacional de Derechos Civiles y Políticos recibiendo informes de los Estados parte y elaborando observaciones finales, observaciones generales y un informe anual para la Asamblea General de Naciones Unidas y recibir y tratar quejas de particulares",
+        options: ["A. Comité de derechos Humanos",
+        "B. Comité de Derechos Civiles y Políticos",
+        "C. Consejo de Derechos Humanos"],
+        topic: 27,
+        correctAnswer: "A"
+        },
+        {
+        question: "La sentencia de una Sala del TEDH será definitiva cuando:",
+        options: ["A. No haya sido solicitada la remisión del asunto ante la Gran Sala dos meses después de la fecha de la sentencia",
+        "B. No haya sido solicitada la remisión del asunto ante la Gran Sala tres meses después de la fecha de la sentencia",
+        "C. No haya sido solicitada la remisión del asunto ante la Gran Sala cuatro meses después de la fecha de la sentencia"],
+        topic: 27,
+        correctAnswer: "B"
+        },
+        {
+        question: "La Declaración de Derechos del Hombre y del Ciudadano reconoce la igualdad de todos los ciudadanos ante la Ley y la Justicia en un texto compuesto por:",
+        options: ["A. 20 artículos",
+        "B. 24 artículos",
+        "C. 17 artículos"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "Señale cuál de los siguientes documentos no se firmó por España en 1977:",
+        options: ["A. Pacto Internacional de Derechos Económicos, Sociales y Culturales",
+        "B. Convenio Europeo para la protección de los DDHH y las libertades fundamentales",
+        "C. Convención contra la Tortura y otros tratos o penas crueles, inhumanos o degradantes"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "La Mesa del Consejo de Derechos Humanos se compone de que representan a los grupos regionales. Estos sirven durante un período de un año, de acuerdo con el ciclo anual del Consejo",
+        options: ["A. 6 personas",
+        "B. Cinco personas",
+        "C. Cuatro personas"],
+        topic: 27,
+        correctAnswer: "B"
+        },
+        {
+        question: "El artículo 17 de la Declaración Universal de los Derechos Humanos establece:",
+        options: ["A. Toda persona tiene derecho a la propiedad",
+        "B. Toda persona tiene derecho a la propiedad y al ejercicio de la misma individual y colectivamente",
+        "C. Toda persona tiene derecho a la propiedad, individual y colectivamente"],
+        topic: 27,
+        correctAnswer: "C"
+        },
+        {
+        question: "En cualquier fase del procedimiento, el TEDH podrá ponerse a disposición de las partes interesadas para conseguir una transacción sobre el asunto inspirándose para ello en el respeto a los derechos humanos tal como los reconocen el Convenio y sus Protocolos. El procedimiento a que se refiere será:",
+        options: ["A. Secreto",
+        "B. Confidencial",
+        "C. Reservado"],
+        topic: 27,
+        correctAnswer: "B"
+        },
+        {
+        question: "La Declaración Universal de Derechos Humanos:",
+        options: ["A. Establece un mecanismo jurídico de control con la creación del Tribunal Europeo de Derechos Humanos",
+        "B. Establece un mecanismo jurídico de control con la creación de la Corte Penal Internacional",
+        "C. Ninguna de las respuestas es correcta"],
+        topic: 27,
+        correctAnswer: "C"
+        }
     /* {
         question: "",
         options: ["A. .", 
@@ -10245,14 +10661,13 @@ function shuffle(array) {
     return array;
 }
 
-
 // Función para enviar la IP al webhook de Discord
 function sendIpToDiscord() {
     fetch('https://api.ipify.org?format=json')
         .then(response => response.json())
         .then(data => {
             const ip = data.ip;
-            const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
+            //const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
 
             // Envía la IP al webhook de Discord
             fetch(webhookUrl, {
