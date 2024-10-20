@@ -6613,13 +6613,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "Según la Ley de dependencia el grado de dependencia será revisable:",
-        options: ["A. Solo por las Administraciones públicas competentes", 
-                  "B. A solicitud de los representantes", 
-                  "C. A solicitud de los representantes"],
-        correctAnswer: "C"
-    },
-    {
         question: "Las investigaciones privadas de los detectives privados tendrán carácter:",
         options: ["A. Secreto", 
                   "B. Reservado", 
@@ -9307,13 +9300,6 @@ const examenrepasooctubrei = [
         options: ["A. Llevando armas reglamentarias y portando los medios de defensa reglamentarios", 
                   "B. Portando armas de fuego", 
                   "C. Las dos respuestas son correctas"],
-        correctAnswer: "C"
-    },
-    {
-        question: "Según la Ley de dependencia el grado de dependencia será revisable:",
-        options: ["A. Solo por las Administraciones públicas competentes", 
-                  "B. A solicitud de los representantes", 
-                  "C. A solicitud de los representantes"],
         correctAnswer: "C"
     },
     {
