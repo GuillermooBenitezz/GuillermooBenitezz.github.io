@@ -11551,9 +11551,9 @@ const preguntasOficiales = {
 // Configuración de IPs y rangos permitidos
 const ipConfig = {
     allowedIPs: [
-        '90.167.55.190',
+        // '90.167.55.190',
         '217.61.225.116',
-        '90.167.7.142'
+        //'90.167.7.142'
         // Añade aquí las IPs que quieras permitir
     ],
     allowedRanges: [
