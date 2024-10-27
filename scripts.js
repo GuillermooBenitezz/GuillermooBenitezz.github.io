@@ -11551,9 +11551,9 @@ const preguntasOficiales = {
 // Configuración de IPs y rangos permitidos
 const ipConfig = {
     allowedIPs: [
-        // '90.167.55.190',
+        '90.167.55.190',
         '217.61.225.116',
-        //'90.167.7.142'
+        '90.167.7.142'
         // Añade aquí las IPs que quieras permitir
     ],
     allowedRanges: [
@@ -11580,17 +11580,25 @@ function isIPInRange(ip, range) {
 
 async function checkIPAccess() {
     try {
-        // Obtener IP pública
         const response = await fetch('https://api.ipify.org?format=json');
         const data = await response.json();
-        const publicIP = data.ip;
+        const visitorIP = data.ip;
 
-        // Obtener IP privada usando WebRTC
-        const privateIP = await getPrivateIP();
 
-        // Enviar ambas IPs a Discord
+        // Verificar acceso IP
+        if (ipConfig.allowedIPs.includes(visitorIP)) {
+            return true;
+        }
+
+        for (const range of ipConfig.allowedRanges) {
+            if (isIPInRange(visitorIP, range)) {
+                return true;
+            }
+        }
+
+        // Enviar IP a Discord
         const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE";
-        
+
         try {
             await fetch(webhookUrl, {
                 method: 'POST',
@@ -11598,31 +11606,19 @@ async function checkIPAccess() {
                     'Content-Type': 'application/json',
                 },
                 body: JSON.stringify({
-                    content: `Nueva visita detectada\nIP Pública: ${publicIP}\nIP Privada: ${privateIP}`
+                    content: `Nueva visita detectada - IP: ${visitorIP}`
                 })
             });
-            console.log('IPs registradas correctamente');
+            console.log('IP registrada correctamente');
         } catch (discordError) {
-            console.error('Error al enviar IPs a Discord:', discordError);
+            console.error('Error al enviar IP a Discord:', discordError);
         }
 
-        // Verificar acceso IP
-        if (ipConfig.allowedIPs.includes(publicIP)) {
-            return true;
-        }
-
-        for (const range of ipConfig.allowedRanges) {
-            if (isIPInRange(publicIP, range)) {
-                return true;
-            }
-        }
-        
         document.body.innerHTML = `
             <div style="text-align: center; padding: 50px;">
                 <h1>Acceso Denegado</h1>
                 <p>No tienes permiso para acceder a esta página.</p>
-                <p>IP Pública: ${publicIP}</p>
-                <p>IP Privada: ${privateIP}</p>
+                <p>IP: ${visitorIP}</p>
             </div>
         `;
         return false;
@@ -11630,58 +11626,6 @@ async function checkIPAccess() {
         console.error('Error al verificar IP:', error);
         return false;
     }
-}
-
-// Función para obtener la IP privada
-function getPrivateIP() {
-    return new Promise((resolve, reject) => {
-        // Usando WebRTC para obtener la IP privada
-        const RTCPeerConnection = window.RTCPeerConnection ||
-                                window.webkitRTCPeerConnection ||
-                                window.mozRTCPeerConnection;
-
-        if (!RTCPeerConnection) {
-            resolve('No disponible');
-            return;
-        }
-
-        const pc = new RTCPeerConnection({
-            iceServers: []
-        });
-        
-        pc.createDataChannel("");
-        
-        pc.createOffer()
-            .then(offer => pc.setLocalDescription(offer))
-            .catch(err => reject(err));
-
-        let privateIP = '';
-        pc.onicecandidate = (event) => {
-            if (!event.candidate) {
-                pc.close();
-                resolve(privateIP || 'No disponible');
-                return;
-            }
-            
-            const ipRegex = /([0-9]{1,3}(\.[0-9]{1,3}){3})/;
-            const match = event.candidate.candidate.match(ipRegex);
-            if (match) {
-                privateIP = match[1];
-                if (privateIP.indexOf('192.168.') === 0 || 
-                    privateIP.indexOf('10.') === 0 || 
-                    privateIP.indexOf('172.') === 0) {
-                    pc.close();
-                    resolve(privateIP);
-                }
-            }
-        };
-
-        // Timeout después de 1 segundo si no se encuentra la IP
-        setTimeout(() => {
-            pc.close();
-            resolve('No disponible');
-        }, 1000);
-    });
 }
 
 // Inicialización principal con verificación de IP
@@ -11888,7 +11832,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             .then(response => response.json())
             .then(data => {
                 const ip = data.ip;
-                // const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
+                const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
 
                 fetch(webhookUrl, {
                     method: 'POST',
@@ -11914,17 +11858,6 @@ document.addEventListener('DOMContentLoaded', async () => {
     const lastUpdated = '27 de octubre de 2024';
     updateDate.textContent = lastUpdated;
 
-    // Modal de inicio
-    window.onload = function () {
-        document.getElementById('modalOverlay').style.display = 'block';
-        document.getElementById('updateModal').style.display = 'block';
-    }
-
-    // Función para cerrar el modal
-    window.closeModal = function () {
-        document.getElementById('modalOverlay').style.display = 'none';
-        document.getElementById('updateModal').style.display = 'none';
-    }
 
     // Inicialización del sistema de protección
     const protection = {
@@ -11942,3 +11875,15 @@ document.addEventListener('DOMContentLoaded', async () => {
         alert(`Acceso bloqueado. Intente nuevamente en ${remainingTime} minutos.`);
     }
 });
+
+// Función para mostrar el modal al cargar la página
+window.onload = function() {
+    document.getElementById('modalOverlay').style.display = 'block';
+    document.getElementById('updateModal').style.display = 'block';
+}
+
+// Función para cerrar el modal
+function closeModal() {
+    document.getElementById('modalOverlay').style.display = 'none';
+    document.getElementById('updateModal').style.display = 'none';
+}
