@@ -11560,7 +11560,8 @@ const ipConfig = {
     allowedRanges: [
         '',
         '',
-        '90.167.7.0/24',
+        '90.167.7.*', 
+        // Añade aquí los rangos que quieras permitir
     ]
 };
 
