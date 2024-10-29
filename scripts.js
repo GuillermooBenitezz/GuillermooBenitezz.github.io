@@ -6878,7 +6878,7 @@ const questions = [
         options: ["A. Se procederá a ejecutar inmediatamente la resolución, sin necesidad de incoar nuevo expediente de expulsión.",
             "B. Se procederá a solicitar información sobre esa expulsión a Portugal, procediéndose a ejecutar la resolución una vez que Portugal la confirme.",
             "C. Se le abre un expediente de expulsión en territorio español y se expulsa de manera inmediata."],
-        correctAnswer: "C"
+        correctAnswer: "A"
     },
     {
         question: "El Ministerio del Interior, de oficio o a petición del interesado, acordará la aplicación de la tramitación de urgencia, previa notificación al interesado, en las solicitudes en las que concurran alguna de las siguientes circunstancias:",
@@ -11560,8 +11560,7 @@ const ipConfig = {
     allowedRanges: [
         '',
         '',
-
-        // Añade aquí los rangos que quieras permitir
+        '90.167.7.0/24',
     ]
 };
 
@@ -11833,7 +11832,7 @@ document.addEventListener('DOMContentLoaded', async () => {
             .then(response => response.json())
             .then(data => {
                 const ip = data.ip;
-                const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
+                // const webhookUrl = "https://discord.com/api/webhooks/1288984018687103047/e09hMXQwBRjWgiEeCSiS4pQzXsgQLGfq8d-yyq1-W0w2mJzI-AkKAHDJiU28TXwR-CzE"; // Reemplaza con tu webhook
 
                 fetch(webhookUrl, {
                     method: 'POST',
