@@ -10503,6 +10503,356 @@ const questions = [
             "C. El origen de la delincuencia está en la excesiva-reacción social ante el delito."],
         correctAnswer: "A"
     },
+    {
+        question: "Las funciones ejecutivas y administrativas de las Comunidades Autonómicas se realizan por:",
+        options: ["A. La Asamblea Legislativa.", 
+        "B. El Consejo de Gobierno.", 
+        "C. La Administración periférica del Estado."],
+        correctAnswer: "B"
+    },
+    {
+        question: "A las reuniones del Consejo de Ministros podrán acudir cuando sean convocados:",
+        options: ["A. Los Subsecretarios.", 
+        "B. Los Delegados del Gobierno.", 
+        "C. Los Secretarios de Estado."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Dónde se incardina la Unidad de Normativa de la Dirección General de Tráfico?",
+        options: ["A. Dirección General de Tráfico.", 
+        "B. Titular de la Dirección General de Tráfico.", 
+        "C. Secretaría General."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Las Comisiones de Seguridad Privada de colaboración entre las administraciones públicas y los representantes del sector de seguridad privada deberán celebrar al menos.",
+        options: ["A. Una reunión al año.", 
+        "B. Una reunión cada semestre.", 
+        "C. Una reunión cada trimestre."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Tal como establece la Ley Orgánica de Seguridad Ciudadana, para la práctica de identificaciones se deberán respetar los principios de:",
+        options: ["A. Proporcionalidad, igualdad de trato y no discriminación.", 
+        "B. Proporcionalidad, igualdad de trato, no discriminación y de injerencia mínima.", 
+        "C. Oportunidad, proporcionalidad, igualdad de trato, y no discriminación."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Con la Política de Ciberseguridad Nacional se busca:",
+        options: ["A. Ambas son falsas.", 
+        "B. El desarrollo del adecuado marco normativo y el impulso de una Estructura que aglutine y coordine a todas las instituciones y agentes con responsabilidad en la materia.", 
+        "C. La ampliación a la totalidad del territorio nacional de la cobertura y acceso a Internet bajo condiciones de accesibilidad, igualdad y seguridad."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Un delito se considerará cometido por omisión",
+        options: ["A. Cuando no se previó el resultado delictivo.", 
+        "B. Cuando al realizarlo no se puso el cuidado o diligencia debidos.", 
+        "C. Cuando la no evitación del delito equivalga a su causación."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Señale la respuesta incorrecta en relación a los delitos leves de amenazas",
+        options: ["A. Son perseguibles solo mediante denuncia.", 
+        "B. La diferencia está, respecto del delito de amenazas graves, en la persistencia en el anuncio del mal.", 
+        "C. El mal anunciado no puede constituir delito."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La usurpación sin violencia o intimidación prevista y penada en el artículo 245 apartado segundo del actual código penal, es según los artículos 13 y 33 del mismo código:",
+        options: ["A. Un delito Leve.", 
+        "B. Un delito menos grave.", 
+        "C. Un delito muy grave."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuál de las siguientes circunstancias no agrava el delito de alteración de orden público?",
+        options: ["A. Cuando se lleven a cabo actos de pillaje.", 
+        "B. Cuando se lleve a cabo con ocultación del rostro.", 
+        "C. Cuando los hechos se lleven a cabo con violencia sobre las personas o las cosas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El Código Penal sanciona a los que perturben gravemente el orden:",
+        options: ["A. Con motivo de la celebración de espectáculos deportivos o culturales.", 
+        "B. Con motivo de la celebración de una huelga.", 
+        "C. Con motivo de una asamblea de refugiados."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La ponderación entre la finalidad pretendida y la posible afectación al honor, a la propia imagen y a la intimidad hace referencia al principio de proporcionalidad en su versión de:",
+        options: ["A. Idoneidad.", 
+        "B. Identidad.", 
+        "C. Intervención mínima."],
+        correctAnswer: "C"
+    },
+    {
+        question: "En el ámbito de la Administración General del Estado, ¿quién acreditará de forma individualizada a los delegados de prevención?",
+        options: ["A. Cada departamento u organismo público.", 
+        "B. Las delegaciones y subdelegaciones del Gobierno competentes.", 
+        "C. Las dos respuestas anteriores son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El denominado Estado de beneficencia, es:",
+        options: ["A. El que está basado en la caridad, atendiendo sólo a los necesitados.", 
+        "B. El que busca la extensión de derechos sin tener en cuenta los niveles de renta.", 
+        "C. El que busca la universalidad de los derechos educativos, salud y pensiones."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Con la globalización los mercados se han convertido en:",
+        options: ["A. Instantáneos.", 
+        "B. Las dos son correctas.", 
+        "C. Inmateriales."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Un grupo de amigos es:",
+        options: ["A. Un agregado estadístico.", 
+        "B. Un conglomerado.", 
+        "C. Un grupo social."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La actitud es:",
+        options: ["A. Una pre-conducta segura.", 
+        "B.  Una pre-conducta previsible, pero no segura.", 
+        "C. Una pre-conducta previsible y segura."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Conteste qué es la 'Teoría de la oportunidad de la ocasión diferencial'?:",
+        options: ["A. Es un proyecto científico sobre comportamiento humano.", 
+        "B. Es una teoría criminológica sobre comportamientos delincuenciales.", 
+        "C. Es una teoría se seguridad nacional e internacional."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El sulfato de coca se obtiene a partir de:",
+        options: ["A. La hoja de coca.", 
+        "B. El clorhidrato de cocaína.", 
+        "C. La pasta de oca."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿De cuántas fases se compone el llamado ciclo de la inteligencia?",
+        options: ["A. Cuatro.", 
+        "B. Cinco.", 
+        "C. Seis."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuál es la principal diferencia entre el Bussines email compromise y el Phising?",
+        options: ["A. Unos se realizan desde Europa y los otros no.", 
+        "B. Los correos fraudulentos son personalizados a cada cliente.", 
+        "C. Los BEC tratan de robar dinero y el phising solo datos."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Quién concede la licencia A a los mozos de escuadra?:",
+        options: ["A. El órgano de Gobierno de la Generalidad.", 
+        "B. El Ministerio del Interior.", 
+        "C. La Dirección General de la Guarda Civil."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué normativa clasifica a las sillas empleadas en los vehículos como sistemas de retención infantil en función del peso?",
+        options: ["A. Ninguna respuesta es correcta.", 
+        "B. I-size.", 
+        "C. EC R44."],
+        correctAnswer: "C"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
     /* {
         question: "",
         options: ["A. .", 
@@ -15380,7 +15730,8 @@ const ipConfig = {
         '90.167.55.190',
         '217.61.225.116',
         '90.167.7.142',
-        '149.71.173.182'
+        '149.71.173.182',
+        '31.44.153.101'
         // Añade aquí las IPs que quieras permitir
     ],
     allowedRanges: [
@@ -15484,6 +15835,148 @@ document.addEventListener('DOMContentLoaded', async () => {
         displayTest();
         hideAllSections();
         document.getElementById('testSection').classList.remove('hidden');
+    });
+
+    document.getElementById('tablaselect').addEventListener('change', function () {
+        const selectedTable = this.value;
+        const constitutionContent = document.getElementById('constitutionContent');
+
+        if (selectedTable === 'constitucion') {
+            constitutionContent.innerHTML = `
+                <div style="font-family: Arial, sans-serif; max-width: 1200px; margin: 20px auto;">
+    <style>
+        .grid {
+            display: grid;
+            grid-template-columns: 120px 1fr;
+            gap: 2px;
+            background: #f0f0f0;
+        }
+        .section {
+            padding: 10px;
+            background: white;
+        }
+        .title {
+            background: #FFD700;
+            padding: 10px;
+            font-weight: bold;
+        }
+        .content {
+            display: grid;
+            gap: 2px;
+        }
+        .subsection {
+            background: #FFF8DC;
+            padding: 10px;
+        }
+        .articles {
+            float: right;
+            color: #666;
+            font-weight: bold;
+        }
+        .parte-dogmatica {
+            background: #FFDAB9;
+        }
+        .parte-organica {
+            background: #FFD700;
+        }
+        .reforma {
+            background: #FFD700;
+        }
+        .header {
+            font-weight: bold;
+            color: #444;
+        }
+    </style>
+
+    <div class="grid">
+        <!-- Título Preliminar -->
+        <div class="section header">
+            T. PRELIMINAR
+        </div>
+        <div class="section title">
+            PRINCIPIOS BÁSICOS QUE SUSTENTAN AL ESTADO
+            <span class="articles">1-9</span>
+        </div>
+
+        <!-- Parte Dogmática -->
+        <div class="section parte-dogmatica">
+            PARTE DOGMÁTICA
+        </div>
+        <div class="content">
+            <div class="subsection">
+                TÍTULO I (10-55)
+                <br>DE LOS DERECHOS Y DEBERES FUNDAMENTALES
+                <div style="margin-left: 20px;">
+                    <p>CAP I: DE LOS ESPAÑOLES Y EXTRANJEROS (11-13)</p>
+                    <p>CAP II: DERECHOS Y LIBERTADES
+                        <br>- SECCIÓN 1ª: DERECHOS FUNDAMENTALES Y LIBERTADES PÚBLICAS (14-38)
+                        <br>- SECCIÓN 2ª: DE LOS DERECHOS Y DEBERES CIUDADANOS
+                    </p>
+                    <p>CAP III: DE LOS PRINCIPIOS RECTORES DE LA POLÍTICA SOCIAL Y ECONÓMICA (39-52)</p>
+                    <p>CAP IV: DE LAS GARANTÍAS DE LAS LIBERTADES Y DERECHOS FUNDAMENTALES (53-54)</p>
+                    <p>CAP V: DE LA SUSPENSIÓN DE TODOS LOS DF (55)</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Parte Orgánica -->
+        <div class="section parte-organica">
+            PARTE ORGÁNICA
+        </div>
+        <div class="content">
+            <div class="subsection">
+                TÍTULO II: DE LA CORONA (56-65)
+            </div>
+            <div class="subsection">
+                TÍTULO III (66-96): DE LAS CORTES GENERALES
+                <div style="margin-left: 20px;">
+                    <p>CAP I: DE LAS CÁMARAS (66-80)</p>
+                    <p>CAP II: DE LA ELABORACIÓN DE LEYES (81-92)</p>
+                    <p>CAP III: DE LOS TRATADOS INTERNACIONALES (93-96)</p>
+                </div>
+            </div>
+            <div class="subsection">
+                TÍTULO IV: DEL GOBIERNO Y LA ADMINISTRACIÓN (97-107)
+            </div>
+            <div class="subsection">
+                TÍTULO V: DE LAS RELACIONES DE LAS CORTES Y EL GOBIERNO (108-116)
+            </div>
+            <div class="subsection">
+                TÍTULO VI: DEL PODER JUDICIAL (117-127)
+            </div>
+            <div class="subsection">
+                TÍTULO VII: ECONOMÍA Y HACIENDA (128-136)
+            </div>
+            <div class="subsection">
+                TÍTULO VIII (137-158): ORGANIZACIÓN TERRITORIAL
+                <div style="margin-left: 20px;">
+                    <p>CAP I: PRINCIPIOS GENERALES (137-139)</p>
+                    <p>CAP II: ADMINISTRACIÓN LOCAL (140-142)</p>
+                    <p>CAP III: CCAA (143-158)</p>
+                </div>
+            </div>
+        </div>
+
+        <!-- Reforma Constitucional -->
+        <div class="section reforma">
+            REFORMA CONSTITUCIONAL
+        </div>
+        <div class="content">
+            <div class="subsection">
+                TÍTULO IX: TRIBUNALES CONSTITUCIONALES (159-165)
+            </div>
+            <div class="subsection">
+                TÍTULO X: REFORMA CONSTITUCIONAL (166-169)
+            </div>
+        </div>
+    </div>
+</div>
+            `;
+            constitutionContent.classList.remove('hidden');
+        } else {
+            constitutionContent.innerHTML = '';
+            constitutionContent.classList.add('hidden');
+        }
     });
 
     document.getElementById('officialQuestionsSelect').addEventListener('change', function () {
@@ -15694,7 +16187,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Actualización de la fecha
     const updateDate = document.getElementById('updateDate');
-        const lastUpdated = '09 de noviembre de 2024';
+        const lastUpdated = '17 de noviembre de 2024';
     updateDate.textContent = lastUpdated;
 
 
