@@ -10665,192 +10665,192 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "En caso de enfermedad grave del extranjero:",
+        options: ["A. No podrá producirse el internamiento..", 
+        "B. El juez valorará el riesgo del internamiento solamente para la salud pública..", 
+        "C. El juez valorará el riesgo del internamiento para la salud pública o la salud del propio extranjero.."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Real Decreto  por el que se aprueba el Reglamento del reconocimiento del estatuto de apátrida:",
+        options: ["A. Real Decreto 865/2001, de 20 de julio.", 
+        "B. Real Decreto 2/2006, de 16 de enero..", 
+        "C. Real Decreto 67/2010, de 29 de enero.."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cómo es el interior (ánima) de los cañones de las escopetas?:",
+        options: ["A. Liso o estriado.", 
+        "B. Liso.", 
+        "C. Con estrías paralelas."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Los visados expedidos en frontera tendrán que ser visados uniformes:",
+        options: ["A. Con una única entrada y una salida.", 
+        "B. Con doble entrada.", 
+        "C. Con múltiples entradas si justifica la necesidad."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién ejerce la representación global del Consejo como institución comunitaria?",
+        options: ["A. ministro-presidente del Consejo de Asuntos de Exterior.", 
+        "B. ministro-presidente del Consejo de Asuntos Generales.", 
+        "C. ministro-presidente del Consejo de Asuntos de la Presidencia."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "¿A qué Ministerio están adscritos orgánicamente los Delegados del Gobierno en las Comunidades Autónomas?:",
+        options: ["A. Interior.", 
+        "B. Política Territorial.", 
+        "C. Presidencia del Gobierno."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Señale la respuesta correcta:",
+        options: ["A. La inteligencia interpersonal es la facilidad para entender los sentimientos e intenciones de los demás.", 
+        "B. La inteligencia interpersonal es la alta capacidad de autoevaluación de los sentimientos y las metas vitales que el individuo se plantea..", 
+        "C. La inteligencia intrapersonal es la facilidad para entender los sentimientos e intenciones de los demás."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los grupos cuyos miembros tienen ocupaciones semejantes, constituyen los llamados",
+        options: ["A. Grupos horizontales.", 
+        "B. Grupos estables.", 
+        "C. Grupos formales."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La figura del agente encubierto viene regulada ¿en qué artículo de la Ley de Enjuiciamiento Criminal?",
+        options: ["A. Art 282 LEC.", 
+        "B. Art 282 bis LEC.", 
+        "C. Art 282 ter LEC."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Los analgésicos, son sustancias:",
+        options: ["A. Hipnóticas.", 
+        "B. Sedantes.", 
+        "C. Tranqulizantes."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Señale la respuesta correcta, los analistas de inteligencia:",
+        options: ["A. Seleccionan a sus fuentes y obtienen información de las mismas, ya sean fuentes humanas, fuentes abiertas, imágenes, señales, o cualquier otra.", 
+        "B. Contrastan la información obtenida y producen inteligencia mediante la aplicación de técnicas estructuradas y no estructuradas de inteligencia.", 
+        "C. Dirigen la Unidad de Inteligencia, gestionan los recursos y planifican/priorizan las actividades en base a la Directiva de Inteligencia."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Se considera testigo directo:",
+        options: ["A. El que presenciare la perpetración de cualquier delito público.", 
+        "B. El que presenciare la perpetración de cualquier delito privado.", 
+        "C. El que presenciare la perpetración de cualquier delito público y/o privado."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los derechos sociales son derechos:",
+        options: ["A. De carácter individual y positivos..", 
+        "B. De carácter colectivo y positivos.", 
+        "C. De carácter individual y negativos.."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿A qué tribunal remite la Declaración Universal de los DDHH, en relación con los recursos contra la violación de algunos de los derechos reconocidos en ella?",
+        options: ["A. A los tribunales internacionales.", 
+        "B. A los tribunales nacionales competentes.", 
+        "C. Al Tribunal de La Haya."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "¿De cuántos años será el mandato del Director del Centro Nacional de Inteligencia?",
+        options: ["A. Cuatro años.", 
+        "B. Cinco años.", 
+        "C. Tres años."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Los ODS de la Agenda 2030 para el Desarrollo Sostenible entraron en vigor:",
+        options: ["A. El 1 de enero de 2015.", 
+        "B. El 1 de enero de 2016.", 
+        "C. El 1 de enero de 2017."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Define y ejecuta la política exterior y de seguridad común de la UE basándose en las directrices fijadas por el Consejo Europeo.",
+        options: ["A. SEAE.", 
+        "B. Comisión.", 
+        "C. Consejo."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué porcentaje de las vacantes que se produzcan en la categoría de subinspector se reservan para la promoción interna por concurso-oposición?:",
+        options: ["A. La de 1/3.", 
+        "B. La de 2/3.", 
+        "C. La de 3/4."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Qué significado tiene la expresión “contagio mental” en una multitud:",
+        options: ["A. Que el individuo se deja llevar por sus instintos más primarios.", 
+        "B. Que el individuo se ve influenciado por lo que hacen los demás.", 
+        "C. Que el individuo se convierte en un ser sin voluntad."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La Administración General del Estado y las demás administraciones públicas con competencias en materia de seguridad ciudadana se regirán, en sus relaciones, por los principios de:",
+        options: ["A. Coordinación y cooperación.", 
+        "B. Cooperación y lealtad institucional.", 
+        "C. Cooperación e igualdad de trato y no discriminación."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Abierto el juicio oral, ¿qué plazo se otorga para que el fiscal y, posteriormente, las acusaciones y actores civiles hagan sus escritos de calificación?",
+        options: ["A. 5 Dias.", 
+        "B. 10 Dias.", 
+        "C. 15 Dias."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Cuál es la duración mínima de la pena de prisión?:",
+        options: ["A. Seis meses.", 
+        "B. Tres meses.", 
+        "C. Un año."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "¿De quién se requiere autorización para efectuar el nombramiento de personal funcionario interino?",
+        options: ["A. Del Consejo Superior de la Función Pública.", 
+        "B. Autorización conjunta de los Ministerios Política Territorial y Función Pública y Ministerio de Hacienda.", 
+        "C. De la Junta de Personal del área funcional en donde se encuentren los puestos de trabajo de cobertura temporal."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "En que consiste la prestación de un servicio en comisión de servicios: ",
+        options: ["A. Prestar servicio por un periodo no inferior a un año y superior a seis meses.", 
+        "B. Prestar servicio por un periodo no superior a dos años.", 
+        "C. Prestar servicio por un periodo inferior a seis meses."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué droga es conocida como “la droga de los yihadistas”?:",
+        options: ["A. El captagón.", 
+        "B. La ketamina.", 
+        "C. La metanfetamina."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La creación de Cuerpos de Policía de las CCAA corresponde:",
+        options: ["A. A los órganos competentes de cada comunidad autónoma, previa autorización del Gobierno de la nación.", 
+        "B. A los órganos competentes de cada comunidad autónoma, previo informe del Consejo de Política de Seguridad, si así está previsto en los respectivos Estatutos.", 
+        "C. Al Consejo de Ministros, previa consulta con el Delegado del Gobierno en la Comunidad Autónoma, según la Ley Orgánica 2/1986."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Con respecto a los controles móviles, se vigilarán con unidades móviles los espacios de las fronteras exteriores situados en los pasos fronterizos, así como los pasos fronterizos fuera de las horas normales de apertura. Estos controles pretenden:",
+        options: ["A. Comprobar la documentación de quienes pretendan cruzar la frontera.", 
+        "B. Disuadir a personas no autorizadas el cruce de la frontera.", 
+        "C. Ninguna de las respuestas es correcta."],
         correctAnswer: "B"
     },
     /* {
@@ -16187,7 +16187,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Actualización de la fecha
     const updateDate = document.getElementById('updateDate');
-        const lastUpdated = '17 de noviembre de 2024';
+        const lastUpdated = '23 de noviembre de 2024';
     updateDate.textContent = lastUpdated;
 
 
