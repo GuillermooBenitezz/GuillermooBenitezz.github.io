@@ -2316,14 +2316,6 @@ const questions = [
         correctAnswer: "B"
     },
     {
-        question: "En todo caso la comisión de una tercera infracción leve constituirá:",
-        options: ["A. Una infracción grave.",
-            "B. Una infracción muy grave.",
-            "C. Ninguna es correcta."],
-        topic: 101112,
-        correctAnswer: "C"
-    },
-    {
         question: "¿Quiénes podrán visitar los centros de internamiento?",
         options: ["A. Las organizaciones constituidas legalmente en España para la defensa de los inmigrantes.",
             "B. Los organismos internacionales pertinentes.",
@@ -4169,15 +4161,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "¿Cuál de las siguientes circunstancias no agrava el delito de alteración de orden público?",
-        options: [
-            "A. Cuando se lleven a cabo actos de pillaje.",
-            "B. Cuando se lleve a cabo con ocultación del rostro.",
-            "C. Cuando los hechos se lleven a cabo con violencia sobre las personas o las cosas."
-        ],
-        correctAnswer: "C"
-    },
-    {
         question: "El Pacto de Estado contra la Violencia de Género fue aprobado:",
         options: [
             "A. El 28 de noviembre de 2017 por el Congreso de los Diputados.",
@@ -5739,15 +5722,6 @@ const questions = [
             "A. Para determinar diferentes sentidos posibles de una misma oración.",
             "B. Para delimitar elementos o unidades dentro de un mismo enunciado.",
             "C. Para distribuir incisos."
-        ],
-        correctAnswer: "C"
-    },
-    {
-        question: "Tienen derecho a solicitar la protección internacional en España:",
-        options: [
-            "A. Las personas nacionales de otros estados, los apátridas presentes en territorio español y los refugiados.",
-            "B. Las personas nacionales comunitarias y los apátridas presentes en territorio español.",
-            "C. Las personas nacionales comunitarias y los apátridas presentes en territorio español y los refugiados."
         ],
         correctAnswer: "C"
     },
@@ -10567,13 +10541,6 @@ const questions = [
         correctAnswer: "A"
     },
     {
-        question: "¿Cuál de las siguientes circunstancias no agrava el delito de alteración de orden público?",
-        options: ["A. Cuando se lleven a cabo actos de pillaje.", 
-        "B. Cuando se lleve a cabo con ocultación del rostro.", 
-        "C. Cuando los hechos se lleven a cabo con violencia sobre las personas o las cosas."],
-        correctAnswer: "C"
-    },
-    {
         question: "El Código Penal sanciona a los que perturben gravemente el orden:",
         options: ["A. Con motivo de la celebración de espectáculos deportivos o culturales.", 
         "B. Con motivo de la celebración de una huelga.", 
@@ -10851,6 +10818,342 @@ const questions = [
         options: ["A. Comprobar la documentación de quienes pretendan cruzar la frontera.", 
         "B. Disuadir a personas no autorizadas el cruce de la frontera.", 
         "C. Ninguna de las respuestas es correcta."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La distribución de los fondos que la Casa Real recibe de los Presupuestos del Estado:",
+        options: ["A. Se hará libremente por el Rey.", 
+        "B. Está sujeta a fiscalización previa.", 
+        "C. Será justificada ante el Tribunal de Cuentas."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Quién nombra a los miembros del CESE?",
+        options: ["A. El Consejo Europeo.", 
+        "B. El Consejo.", 
+        "C. El Parlamento."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Con carácter general, ¿ De quién dependerán los agregados de interior?",
+        options: ["A. De los oficiales de enlace.", 
+        "B. De los consejeros de interior.", 
+        "C. Del jefe de la misión diplomática en la cual estén destinados."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Según el art. 8.1 del Estatuto Básico del Empleado Público, quienes desempeñan funciones retribuidas en las Administraciones Públicas, son:",
+        options: ["A. Empleados públicos.", 
+        "B. Funcionarios públicos.", 
+        "C. Los dos anteriores."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La tramitación de los asuntos relacionados con las Delegaciones y Subdelegaciones del Gobierno en las materias propias del Ministerio del Interior corresponde a:   ",
+        options: ["A. La Secretaría de Estado de Seguridad.", 
+        "B. La Dirección General de Política Interior.", 
+        "C. Ninguna respuesta es correcta."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La comisión de servicios supone:",
+        options: ["A. Pasar a excedencia por incompatibilidad de funciones.", 
+        "B. Consiste en realizar un puesto de trabajo de carácter temporal, renunciando al puesto de trabajo que venía desempeñando..", 
+        "C. Consiste en realizar un puesto de trabajo de carácter temporal, reservando a su vez el puesto de trabajo que venía desempeñando."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Señale cuál de los siguientes no es un motivo de expulsión fuera de la Unión Europea de un residente de larga duración de otro estado miembro que se encuentre en España:",
+        options: ["A. El incumplimiento de medidas de presentación periódica.", 
+        "B. Actividades contrarias al orden público previstas como graves.", 
+        "C. La comisión de una tercera infracción grave siempre que en un plazo de un año anterior hubiera sido sancionado por dos faltas graves de la misma naturaleza."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Podrá el responsable del tratamiento de los datos sancionar o remover del cargo al Delegado de Protección de datos?",
+        options: ["A. No, no podrá ser removido ni sancionado por el responsable o el encargado por desempeñar sus funciones.", 
+        "B. Sí,si incurriera en dolo o negligencia grave en su ejercicio.", 
+        "C. Ninguna de las respuestas es correcta."],
+        correctAnswer: "B"
+    },
+    {
+        question: "En el mundo económico, hablar de asimetría, es referirse a:",
+        options: ["A. Ninguna respuesta es cierta.", 
+        "B. Una característica del fenómeno de la antiglobalización.", 
+        "C. Una característica del fenómeno de la globalización."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Los términos primero, segundo y tercer mundo surgieron tras: ",
+        options: ["A. La 2ª Guerra Mundial.", 
+        "B. La 1ª Guerra Mundial.", 
+        "C. La Revolución Francesa."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Considerar que nuestra cultura es superior a las demás, es:",
+        options: ["A. Grupocentrismo étnico.", 
+        "B. Etnocentrismo.", 
+        "C. Las dos son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué función de las actitudes sirve a las personas para alcanzar objetivos que le reporten beneficios tangibles?:",
+        options: ["A. Función instrumental.", 
+        "B. Función económica.", 
+        "C. Función cognoscitiva."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Del estudio de las leyes necesarias para regular la convivencia social, se encarga:",
+        options: ["A. La Dinámica social.", 
+        "B. La Estática social.", 
+        "C. La Sociología."],
+        correctAnswer: "B"
+    },
+    {
+        question: "El desplazado:",
+        options: ["A. Las dos respuestas son correctas.", 
+        "B. Huye de su país a causa de guerras, revoluciones, etc.", 
+        "C. Abandona el lugar donde vive habitualmente, dirigiéndose a otra zona de su país, a causa de guerras, revoluciones, etc."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué ciencia estudia las medidas de cuerpo humano?",
+        options: ["A. Antropología biológica.", 
+        "B. Antropología física.", 
+        "C. Antropometría."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La seguridad subjetiva depende de:",
+        options: ["A. Los valores del individuo.", 
+        "B. La actitud del individuo.", 
+        "C. La personalidad del individuo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La conocida como heroína francesa, es la heroína:",
+        options: ["A. Número cuatro.", 
+        "B. Heroína  negra.", 
+        "C. Número tres."],
+        correctAnswer: "A"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
         correctAnswer: "B"
     },
     /* {
@@ -15731,12 +16034,13 @@ const ipConfig = {
         '217.61.225.116',
         '90.167.7.142',
         '149.71.173.182',
-        '31.44.153.101'
+        '31.44.153.101',
+        '185.124.31.134',
         // Añade aquí las IPs que quieras permitir
     ],
     allowedRanges: [
-        '',
-        '',
+        '185.124.*.*',
+        '90.167.*.*',
         '90.167.7.*', 
         // Añade aquí los rangos que quieras permitir
     ]
