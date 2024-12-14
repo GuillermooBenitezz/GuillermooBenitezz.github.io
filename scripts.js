@@ -10940,220 +10940,199 @@ const questions = [
         correctAnswer: "A"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Son consideradas infracciones graves, de acuerdo con el artículo 65.4 del Reglamento General de Circulación:",
+        options: ["A. Circular en servicio de urgencia por los arcenes en sentido contrario.", 
+        "B. Reducir la velocidad o la distancia entre vehículos mientras van en servicio de urgencia.", 
+        "C. Toda vulneración de las ordenaciones especiales de Tráfico por razones de fluidez de la circulación."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Un revólver del calibre 45, con una longitud total de 35 cm. y con un cañón de otros 35 cm. ¿qué clase arma de fuego es conforme al Reglamento de Armas?:",
+        options: ["A. Corta.", 
+        "B. Larga.", 
+        "C. Ninguna de las dos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Durante cuánto tiempo estará a disposición del titular de un arma que le hubiera sido ocupada por infracción de la Ley de Caza, una vez que la autoridad competente acuerde su devolución?:",
+        options: ["A. Un mes.", 
+        "B. Tres años.", 
+        "C. Un año."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El spaming de contacto consiste en:",
+        options: ["A. Recibir correos electrónicos infectados por parte de un contacto que tenemos en nuestra agenda.", 
+        "B. Un virus que elimina todos los contactos de nuestra agenda.", 
+        "C. Ninguna de las anteriores es correcta."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La obtención de información en el ámbito de OSINT de cuántos tipos puede ser:",
+        options: ["A. Tres.", 
+        "B. Cuatro.", 
+        "C. Cinco."],
+        correctAnswer: "A"
+    },
+    {
+        question: "En una red malla los mensajes se envían:",
+        options: ["A. En forma de árbol.", 
+        "B. En forma de estrella.", 
+        "C. Conectando los nodos por diferentes caminos."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Un tipo de conector de red:",
+        options: ["A. Conexión a internet.", 
+        "B. Conexión entre varios equipos de la red.", 
+        "C. Función de punto de acceso."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Las palabras “aire” y “causa”, forman:",
+        options: ["A. Las dos son correctas.", 
+        "B. Un diptongo.", 
+        "C. Un hiato."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "La frase 'Habría que empezar a empacar.' es una frase:",
+        options: ["A. Personal.", 
+        "B. Impersonal.", 
+        "C. Copulativa."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "La Estrategia Española de Desarrollo Sostenible, que se enmarca dentro de la Estrategia de Desarrollo Sostenible de la Unión Europea renovada aborda todas las áreas prioritarias definidas en la Estrategia Europea, ¿De cuántas áreas estamos hablando?",
+        options: ["A. De 3 áreas divididas en 6 dimensiones de sostenibilidad.", 
+        "B. De 6 áreas divididas en 3 dimensiones de sostenibilidad.", 
+        "C. De 3 áreas divididas en 3 dimensiones de sostenibilidad."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "El indicador de sostenibilidad que permite valorar la gestión del agua y sensibilizar a la población sobre el mismo, es:",
+        options: ["A. La huella de carbono.", 
+        "B. La huella ecológica.", 
+        "C. La huella hídrica."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Habrá que adoptar medidas eficaces para evitar la degradación del medio ambiente es el argumento ¿de qué principio?",
+        options: ["A. Principio de prevención.", 
+        "B. Principio de corrección en la fuente.", 
+        "C. Principio de cautela."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Qué es el K2 o Spice?:",
+        options: ["A. Una mezcla de heroína y hachís.", 
+        "B. Marihuana sintética.", 
+        "C. Catinona sintética."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "La “efedrina” es el alcaloide de:",
+        options: ["A. Cornezuelo de centeno.", 
+        "B. Xantinas.", 
+        "C. Anfetaminas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Las tasas de mortalidad se ven alteradas con los desplazamientos:",
+        options: ["A. Al aumentar la mortalidad infantil en el país de destino.", 
+        "B. Al aumentar en el país de origen y bajar en el de destino.", 
+        "C. Al bajar en el país de origen y aumentar en el de destino."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "¿Qué modelo de convivencia y política de acomodación de los inmigrantes es una especie de inculturación o inculturización?:",
+        options: ["A. El pluralismo cultural.", 
+        "B. El modelo del “trabajador invitado”.", 
+        "C. El “melting pot”."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Señala la respuesta correcta:",
+        options: ["A. La globalización trae consigo la difuminación de las fronteras.", 
+        "B. La globalización trae consigo el desvanecimiento de las fronteras.", 
+        "C. Las dos respuestas con correctas."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "La Dirección General de la Policía cuando pretenda desarrollar planes y programas de carácter general, así como cuando se proponga dictar disposiciones normativas en cuestiones que afecten a la seguridad y salud en el trabajo de los funcionarios se someterá a informe de:",
+        options: ["A. Los comités de Seguridad y Salud de la Policía.", 
+        "B. La Comisión de seguridad y salud laboral policial.", 
+        "C. El Instituto Nacional de Seguridad y Salud."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "El principio de unidad de actuación y dependencia jerárquica es propio de:",
+        options: ["A. El Poder Judicial.", 
+        "B. La Policía Judicial.", 
+        "C. El Ministerio Fiscal."],
+        correctAnswer: "C"
+    },
+    {
+        question: "Jose Antonio se introduce en el supermercado de El Corte Ingles, guardándose entre sus ropas un paquete de jamón serrano Joselito valorado en 27,99 euros. Instantes después y dentro aún del establecimiento es interceptado por un Vigilante de Seguridad que le pide que le acompañe, momento en el que Jose Antonio empuja fuertemente al Vigilante, cayendo este al suelo y saliendo Jose Antonio por la línea de caja, una vez en la calle es interceptado por el indicativo Z-22. El vigilante como consecuencia de la caída ha sufrido una fractura de muñeca, que ha precisado una intervención quirúrgica y 34 sesiones de fisioterapia para su curación, sin secuelas tras esta. José Antonio responderá de:",
+        options: ["A. Un delito leve de hurto, al ser el precio inferior a 400 euros.", 
+        "B. Un delito de robo violento agravado por las lesiones causadas.", 
+        "C. Un delito de robo violento agravado más un delito de lesiones."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El delito de abuso sexual se caracteriza por:",
+        options: ["A. El uso de la violencia o intimidación en el ataque a la libertad sexual.", 
+        "B. El ataque a la libertad sexual sin violencia ni intimidación, pero sin que medie consentimiento o estando este viciado.", 
+        "C. El ataque a la libertad sexual con violencia o intimidación y sin consentimiento."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "La primera Ley en España por la que se establecen medidas para la protección de las infraestructuras críticas fue aprobada en:",
+        options: ["A. 2007.", 
+        "B. 2011.", 
+        "C. 2008."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "El Control administrativo sobre armas, explosivos cartuchería y artículos pirotécnicos corresponde a:",
+        options: ["A. El Gobierno.", 
+        "B. Ministerio del Interior.", 
+        "C. Dirección General de la Guardia Civil."],
+        correctAnswer: "A"
+    },
+    {
+        question: "El ejercicio de las facultades de inspección, las medidas provisionales y el régimen sancionador serán aplicables a:",
+        options: ["A. Personal que ejerzan funciones de seguridad y estén habilitados.", 
+        "B. Personal que ejerzan funciones de seguridad sin estar habilitados.", 
+        "C. a) y b) son correctas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "¿Cuántos tipos de procedimientos existen por los que se puede tramitar la expulsión de un extranjero?",
+        options: ["A. Cuatro.", 
+        "B. Dos.", 
+        "C. Tres."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Quien se encarga de gestionar la tramitación y propuestas de resolución de las reclamaciones y recursos administrativos y judiciales en la Policía Nacional:",
+        options: ["A. La División de Documentación de la Subdirección General de Logística e Innovación.", 
+        "B. La División de Personal, el área de asuntos jurídicos de la Secretaría General.", 
+        "C. La Subdirección General de Recursos Humanos y Formación, concretamente en la Unidad de Gestión de Personal Policial de la División de Personal."],
         correctAnswer: "B"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
+        question: "Eurojust está formado por un colegio de :",
+        options: ["A. 29 representantes.", 
+        "B. 30 representantes.", 
+        "C. 28 representantes."],
+        correctAnswer: "C"
     },
     {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
-        correctAnswer: "B"
-    },
-    {
-        question: "",
-        options: ["A. .", 
-        "B. .", 
-        "C. ."],
+        question: "Comenzó sus actividades el 3 de Octubre de 2005:",
+        options: ["A. Eurojust.", 
+        "B. Frontex.", 
+        "C. OLAF."],
         correctAnswer: "B"
     },
     /* {
