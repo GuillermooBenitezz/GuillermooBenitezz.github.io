@@ -3050,13 +3050,6 @@ const questions = [
         correctAnswer: "C"
     },
     {
-        question: "El Sistema de Protección de lnfraestructuras Críticas se compone de una serie de instituciones, órganos y empresas, procedentes tanto del sector público como del privado, cuyo responsable recae sobre:",
-        options: ["A. El Secretario de Estado de Seguridad.",
-            "B. En el responsable del Centro Nacional para la Protección de las Infraestructuras Críticas.",
-            "C. El Ministerio del lnterior."],
-        correctAnswer: "A"
-    },
-    {
         question: "Alexia recibe una llamada telefónica en la que se le amenaza con causarle la muerte cuando salga de su domicilio. La persona que realiza tal llamada la hace en nombre de una entidad. Nos encontramos aquí ante un caso de:",
         options: ["A. Amenazas graves puras agravadas porque se ha realizado por teléfono y también en nombre de una entidad.",
             "B. Amenazas graves puras agravadas porque se ha realizado por teléfono.",
@@ -11135,6 +11128,69 @@ const questions = [
         "C. OLAF."],
         correctAnswer: "B"
     },
+    {
+        question: "En las actuaciones de inspección de tipo extraordinarias dentro de la Inspección de Personal y Servicios de Seguridad, aquellas que deben ser expresamente ordenadas por el Secretario de Estado de Seguridad son:",
+        options: ["A. Incidentales.", 
+        "B. De Prevención de Riesgos Laborales.", 
+        "C. Puntuales o de conocimiento."],
+        correctAnswer: "A"
+    }, 
+    {
+        question: "Tal como indica la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público Los elementos organizativos básicos de las estructuras orgánicas son:",
+        options: ["A. los órganos administrativos.", 
+        "B. las entidades dependientes.", 
+        "C. las unidades administrativas."],
+        correctAnswer: "C"
+    }, 
+    {
+        question: "En las reuniones del Comité de Seguridad y Salud participarán, con voz pero sin voto:",
+        options: ["A. Los Delegados laborales y los responsables técnicos de la prevención en la empresa que estén incluidos en la composición del mismo.", 
+        "B. Los Delegados Sindicales y los responsables técnicos de la prevención en la empresa que no estén incluidos en la composición del mismo.", 
+        "C. Los Delegados Sindicales y los responsables técnicos de la prevención en la empresa que estén incluidos en la composición del mismo."],
+        correctAnswer: "B"
+    }, 
+    {
+        question: "Qué jurisdicción tiene el Tribunal Europeo de DDHH:",
+        options: ["A. Europea.", 
+        "B. Universal.", 
+        "C. Internacional."],
+        correctAnswer: "C"
+    }, 
+    {
+        question: "En el año 2001 tuvo lugar en Barcelona una gran movilización antiglobalización contra:",
+        options: ["A. BM.", 
+        "B. OMC.", 
+        "C. OCDE."],
+        correctAnswer: "A"
+    }, 
+    {
+        question: "¿Qué función de la xenofobia busca una cabeza de turco en el exogrupo?:",
+        options: ["A. La de proyección.", 
+        "B. La del desplazamiento.", 
+        "C. La de la intolerancia."],
+        correctAnswer: "B"
+    }, 
+    {
+        question: "¿Quién sostuvo que el individuo es un producto de la sociedad?",
+        options: ["A. Emile Durkheim.", 
+        "B. Peter Berger.", 
+        "C. Max Weber."],
+        correctAnswer: "A"
+    }, 
+    {
+        question: "La “xantina” es un alcaloide:",
+        options: ["A. Semisintético.", 
+        "B. Sintético.", 
+        "C. Se encuentra en algunas plantas."],
+        correctAnswer: "C"
+    }, 
+    {
+        question: "La Estrategia Española de Desarrollo Sostenible:",
+        options: ["A. Fue renovada en el Consejo de Bruselas en el año 2006 con un principio general y dos adicionales.", 
+        "B. Fue renovada en el Consejo de Bruselas en el año 2006 con un principio general y uno adicional.", 
+        "C. Fue renovada en el Consejo de Bruselas en el año 2006 con un principio general."],
+        correctAnswer: "C"
+    }, 
     /* {
         question: "",
         options: ["A. .", 
@@ -16021,6 +16077,11 @@ const ipConfig = {
         '185.124.*.*',
         '90.167.*.*',
         '90.167.7.*', 
+        '90.166.*.*',
+        '90.165.*.*',
+        '90.169.*.*',
+        '90.170.*.*',
+        '90.164.*.*'
         // Añade aquí los rangos que quieras permitir
     ]
 };
@@ -16470,7 +16531,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Actualización de la fecha
     const updateDate = document.getElementById('updateDate');
-        const lastUpdated = '23 de noviembre de 2024';
+        const lastUpdated = '21 de diciembre de 2024';
     updateDate.textContent = lastUpdated;
 
 
