@@ -11942,7 +11942,209 @@ const questions = [
             "C. 5 años."],
         correctAnswer: "B"
     },
-
+    {
+        question: "Es incorrecto afirmar con respecto a lo establecido en la Constitución para el Tribunal Constitucional:",
+        options: ["A. Ante las sentencias del Tribunal Constitucional cabe el recurso ante la Sala Tercera, de lo Contencioso-Administrativo del Tribunal Supremo.", 
+        "B. Sus sentencias son publicadas en el BOE, tomando estas el valor de cosa juzgada a partir del día siguiente de su publicación.", 
+        "C. Su funcionamiento, el estatuto de sus miembros, los procedimientos ante el propio Tribunal y otros aspectos son desarrollados con posterioridad en una ley orgánica."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Los embajadores serán designados y cesados:",
+        options: ["A. Por Real Decreto del Consejo de Ministros, a propuesta del titular del Ministerio o del Presidente del Gobierno.", 
+        "B. Por Real Decreto acordado en Consejo de Ministros a propuesta del Ministro de Asuntos Exteriores, UE y Cooperación.", 
+        "C. Por Real Decreto del Consejo de Ministros, a iniciativa del Ministro interesado y a propuesta del Ministro de Hacienda y Administraciones Públicas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "La Subdirección General de Protección Internacional se integra en la estructura de la:",
+        options: ["A. Dirección General de Política Interior.", 
+        "B. Dirección General de la Policía.", 
+        "C. Dirección General de Relaciones Internacionales y Extranjería."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La gestión de las competencias del Ministerio de Interior relativas a los procesos electorales y consultas directas al electorado, corresponde a:      ",
+        options: ["A. La Subsecretaría del Interior, a través de la Dirección General de Política Interior.", 
+        "B. La Dirección General de la Policía.", 
+        "C. La Secretaría de Estado de Seguridad."],
+        correctAnswer: "A"
+    },
+    {
+        question: "La validez del documento de viaje que se reconoce a los apátridas será de:",
+        options: ["A. Tres años.", 
+        "B. Dos años.", 
+        "C. Un año."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Se considera que más del ... % de los hogares españoles dispone de acceso a Internet.",
+        options: ["A. 50.", 
+        "B. 70.", 
+        "C. 80."],
+        correctAnswer: "B"
+    },
+    {
+        question: "En un delito de lesiones, si media consentimiento del afectado:",
+        options: ["A. La conducta es atípica.", 
+        "B. La conducta se castiga como un delito de lesiones pero con una pena inferior.", 
+        "C. La conducta se castiga como un delito de lesiones de tipo básico."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Según la clasificación según la página de la Brigada de Investigación Tecnológica de la Policía Nacional Española la copia y distribución no autorizada de programas de ordenador y tenencia de medios para suprimir los dispositivos utilizados para proteger dichos programas está clasificada en la siguiente categoría de delitos informáticos:",
+        options: ["A. Sabotajes informáticos.", 
+        "B. Infracciones a la Propiedad Intelectual a través de la protección de los derechos de autor.", 
+        "C. Delitos relacionados con infracciones de la propiedad intelectual y derechos afines."],
+        correctAnswer: "B"
+    },
+    {
+        question: "En el proceso penal, la renuncia de la persona ofendida no extingue la acción penal, excepto las que nacen de delito o falta perseguibles a instancia de parte y las civiles, en virtud del principio de:",
+        options: ["A. Legalidad.", 
+        "B. Inmutabilidad.", 
+        "C. Oficialidad."],
+        correctAnswer: "B"
+    },
+    {
+        question: "Los tratamientos a los que no sea directamente aplicable el Reglamento (U) 2016/679 por afectar a actividades no comprendidas en el ámbito de aplicación del Derecho de la Unión se regirán por lo dispuesto en:",
+        options: ["A. Su legislación específica si la hubiere y supletoriamente por lo establecido en el citado reglamento y la Ley Orgánica de Protección de datos.", 
+        "B. Lo establecido en el citado reglamento y la Ley Orgánica de Protección de datos y supletoriamente por su  legislación específica si la hubiere.", 
+        "C. La LOPD y supletoriamente por lo establecido en el citado reglamento y el Reglamento General de Protección de datos de la UE.."],
+        correctAnswer: "A"
+    },
+    {
+        question: "En el supuesto de que un país firmante de la Declaración Universal de DDHH no cumpla con ellos, será juzgado por:",
+        options: ["A. El Tribunal Europeo de DDHH.", 
+        "B. El Tribunal Internacional de La Haya.", 
+        "C. No se puede juzgar."],
+        correctAnswer: "C"
+    },
+    {
+        question: "La globalización es criticada por:",
+        options: ["A. Las ideas neoliberales.", 
+        "B. Las dos son correctas.", 
+        "C. Las ideas anarquistas."],
+        correctAnswer: "C"
+    },
+    {
+        question: "El hombre cree ser libre por el solo hecho de ser consciente de lo que hace, es la esencia de:",
+        options: ["A. La teoría existencialista de la libertad.", 
+        "B. La teoría racionalista de la libertad.", 
+        "C. La teoría del ateísmo."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Qué tipo de migraciones da lugar a las ciudades y barrios dormitorio?:",
+        options: ["A. Las migraciones  recurrentes.", 
+        "B. Las migraciones pendulares.", 
+        "C. Las migraciones no recurrentes."],
+        correctAnswer: "A"
+    },
+    {
+        question: "Por delincuencia se entiende:",
+        options: ["A. El conjunto de personas que comente delitos.", 
+        "B. El número total de delitos cometidos en un determinado territorio.", 
+        "C. Los dos conceptos son idénticos."],
+        correctAnswer: "A"
+    },
+    {
+        question: "¿Qué sustancias son consideradas las reinas de las drogas sintéticas?:",
+        options: ["A. Éxtasis.", 
+        "B. Anfetaminas.", 
+        "C. Metanfetaminas."],
+        correctAnswer: "B"
+    },
+    {
+        question: "¿Qué son los “grow ops”?:",
+        options: ["A. Laboratorios clandestinos de sustancias sintéticas.", 
+        "B. Laboratorios clandestinos de marihuana.", 
+        "C. Laboratorios clandestinos de morfina y heroína."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
+    {
+        question: "",
+        options: ["A. .", 
+        "B. .", 
+        "C. ."],
+        correctAnswer: "B"
+    },
 
     /* {
         question: "",
@@ -18113,7 +18315,7 @@ document.addEventListener('DOMContentLoaded', async () => {
 
     // Actualización de la fecha
     const updateDate = document.getElementById('updateDate');
-    const lastUpdated = '21 de diciembre de 2024';
+    const lastUpdated = '04 de enero de 2025';
     updateDate.textContent = lastUpdated;
 
 
